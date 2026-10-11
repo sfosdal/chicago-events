@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#1b2733"/>
+  <!-- the city flag: two light-blue stripes and a red six-pointed star -->
+  <rect x="3" y="4" width="26" height="3" rx="1" fill="#41b6e6"/>
+  <rect x="3" y="25" width="26" height="3" rx="1" fill="#41b6e6"/>
+  <polygon points="16.00,7.40 18.20,12.19 23.45,11.70 20.40,16.00 23.45,20.30 18.20,19.81 16.00,24.60 13.80,19.81 8.55,20.30 11.60,16.00 8.55,11.70 13.80,12.19" fill="#c8102e"/>
+</svg>
