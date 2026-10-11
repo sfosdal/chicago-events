@@ -7,7 +7,7 @@ to Uptown, and Rosemont, Ravinia and Bridgeview — with the home teams' seasons
 (Bears, Cubs, White Sox, Bulls, Blackhawks, Fire, Sky, Stars) in a Teams view.
 
 Live at **https://chicago.here.events/** once the domain is wired (GitHub
-Pages, built by the Actions workflow every ~6 h).
+Pages, built by the Actions workflow once a day at noon Central).
 
 The third city on the lqa-events codebase, after Everett: everything that
 makes this Chicago's is `site/city.js` (every team, venue, type, default,
