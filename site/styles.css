@@ -53,12 +53,10 @@
     color-scheme: dark;
     --sky: #141a20; --mist: #1d252e; --ink: #e8edf1; --ink-soft: #9aa7b2; --ink-bright: #ffffff;
     --line: #333f4a; --gold: #f08a33; --gold-soft: #3a2a1a;
-    --v-uc: #ea8686; --v-soldier: #86a3ea; --v-wrigley: #c0ea86; --v-rate: #ea86dd; --v-wintrust: #86ead9; --v-cu1: #eabc86;
-    --v-pavilion: #9f86ea; --v-navypier: #8aea86; --v-chitheatre: #ea86a7; --v-cadillac: #86c4ea; --v-cibc: #e1ea86; --v-nederlander: #d586ea;
-    --v-shakes: #86eab7; --v-cso: #ea9a86; --v-saltshed: #868eea; --v-aragon: #abea86; --v-riviera: #ea86c8; --v-metro: #86e6ea;
-    --v-hob: #ead086; --v-thalia: #b386ea; --v-vic: #86ea96; --v-radius: #ea8692; --v-concord: #86b0ea; --v-parkwest: #cdea86;
-    --v-lincoln: #e986ea; --v-bottom: #86eacc; --v-ramova: #eaaf86; --v-reggies: #9286ea; --v-chopshop: #97ea86; --v-allstate: #ea86b4;
-    --v-rosemont: #86d1ea; --v-ravinia: #eae586; --v-seatgeek: #c886ea;
+    --v-cornish: #3ecf97; --v-cpa: #4da3f0; --v-tmobile: #8ad8e0; --v-seactr: #6a72e6;
+    --v-lumen: #8b8fe8; --v-husky: #c4a0f0; --v-siff: #b596e0; --v-vera: #a26be6; --v-otb: #e07ae0; --v-mccaw: #d158a7;
+    --v-scc: #7fa7cc; --v-sct: #6cc9db; --v-mopop: #e88ad8; --v-pacsci: #62b8f7; --v-kexp: #b48cf5; --v-goat: #5fb3a1; --v-rep: #f0827a;
+    --v-paramount: #e39a6e; --v-showbox: #e8c45a; --v-sodo: #aab8d6; --v-croc: #7ed67f;
     --venue-text: 100%; --tint: 13%;
     --t-concert: #f0806a; --t-sports: #f2d21b; --t-arts: #d63a4f;
     --t-movie: #8b9db0; --t-community: #e660a8; --t-expo: #4fd1c5; --t-bar: #e3ad3c; --alert: #ff4b3e;
@@ -1597,7 +1595,8 @@ html:not(.teams-open) .team-strip { display: none; }
 .ev .time.t-clock { align-items: stretch; align-self: center; gap: .1rem; padding-top: 0; min-width: 6.4rem; }
 /* the date rail's colours and faces: the digits in the display face and the ink, the PM as the weekday (Steve, 2026-09-15) */
 .t-big { display: block; font: 700 2.05rem/1 var(--display); letter-spacing: -.01em; color: var(--ink); text-align: center; }
-.t-foot { display: block; text-align: center; font: 700 1rem/1 var(--mono); text-transform: uppercase; letter-spacing: .1em; color: var(--ink-soft); } /* clearly bigger and bolder than the rail's weekday — .8rem read as no change (Steve, 2026-09-15) */
+.t-foot { display: block; text-align: center; font: 700 1rem/1 var(--mono); text-transform: uppercase; letter-spacing: .1em; color: var(--ink-soft); }
+.t-foot.t-zone { letter-spacing: .04em; font-size: .82rem; white-space: nowrap; } /* "PM PDT": the viewer's zone after the meridiem when their clock differs from the city's (2026-10-11) */ /* clearly bigger and bolder than the rail's weekday — .8rem read as no change (Steve, 2026-09-15) */
 .ev-foot { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; align-self: stretch; flex-wrap: wrap; }
 .ev-foot .ev-watch { margin-left: auto; text-align: right; }
 .ev-watch-ico { display: inline-block; width: .95rem; height: .95rem; vertical-align: -.22em; margin-right: .3em; color: var(--ink-soft); }
