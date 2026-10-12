@@ -1,3 +1,44 @@
 {
- "events": []
+ "events": [
+  {
+   "venue": "CIBC Theatre",
+   "title": "Operation Mincemeat (Chicago)",
+   "date": "2026-10-11",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/operation-mincemeat-chicago-chicago-illinois-10-11-2026/event/070064A4DCDD6C58",
+   "type": "arts"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "Taste Of Chaos",
+   "date": "2026-10-11",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/taste-of-chaos-chicago-illinois-10-11-2026/event/040064BBEEF29431",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Jordan Jensen",
+   "date": "2026-10-11",
+   "time": "19:00:00",
+   "url": "http://www.victheatre.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "EMEI - Night at the Opera Tour with googly eyes",
+   "date": "2026-10-11",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/emei-night-at-thalia-hall-tickets/14870283",
+   "type": "concert"
+  },
+  {
+   "venue": "Metro",
+   "title": "Butt Toot KING (18 and Over)",
+   "date": "2026-10-11",
+   "time": "20:00:00",
+   "url": "http://metrochicago.com"
+  }
+ ]
 }
