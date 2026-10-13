@@ -39,6 +39,14 @@
    "date": "2026-10-11",
    "time": "20:00:00",
    "url": "http://metrochicago.com"
+  },
+  {
+   "venue": "Metro",
+   "title": "INOHA",
+   "date": "2026-10-12",
+   "time": "18:30:00",
+   "url": "http://metrochicago.com",
+   "type": "concert"
   }
  ]
 }
