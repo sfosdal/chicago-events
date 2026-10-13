@@ -484,6 +484,7 @@
     site: 'https://chicago.here.events/',
     userAgent: 'Mozilla/5.0 (compatible; chicago-events/1.0; +https://chicago.here.events/)',
     tz: 'America/Chicago', tzName: 'Central', // the city's time zone: the ICS feed's TZID, the game clocks, the poster's footer
+    state: "Illinois", stateOutline: 'M5.9 9.7L6.1 9.5L6.2 8.9L6.9 8.4L7.3 7.4L7.2 7.0L6.9 6.5L7.3 5.9L8.3 5.7L9.0 5.2L9.2 4.7L9.5 4.3L9.5 3.7L9.3 3.3L8.8 2.9L8.6 2.5L8.1 2.0L10.7 2.0L13.2 2.0L15.7 2.1L18.2 2.1L18.0 3.4L17.7 4.7L16.9 4.7L16.9 6.9L16.9 9.1L16.9 11.2L16.9 13.4L16.7 13.5L16.7 13.9L16.5 14.1L16.8 14.7L16.9 15.4L16.7 15.9L16.5 16.6L16.2 16.8L15.9 17.3L15.7 17.3L15.6 17.6L15.7 17.8L15.5 18.0L15.6 18.1L15.4 18.3L15.4 18.7L15.3 18.8L15.4 19.2L15.2 19.7L15.0 20.3L14.2 20.7L14.2 21.0L14.3 21.5L13.8 21.6L12.6 21.3L12.3 21.8L12.1 21.8L12.0 21.7L11.9 21.8L12.0 21.9L11.9 21.9L11.6 21.6L11.3 20.9L11.5 20.4L11.3 19.9L11.0 19.3L10.0 18.5L9.5 18.1L8.9 17.4L9.1 16.7L9.6 15.4L9.6 15.3L9.3 15.1L8.6 14.9L8.1 14.8L7.4 13.3L6.1 12.0L5.8 11.3L5.8 10.3Z', // the masthead's small state, linking to here.events (scripts/state-outline.mjs, Natural Earth 1:50m)
     // the calendar feed's header; the UID domain never changes (changing it
     // re-creates every event in subscribers' calendars)
     ics: { name: 'Chicago Events', short: 'Chicago Events', teams: 'Chicago home teams — every season', prodid: '-//here.events//chicago-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
