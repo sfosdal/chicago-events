@@ -47,6 +47,59 @@
    "time": "18:30:00",
    "url": "http://metrochicago.com",
    "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. Pittsburgh Penguins",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-pittsburgh-penguins-chicago-illinois-10-13-2026/event/040064F0903477AF",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CHSN"
+    ]
+   }
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Waitress (Chicago)",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/waitress-chicago-chicago-illinois-10-13-2026/event/070064F88E7329C6",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "Play On!",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "Jessie Ware: The Superbloom Tour",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jessie-ware-the-superbloom-tour-chicago-illinois-10-13-2026/event/04006479C999AD0C",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Rosemont Theatre",
+   "title": "2026 Monsta X World Tour [The X : Nexus] In Rosemont",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/2026-monsta-x-world-tour-the-rosemont-illinois-10-13-2026/event/0400647E8C903FD3",
+   "type": "concert"
   }
  ]
 }
