@@ -100,6 +100,61 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/2026-monsta-x-world-tour-the-rosemont-illinois-10-13-2026/event/0400647E8C903FD3",
    "type": "concert"
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Waitress (Chicago)",
+   "date": "2026-10-14",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/waitress-chicago-chicago-illinois-10-14-2026/event/070064F88E8129E4",
+   "type": "arts"
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Waitress (Chicago)",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/waitress-chicago-chicago-illinois-10-14-2026/event/070064F88E7B29DD",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "Play On!",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Soldier Field",
+   "title": "Chicago Fire FC vs. Philadelphia Union (Beer Stein to 1st 5K)",
+   "date": "2026-10-14",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/chicago-fire-fc-vs-philadelphia-union-chicago-illinois-10-14-2026/event/04006374A7ED6FED",
+   "type": "sports"
+  },
+  {
+   "venue": "Park West",
+   "title": "Michael Franti",
+   "date": "2026-10-14",
+   "time": "19:30:00",
+   "url": "https://fivejax.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "Alvaro Diaz - Omakase Tour",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://www.axs.com/events/1479205/alvaro-diaz-tickets",
+   "type": "concert"
   }
  ]
 }
