@@ -155,6 +155,129 @@
    "time": "20:00:00",
    "url": "https://www.axs.com/events/1479205/alvaro-diaz-tickets",
    "type": "concert"
+  },
+  {
+   "venue": "Rate Field",
+   "title": "ALCS Home Game 1",
+   "date": "2026-10-15",
+   "time": "",
+   "url": "https://www.ticketmaster.com/alcs-home-game-1-chicago-illinois-10-15-2026/event/040064CBF3545896",
+   "type": "sports",
+   "status": "cancelled",
+   "statusSince": "2026-10-13T01:19:14.922Z"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Mar Solis - TU Tutu Tour 2026",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/mar-solis-tu-tutu-tour-2026-chicago-illinois-10-15-2026/event/040064F7B18DBCFE",
+   "age21": true,
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-11T23:32:39.018Z"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. Winnipeg Jets",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-winnipeg-jets-chicago-illinois-10-15-2026/event/040064F0903A77C4",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CHSN"
+    ]
+   }
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Waitress (Chicago)",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/waitress-chicago-chicago-illinois-10-15-2026/event/070064F88E8629F4",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "Play On!",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Mar Solis - Tu Tutu Tour 2026",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/mar-solis-tu-tutu-tour-2026-chicago-illinois-10-15-2026/event/040064F7B18DBCFE",
+   "age21": true,
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-14T19:50:33.856Z"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Robert Plant With Saving Grace and Suzi Dian",
+   "date": "2026-10-15",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/robert-plant-with-saving-grace-and-chicago-illinois-10-15-2026/event/070064C5A3875345",
+   "type": "concert"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Guerrero Leads Fandangos & Enigma Variations",
+   "date": "2026-10-15",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "*Sold Out* Osees ft. Brigid Dawson with Traps PS",
+   "date": "2026-10-15",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/sold-out-osees-ft-brigid-thalia-hall-tickets/14718913",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Dadi Freyr (18+)",
+   "date": "2026-10-15",
+   "time": "19:30:00",
+   "url": "http://www.victheatre.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Doom Yoga",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/doom-yoga-bottom-lounge-tickets/14365954"
+  },
+  {
+   "venue": "Rosemont Theatre",
+   "title": "Camilo",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/camilo-rosemont-illinois-10-15-2026/event/04006330BA022ADA",
+   "type": "concert"
+  },
+  {
+   "venue": "Radius",
+   "title": "Subtronics (18 and Over)",
+   "date": "2026-10-15",
+   "time": "21:00:00",
+   "url": "https://www.radius-chicago.com/",
+   "type": "concert"
   }
  ]
 }
