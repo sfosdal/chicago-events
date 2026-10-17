@@ -278,6 +278,174 @@
    "time": "21:00:00",
    "url": "https://www.radius-chicago.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Rate Field",
+   "title": "ALCS Home Game 2",
+   "date": "2026-10-16",
+   "time": "",
+   "url": "https://www.ticketmaster.com/alcs-home-game-2-chicago-illinois-10-16-2026/event/040064CBF35A58A5",
+   "type": "sports",
+   "status": "cancelled",
+   "statusSince": "2026-10-13T01:19:14.922Z"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Guerrero Leads Fandangos & Enigma Variations",
+   "date": "2026-10-16",
+   "time": "13:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Navy Pier",
+   "title": "Charlotte de Witte at East End at Navy Pier",
+   "date": "2026-10-16",
+   "time": "16:00:00",
+   "url": "https://www.tixr.com/groups/navypiereventcenter/events/charlotte-de-witte-195882",
+   "type": "concert"
+  },
+  {
+   "venue": "Wintrust Arena",
+   "title": "PFL Chicago",
+   "date": "2026-10-16",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/pfl-chicago-chicago-illinois-10-16-2026/event/0700650EBFB97970",
+   "type": "sports"
+  },
+  {
+   "venue": "United Center",
+   "title": "Pre-Season: Chicago Bulls v Minnesota Timberwolves",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/preseason-chicago-bulls-v-minnesota-timberwolves-chicago-illinois-10-16-2026/event/0400650EE8712B75",
+   "type": "sports"
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Waitress (Chicago)",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/waitress-chicago-chicago-illinois-10-16-2026/event/070064F88E8C29FF",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "Play On!",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "Charlotte de Witte",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/charlotte-de-witte-chicago-illinois-10-16-2026/event/0400654F0BCAB0B7",
+   "type": "concert"
+  },
+  {
+   "venue": "Metro",
+   "title": "Medium Build w/ Bella White",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "http://metrochicago.com",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "King's X",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/kings-x-chicago-illinois-10-16-2026/event/04006504BC0F9C3E",
+   "type": "concert"
+  },
+  {
+   "venue": "Credit Union 1 Arena",
+   "title": "Summer Walker",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/summer-walker-chicago-illinois-10-16-2026/event/040064D7A0B27B7F",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Brad Williams: The Tall Tales Tour",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/brad-williams-the-tall-tales-tour-chicago-illinois-10-16-2026/event/0700636BC5067150",
+   "type": "arts"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "*Sold Out* Osees ft. Brigid Dawson with Traps PS",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/sold-out-osees-ft-brigid-thalia-hall-tickets/14718943",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Off Book",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "http://www.victheatre.com"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Josh Teed w/ High Step Society",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ramovatheatre.com/"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Branford Marsalis & Dianne Reeves Celebrate John Coltrane",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Tinashe - One Night With A Popstar",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/tinashe-one-night-with-a-popstar-chicago-illinois-10-16-2026/event/040064F4C56FC327",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Hey, Nothing – The Hound Tour with Crisis Crew",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/hey-nothing-the-hound-bottom-lounge-tickets/14976983",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "*Sold Out* Osees ft. Brigid Dawson with Traps PS",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/sold-out-osees-ft-brigid-thalia-hall-tickets/14718943",
+   "type": "concert"
+  },
+  {
+   "venue": "Radius",
+   "title": "Subtronics (18 and Over)",
+   "date": "2026-10-16",
+   "time": "21:00:00",
+   "url": "https://www.radius-chicago.com/",
+   "type": "concert"
   }
  ]
 }
