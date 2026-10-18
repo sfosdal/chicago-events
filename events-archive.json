@@ -446,6 +446,182 @@
    "time": "21:00:00",
    "url": "https://www.radius-chicago.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Rate Field",
+   "title": "Alcs Home GM3 (If Necessary)",
+   "date": "2026-10-17",
+   "time": "",
+   "url": "https://www.ticketmaster.com/alcs-home-gm3-if-necessary-chicago-illinois-10-17-2026/event/040064CBF36158B1",
+   "type": "sports",
+   "status": "cancelled",
+   "statusSince": "2026-10-13T01:19:14.922Z"
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Waitress (Chicago)",
+   "date": "2026-10-17",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/waitress-chicago-chicago-illinois-10-17-2026/event/070064F88E982A10",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "Play On!",
+   "date": "2026-10-17",
+   "time": "14:00:00",
+   "url": "https://www.chicagoshakes.com/"
+  },
+  {
+   "venue": "Navy Pier",
+   "title": "deadmau5 at Navy Pier Open Air",
+   "date": "2026-10-17",
+   "time": "16:00:00",
+   "url": "https://www.tixr.com/groups/navypiereventcenter/events/deadmau5-195740",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. Dallas Stars",
+   "date": "2026-10-17",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-dallas-stars-chicago-illinois-10-17-2026/event/040064F0903F77D5",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CHSN"
+    ]
+   }
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Knox",
+   "date": "2026-10-17",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/knox-chicago-illinois-10-17-2026/event/040064E7C54FB76A",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Ben Schwartz & Friends",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ben-schwartz-friends-chicago-illinois-10-17-2026/event/07006445AC3D5B1E",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "Play On!",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Catch Your Breath w/ TX2",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "http://www.victheatre.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Chicago Wolves V Iowa Wild",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-wolves-v-iowa-wild-rosemont-illinois-10-17-2026/event/040064EA9ADD8C04",
+   "type": "sports"
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Waitress (Chicago)",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/waitress-chicago-chicago-illinois-10-17-2026/event/070064F88E922A07",
+   "type": "arts"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Guerrero Leads Fandangos & Enigma Variations",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "Suki Waterhouse: The Loveland Tour",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/suki-waterhouse-the-loveland-tour-chicago-illinois-10-17-2026/event/04006498B69AC853",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "PRAYERS  No Tengo Calma Tour 2026",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/prayers-no-tengo-calma-bottom-lounge-tickets/15014093",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-14T17:21:44.808Z"
+  },
+  {
+   "venue": "Wintrust Arena",
+   "title": "Sweetest Day Comedy Jam",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sweetest-day-comedy-jam-chicago-illinois-10-17-2026/event/0700650BADFC43DD",
+   "type": "arts"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Jesse Welles - Presented by XRT",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jesse-welles-presented-by-xrt-chicago-illinois-10-17-2026/event/04006471FF4FB554",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Oso Oso, Leisure Hour, Bad Luck.",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/oso-oso-leisure-hour-bad-reggies-rock-club-tickets/15043713?REFERRAL_ID=tmfeed",
+   "type": "concert"
+  },
+  {
+   "venue": "Rosemont Theatre",
+   "title": "Grupo Duelo - Gravedad Tour 2026",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/grupo-duelo-gravedad-tour-2026-rosemont-illinois-10-17-2026/event/0400645B81274691",
+   "type": "concert"
+  },
+  {
+   "venue": "Metro",
+   "title": "Rocket From The Crypt ??? Scream, Frankenstein, Scream! Tour 2026 - Ages 18+",
+   "date": "2026-10-17",
+   "time": "20:30:00",
+   "url": "http://metrochicago.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Radius",
+   "title": "Subtronics (18 and Over)",
+   "date": "2026-10-17",
+   "time": "21:00:00",
+   "url": "https://www.radius-chicago.com/",
+   "type": "concert"
   }
  ]
 }
