@@ -622,6 +622,127 @@
    "time": "21:00:00",
    "url": "https://www.radius-chicago.com/",
    "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "World Famous Gospel Brunch at House of Blues (CHI)",
+   "date": "2026-10-18",
+   "time": "10:00:00",
+   "url": "https://www.ticketmaster.com/world-famous-gospel-brunch-at-house-chicago-illinois-10-18-2026/event/040064E9C861D9D5",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "World Famous Gospel Brunch at House of Blues (CHI)",
+   "date": "2026-10-18",
+   "time": "12:30:00",
+   "url": "https://www.ticketmaster.com/world-famous-gospel-brunch-at-house-chicago-illinois-10-18-2026/event/040064E9C866D9DC",
+   "type": "concert"
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Waitress (Chicago)",
+   "date": "2026-10-18",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/waitress-chicago-chicago-illinois-10-18-2026/event/070064F88E9E2A18",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "Play On!",
+   "date": "2026-10-18",
+   "time": "14:00:00",
+   "url": "https://www.chicagoshakes.com/"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-18",
+   "time": "14:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Thibaudet, Batiashvili & Capu??on",
+   "date": "2026-10-18",
+   "time": "15:00:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Chicago Wolves V Iowa Wild",
+   "date": "2026-10-18",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/chicago-wolves-v-iowa-wild-rosemont-illinois-10-18-2026/event/040064EA9AE28C0D",
+   "type": "sports"
+  },
+  {
+   "venue": "Navy Pier",
+   "title": "Black Coffee",
+   "date": "2026-10-18",
+   "time": "17:00:00",
+   "url": "https://www.tixr.com/groups/navypiereventcenter/events/black-coffee-207842",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Movements - Happier Now USA Tour",
+   "date": "2026-10-18",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/movements-happier-now-usa-tour-chicago-illinois-10-18-2026/event/040064A7E5646845",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Foos Gone Wild: The Foos Gone Wild Tour 2026",
+   "date": "2026-10-18",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/foos-gone-wild-the-foos-gone-chicago-illinois-10-18-2026/event/040064B3222CFAC2",
+   "type": "arts",
+   "status": "cancelled",
+   "statusSince": "2026-10-11T23:32:39.018Z"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "French Police (18 and Over)",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "https://www.ramovatheatre.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Rapsody (18 and Over)",
+   "date": "2026-10-18",
+   "time": "19:30:00",
+   "url": "https://www.jamusa.com/events",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "John Scofield’s “Electrospective” featuring Oteil Burbridge, Larry Goldings & Adam Deitch",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/john-scofields-electrospective-featuring-oteil-thalia-hall-tickets/14801913",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Chinese Football, Hearthands",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/chinese-football-hearthands-bottom-lounge-tickets/15004503",
+   "type": "concert"
+  },
+  {
+   "venue": "Radius",
+   "title": "Subtronics (18 and Over)",
+   "date": "2026-10-18",
+   "time": "21:00:00",
+   "url": "https://www.radius-chicago.com/",
+   "type": "concert"
   }
  ]
 }
