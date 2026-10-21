@@ -743,6 +743,15 @@
    "time": "21:00:00",
    "url": "https://www.radius-chicago.com/",
    "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "The Black Keys with Eddie 9V: Peaches 'N Kream",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-black-keys-with-eddie-9v-chicago-illinois-10-20-2026/event/04006503F3401026",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
