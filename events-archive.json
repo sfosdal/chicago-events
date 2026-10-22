@@ -752,6 +752,55 @@
    "url": "https://www.ticketmaster.com/the-black-keys-with-eddie-9v-chicago-illinois-10-20-2026/event/04006503F3401026",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Chop Shop",
+   "title": "The Army, The Navy",
+   "date": "2026-10-21",
+   "time": "18:00:00",
+   "url": "https://link.dice.fm/ud0d9216794e",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Pain of Truth, 100 Demons, Killing Pace, Si Dios Quiere",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/pain-of-truth-100-demons-reggies-rock-club-tickets/14381054?REFERRAL_ID=tmfeed",
+   "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worlds-rosemont-illinois-10-21-2026/event/0400646FEBD39230",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "DJ Shadow (18+)",
+   "date": "2026-10-21",
+   "time": "19:30:00",
+   "url": "http://www.victheatre.com",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "The Black Keys with Eddie 9V: Peaches 'N Kream",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-black-keys-with-eddie-9v-chicago-illinois-10-21-2026/event/04006503F2D60F48",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Pain of Truth, 100 Demons, Shattered Realm, Killing Pace",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/pain-of-truth-100-demons-bottom-lounge-tickets/14275104",
+   "type": "concert"
   }
  ]
 }
