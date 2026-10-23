@@ -801,6 +801,93 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/pain-of-truth-100-demons-bottom-lounge-tickets/14275104",
    "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Chicago Real Estate Rumble (21 and Over)",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.parkwestchicago.com/"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Every Avenue x In Her Own Words - Perfectly Unfamiliar Tour",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/every-avenue-x-in-her-bottom-lounge-tickets/14919903",
+   "type": "concert"
+  },
+  {
+   "venue": "Soldier Field",
+   "title": "Chicago Bears vs. New England Patriots",
+   "date": "2026-10-22",
+   "time": "19:15:00",
+   "url": "https://www.ticketmaster.com/chicago-bears-vs-new-england-patriots-chicago-illinois-10-22-2026/event/04006453E3BBB927",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "Prime Video"
+    ]
+   }
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Sleeping Beauty & Dvor??k Cello Concerto",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Metro",
+   "title": "Whitney w/ Greg Mendez",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "http://metrochicago.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Buena Vista Orchestra",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "http://www.victheatre.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Jonas Brothers: The Burning Up Tour All Over Again",
+   "date": "2026-10-22",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jonas-brothers-the-burning-up-tour-rosemont-illinois-10-22-2026/event/0400650E6EDF2A44",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Sylvan Esso with Sen Morimoto presented by Jack Daniel's",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sylvan-esso-with-sen-morimoto-presented-chicago-illinois-10-22-2026/event/0400649CF45E4588",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "*CANCELLED* swedm® (Varg²™ & jamesjamesjames) 'In the Round' with anna luna",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/cancelled-swedm-varg-jamesjamesjames-thalia-hall-tickets/14323664",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-19T22:19:14.536Z"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Isabel LaRosa",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/isabel-larosa-reggies-rock-club-tickets/15017423?REFERRAL_ID=tmfeed",
+   "type": "concert"
   }
  ]
 }
