@@ -888,6 +888,126 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/isabel-larosa-reggies-rock-club-tickets/15017423?REFERRAL_ID=tmfeed",
    "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. Montreal Canadiens",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-montreal-canadiens-chicago-illinois-10-23-2026/event/040064F0904477E7",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NHLN",
+     "CHSN"
+    ]
+   }
+  },
+  {
+   "venue": "Wintrust Arena",
+   "title": "DePaul Blue Demons Mens Basketball vs. Notre Dame Fighting Irish Mens Basketball",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.wintrustarena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Book of Mormon (Chicago)",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-book-of-mormon-chicago-chicago-illinois-10-23-2026/event/070064C57E491EF5",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Rebecca Black - Exhibitionism on Tour",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/rebecca-black-exhibitionism-on-tour-chicago-illinois-10-23-2026/event/040064EFCA86D017",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Randy Feltface",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "http://www.victheatre.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Chop Shop",
+   "title": "This Wild Life",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://link.dice.fm/T6811353e2dc",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Tedeschi Trucks Band: Future Soul 2026 Tour",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-23-2026/event/07006436AB8B6888",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Sammy Rae & The Friends - the Get Down!",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sammy-rae-the-friends-the-get-chicago-illinois-10-23-2026/event/04006477BA496E98",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "*Sold Out* Playgrnd Series Chicago",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/sold-out-playgrnd-series-chicago-thalia-hall-tickets/15004163",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Gilla Band, Piss",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/gilla-band-piss-bottom-lounge-tickets/14718723",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "William Elliott Whitmore, Meg & the Wheelers",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/william-elliott-whitmore-meg-reggies-rock-club-tickets/14903503?REFERRAL_ID=tmfeed",
+   "type": "concert"
+  },
+  {
+   "venue": "Rosemont Theatre",
+   "title": "Menudo 50",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/menudo-50-rosemont-illinois-10-23-2026/event/040064CAA0FCA154",
+   "type": "concert"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "¥ØU$UK ¥UK1MAT$U: Autumn 2026 Tour",
+   "date": "2026-10-23",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/uuk-uk1matu-autumn-2026-tour-chicago-illinois-10-23-2026/event/040064CCC1FACB72",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
