@@ -1008,6 +1008,136 @@
    "url": "https://www.ticketmaster.com/uuk-uk1matu-autumn-2026-tour-chicago-illinois-10-23-2026/event/040064CCC1FACB72",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Book of Mormon (Chicago)",
+   "date": "2026-10-24",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/the-book-of-mormon-chicago-chicago-illinois-10-24-2026/event/070064C57E561F09",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "The Wrecks - Finally : OUTSIDE Tour",
+   "date": "2026-10-24",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/the-wrecks-finally-outside-tour-chicago-illinois-10-24-2026/event/040064D04DFE4FF5",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Bulls vs. Washington Wizards",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-bulls-vs-washington-wizards-chicago-illinois-10-24-2026/event/0400650EE8772B84",
+   "type": "sports"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Chicago Wolves V Milwaukee Admirals",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-wolves-v-milwaukee-admirals-rosemont-illinois-10-24-2026/event/040064EA9AE78C21",
+   "type": "sports"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Tedeschi Trucks Band: Future Soul 2026 Tour",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-24-2026/event/07006436AB9068AC",
+   "type": "concert"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Book of Mormon (Chicago)",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/the-book-of-mormon-chicago-chicago-illinois-10-24-2026/event/070064C57E501F05",
+   "type": "arts"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Sleeping Beauty & Dvor??k Cello Concerto",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Shane Dawson Live!",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "http://www.victheatre.com",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Fruit Bats with Matthew Logan Vasquez",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/fruit-bats-with-matthew-logan-vasquez-chicago-illinois-10-24-2026/event/04006474B2AB731F",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Tank and The Bangas - The Last Balloon Tour with Ariel J. and Zeus",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/tank-and-the-bangas-thalia-hall-tickets/14794233",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Shawn James – Flew Too Close To The Sun Tour",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/shawn-james-flew-too-bottom-lounge-tickets/14206374",
+   "type": "concert"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Mobb Deep x Talib Kweli (18 and Over)",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ramovatheatre.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Rosemont Theatre",
+   "title": "90's Corridos Tour",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/90s-corridos-tour-rosemont-illinois-10-24-2026/event/040064798D073E23",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "CircuitMOM & Uncle Present Haunted Hollywood ft Erik Vilar and Ed Wood",
+   "date": "2026-10-24",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/circuitmom-uncle-present-haunted-hollywood-ft-chicago-illinois-10-24-2026/event/04006515AC86F5B9",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "The Brokes, St. Marlboro",
+   "date": "2026-10-24",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/the-brokes-st-marlboro-reggies-rock-club-tickets/15002613?REFERRAL_ID=tmfeed",
+   "type": "concert"
   }
  ]
 }
