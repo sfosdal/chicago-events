@@ -90,6 +90,7 @@
   var VENUES = {
     // --- Downtown and the stadiums: the city's own big rooms, the Loop theatres, Navy Pier ---
     'United Center': {
+      geo: [41.88124, -87.67427],
       capacity: 23500,
       type: 'concert',
       cssVar: '--v-uc',
@@ -100,6 +101,7 @@
       alias: /united center/i,
     },
     'Soldier Field': {
+      geo: [41.86205, -87.61682],
       capacity: 61500,
       type: 'sports',
       cssVar: '--v-soldier',
@@ -110,6 +112,7 @@
       alias: /soldier field/i,
     },
     'Wrigley Field': {
+      geo: [41.9473, -87.65645],
       capacity: 41649,
       type: 'sports',
       cssVar: '--v-wrigley',
@@ -120,6 +123,7 @@
       alias: /wrigley field/i,
     },
     'Rate Field': {
+      geo: [41.83088, -87.63519],
       capacity: 40615,
       type: 'sports',
       cssVar: '--v-rate',
@@ -130,6 +134,7 @@
       alias: /rate field/i,
     },
     'Wintrust Arena': {
+      geo: [41.85308, -87.62201],
       capacity: 10387,
       type: 'sports',
       cssVar: '--v-wintrust',
@@ -140,6 +145,7 @@
       alias: /wintrust arena/i,
     },
     'Credit Union 1 Arena': {
+      geo: [41.87509, -87.65682],
       capacity: 9500,
       type: 'concert',
       cssVar: '--v-cu1',
@@ -150,6 +156,7 @@
       alias: /credit union 1|uic pavilion/i,
     },
     'Huntington Bank Pavilion': {
+      geo: [41.86426, -87.60884],
       capacity: 30000,
       type: 'concert',
       cssVar: '--v-pavilion',
@@ -160,6 +167,7 @@
       alias: /huntington bank pavilion|northerly island/i,
     },
     'Navy Pier': {
+      geo: [41.89155, -87.60883],
       capacity: 5000,
       type: 'community',
       cssVar: '--v-navypier',
@@ -170,6 +178,7 @@
       alias: /navy pier/i,
     },
     'The Chicago Theatre': {
+      geo: [41.88537, -87.62746],
       capacity: 3600,
       type: 'concert',
       cssVar: '--v-chitheatre',
@@ -180,6 +189,7 @@
       alias: /chicago theatre/i,
     },
     'Cadillac Palace': {
+      geo: [41.88438, -87.63288],
       capacity: 2300,
       type: 'arts',
       cssVar: '--v-cadillac',
@@ -190,6 +200,7 @@
       alias: /cadillac palace/i,
     },
     'CIBC Theatre': {
+      geo: [41.88069, -87.62838],
       capacity: 1800,
       type: 'arts',
       cssVar: '--v-cibc',
@@ -200,6 +211,7 @@
       alias: /cibc theat/i,
     },
     'Nederlander Theatre': {
+      geo: [41.88461, -87.62875],
       capacity: 2250,
       type: 'arts',
       cssVar: '--v-nederlander',
@@ -210,6 +222,7 @@
       alias: /nederlander/i,
     },
     'Chicago Shakespeare': {
+      geo: [41.89144, -87.60575],
       capacity: 850,
       type: 'arts',
       cssVar: '--v-shakes',
@@ -220,6 +233,7 @@
       alias: /chicago shakespeare|the yard at/i,
     },
     'Symphony Center': {
+      geo: [41.87927, -87.62519],
       capacity: 2522,
       type: 'arts',
       cssVar: '--v-cso',
@@ -231,6 +245,7 @@
     },
     // --- Music rooms and the suburbs (`area: 'town'`): the clubs and ballrooms from Pilsen to Uptown, then Rosemont, Ravinia and Bridgeview ---
     'The Salt Shed': {
+      geo: [41.9063, -87.659],
       area: 'town',
       capacity: 3600,
       type: 'concert',
@@ -242,6 +257,7 @@
       alias: /salt shed/i,
     },
     'Aragon Ballroom': {
+      geo: [41.96942, -87.65797],
       area: 'town',
       capacity: 5000,
       type: 'concert',
@@ -253,6 +269,7 @@
       alias: /aragon/i,
     },
     'Riviera Theatre': {
+      geo: [41.96886, -87.6597],
       area: 'town',
       capacity: 2500,
       type: 'concert',
@@ -264,6 +281,7 @@
       alias: /riviera theat/i,
     },
     'Metro': {
+      geo: [41.94992, -87.65896],
       area: 'town',
       capacity: 1100,
       type: 'concert',
@@ -275,6 +293,7 @@
       alias: /^metro(?: chicago)?$/i,
     },
     'House of Blues': {
+      geo: [41.88812, -87.62932],
       area: 'town',
       capacity: 1300,
       type: 'concert',
@@ -286,6 +305,7 @@
       alias: /house of blues/i,
     },
     'Thalia Hall': {
+      geo: [41.85773, -87.65732],
       area: 'town',
       capacity: 800,
       type: 'concert',
@@ -297,6 +317,7 @@
       alias: /thalia hall/i,
     },
     'Vic Theatre': {
+      geo: [41.93954, -87.6538],
       area: 'town',
       capacity: 1400,
       type: 'concert',
@@ -308,6 +329,7 @@
       alias: /\bvic theat/i,
     },
     'Radius': {
+      geo: [41.8466, -87.626],
       area: 'town',
       capacity: 3800,
       type: 'concert',
@@ -319,6 +341,7 @@
       alias: /^radius\b/i,
     },
     'Concord Music Hall': {
+      geo: [41.91871, -87.68989],
       area: 'town',
       capacity: 1500,
       type: 'concert',
@@ -330,6 +353,7 @@
       alias: /concord music hall/i,
     },
     'Park West': {
+      geo: [41.91844, -87.63739],
       area: 'town',
       capacity: 750,
       type: 'concert',
@@ -341,6 +365,7 @@
       alias: /^park west$/i,
     },
     'Lincoln Hall': {
+      geo: [41.926, -87.64963],
       area: 'town',
       capacity: 500,
       type: 'concert',
@@ -352,6 +377,7 @@
       alias: /lincoln hall/i,
     },
     'Bottom Lounge': {
+      geo: [41.88528, -87.66173],
       area: 'town',
       capacity: 700,
       type: 'concert',
@@ -363,6 +389,7 @@
       alias: /bottom lounge/i,
     },
     'Ramova Theatre': {
+      geo: [41.83031, -87.64622],
       area: 'town',
       capacity: 1800,
       type: 'concert',
@@ -374,6 +401,7 @@
       alias: /ramova/i,
     },
     'Reggies': {
+      geo: [41.85399, -87.62706],
       area: 'town',
       capacity: 400,
       type: 'concert',
@@ -385,6 +413,7 @@
       alias: /reggies/i,
     },
     'Chop Shop': {
+      geo: [41.91016, -87.67877],
       area: 'town',
       capacity: 500,
       type: 'concert',
@@ -396,6 +425,7 @@
       alias: /chop shop/i,
     },
     'Allstate Arena': {
+      geo: [42.00499, -87.8875],
       area: 'town',
       capacity: 18500,
       type: 'concert',
@@ -407,6 +437,7 @@
       alias: /allstate arena/i,
     },
     'Rosemont Theatre': {
+      geo: [41.97664, -87.86369],
       area: 'town',
       capacity: 4400,
       type: 'concert',
@@ -418,6 +449,7 @@
       alias: /rosemont theat/i,
     },
     'Ravinia': {
+      geo: [42.15797, -87.77461],
       area: 'town',
       capacity: 18000,
       type: 'concert',
@@ -429,6 +461,7 @@
       alias: /ravinia/i,
     },
     'SeatGeek Stadium': {
+      geo: [41.76502, -87.8008],
       area: 'town',
       capacity: 20000,
       type: 'sports',
@@ -490,6 +523,19 @@
     ics: { name: 'Chicago Events', short: 'Chicago Events', teams: 'Chicago home teams — every season', prodid: '-//here.events//chicago-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around Chicago\\, IL — United Center\\, Soldier Field\\, Wrigley Field\\, the Loop theatres and the music rooms' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [41.706, -87.93, 42.217, -87.563], // south, west, north, east — every room, with a margin
+      home: [41.802, -87.691, 41.976, -87.589], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.8,
+      labels: [
+        { name: 'Chicago', lat: 41.881, lon: -87.632, anchor: 'middle' },
+        { name: 'Rosemont', lat: 41.99413, lon: -87.87567, anchor: 'middle' },
+        { name: 'Highland Park', lat: 42.18367, lon: -87.79932, anchor: 'middle' },
+        { name: 'Bridgeview', lat: 41.75003, lon: -87.80422, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
