@@ -1138,6 +1138,125 @@
    "time": "21:00:00",
    "url": "https://www.ticketweb.com/event/the-brokes-st-marlboro-reggies-rock-club-tickets/15002613?REFERRAL_ID=tmfeed",
    "type": "concert"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Book of Mormon (Chicago)",
+   "date": "2026-10-25",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/the-book-of-mormon-chicago-chicago-illinois-10-25-2026/event/070064C57E611F15",
+   "type": "arts"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. Florida Panthers",
+   "date": "2026-10-25",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-florida-panthers-chicago-illinois-10-25-2026/event/040064F0904977FB",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "SN",
+     "TVAS",
+     "CHSN"
+    ]
+   }
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-25",
+   "time": "14:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Sleeping Beauty & Dvor??k Cello Concerto",
+   "date": "2026-10-25",
+   "time": "15:00:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Not An Event Ticket: Brett Goldstein Personalized Signed Tour Poster",
+   "date": "2026-10-25",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/not-an-event-ticket-brett-goldstein-chicago-illinois-10-25-2026/event/0700651435F6E03A"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Brett Goldstein: Sex, Death & Small Talk",
+   "date": "2026-10-25",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/brett-goldstein-sex-death-small-talk-chicago-illinois-10-25-2026/event/070065130A24A5B7",
+   "type": "arts"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "A Bobby Nsenga Experience Chicago",
+   "date": "2026-10-25",
+   "time": "18:00:00",
+   "url": "https://www.ticketweb.com/event/a-bobby-nsenga-experience-chicago-thalia-hall-tickets/14341524",
+   "type": "concert"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Book of Mormon (Chicago)",
+   "date": "2026-10-25",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/the-book-of-mormon-chicago-chicago-illinois-10-25-2026/event/070064C57E5B1F11",
+   "type": "arts"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Icon For Hire: Scripted 15 Year Anniversary Tour",
+   "date": "2026-10-25",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/icon-for-hire-scripted-15-bottom-lounge-tickets/14170654",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Brett Goldstein: Sex, Death & Small Talk",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/brett-goldstein-sex-death-small-talk-chicago-illinois-10-25-2026/event/0700650EA6B35BAA",
+   "type": "arts"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Not An Event Ticket: Brett Goldstein Personalized Signed Tour Poster",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/not-an-event-ticket-brett-goldstein-chicago-illinois-10-25-2026/event/07006511BA8842E2"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Sleeping With Sirens: An Ending In Itself Tour",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sleeping-with-sirens-an-ending-in-chicago-illinois-10-25-2026/event/040064CBC7A3E2C8",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Streetlight Manifesto: The Presence of the Past Tour",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/streetlight-manifesto-the-presence-of-the-chicago-illinois-10-25-2026/event/04006491BE63A36F",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "The Longest Johns",
+   "date": "2026-10-25",
+   "time": "19:30:00",
+   "url": "http://www.victheatre.com",
+   "type": "concert"
   }
  ]
 }
