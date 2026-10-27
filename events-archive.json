@@ -1257,6 +1257,23 @@
    "time": "19:30:00",
    "url": "http://www.victheatre.com",
    "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "She Wants Revenge",
+   "date": "2026-10-26",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/she-wants-revenge-chicago-illinois-10-26-2026/event/040064A54C73C9A3",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Tedeschi Trucks Band: Future Soul 2026 Tour",
+   "date": "2026-10-26",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-26-2026/event/07006436AB9568B7",
+   "type": "concert"
   }
  ]
 }
