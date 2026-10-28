@@ -1274,6 +1274,82 @@
    "time": "19:30:00",
    "url": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-26-2026/event/07006436AB9568B7",
    "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Chicago Wolves V Manitoba Moose",
+   "date": "2026-10-27",
+   "time": "11:00:00",
+   "url": "https://www.ticketmaster.com/chicago-wolves-v-manitoba-moose-rosemont-illinois-10-27-2026/event/040064EA9AEC8C32",
+   "type": "sports"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. Los Angeles Kings",
+   "date": "2026-10-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-los-angeles-kings-chicago-illinois-10-27-2026/event/040064F0904E7809",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CHSN"
+    ]
+   }
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Book of Mormon (Chicago)",
+   "date": "2026-10-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-book-of-mormon-chicago-chicago-illinois-10-27-2026/event/070064C57E671F1A",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "80 Minutes Around the World",
+   "date": "2026-10-27",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Tedeschi Trucks Band: Future Soul 2026 Tour",
+   "date": "2026-10-27",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chicago-illinois-10-27-2026/event/07006436AB9A68BD",
+   "type": "concert"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "Sienna Spiro",
+   "date": "2026-10-27",
+   "time": "19:30:00",
+   "url": "https://www.jamusa.com/riviera-theatre/",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Joanne McNally",
+   "date": "2026-10-27",
+   "time": "19:30:00",
+   "url": "http://www.victheatre.com"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Dylan Gossett - Live In Concert",
+   "date": "2026-10-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dylan-gossett-live-in-concert-chicago-illinois-10-27-2026/event/040064D2FEEBF787",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "*Sold Out* This Is Lorelei with @",
+   "date": "2026-10-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/sold-out-this-is-lorelei-thalia-hall-tickets/14871043",
+   "type": "concert"
   }
  ]
 }
