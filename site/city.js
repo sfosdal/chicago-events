@@ -109,6 +109,8 @@
       url: 'https://www.soldierfield.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.soldierfield.com&sz=128',
       tm: { id: 'KovZpZAF6tIA', match: 'soldier field', fallbackUrl: 'https://www.soldierfield.com/events', exclude: /parking|stadium tour/i },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.soldierfield.com/events', drop: /parking|\bvs\.?\s/i, // the stadium's own list (Carbonhouse: the first six cards; games come from the Teams schedules, parking is not an event), secondary behind Ticketmaster (2026-10-27)
+        item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<span class="m-date__month">([^<]*)<\/span><span class="m-date__day">([^<]*)<\/span><span class="m-date__year">([^<]*)<\/span>/ },
       alias: /soldier field/i,
     },
     'Wrigley Field': {
@@ -164,6 +166,8 @@
       url: 'https://www.pavilionnortherlyisland.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.pavilionnortherlyisland.com&sz=128',
       tm: { id: 'KovZpZAEA7IA', match: 'huntington bank pavilion', fallbackUrl: 'https://www.pavilionnortherlyisland.com/events' },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.pavilionnortherlyisland.com/events/', // the pavilion's own list (next season's cards: month and day, no year, no clock), secondary behind Ticketmaster (2026-10-27)
+        item: /<div class="card" data-aos/, title: /(?=[\s\S]*?<a href="([^"]+)" class="btn btn-outline")(?=[\s\S]*?<h5 class="title">([^<]*)<)/, when: /<p class="month">([^<]*)<\/p>\s*<p class="day">([^<]*)</ },
       alias: /huntington bank pavilion|northerly island/i,
     },
     'Navy Pier': {
@@ -186,6 +190,8 @@
       url: 'https://www.msg.com/the-chicago-theatre',
       icon: 'https://www.google.com/s2/favicons?domain=www.msg.com&sz=128',
       tm: { id: 'KovZpZA6AJ6A', match: 'the chicago theatre', fallbackUrl: 'https://www.msg.com/the-chicago-theatre', exclude: /tour experience/i },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.msg.com/the-chicago-theatre', // MSG's venue page (its "Upcoming Events" strip, a handful of cards), secondary behind Ticketmaster (2026-10-27)
+        item: /class="VenueEventList_venue-event-item__/, title: /<h3><a class="title-link" href="([^"]+)">([^<]*)</, when: /<h4>([A-Z][a-z]{2}, [A-Z][a-z]{2} \d{1,2}, \d{4})(?:<!-- -->)?(?: - ([^<]*))?<\/h4>/ },
       alias: /chicago theatre/i,
     },
     'Cadillac Palace': {
@@ -277,7 +283,9 @@
       color: '#ea86c8',
       url: 'https://www.rivieratheatre.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.rivieratheatre.com&sz=128',
-      tm: { id: 'KovZpZAan6kA', match: 'riviera', fallbackUrl: 'https://www.rivieratheatre.com/' },
+      tm: { id: 'KovZpZAan6kA', match: 'riviera', fallbackUrl: 'https://www.rivieratheatre.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      feed: { kind: 'cards', url: 'https://www.jamusa.com/venues/riviera-theatre', venues: /riviera/i, // Jam Productions' own listing (Carbonhouse), leading — Ticketmaster secondary (2026-10-27)
+        item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
       alias: /riviera theat/i,
     },
     'Metro': {
@@ -289,7 +297,9 @@
       color: '#86e6ea',
       url: 'https://metrochicago.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=metrochicago.com&sz=128',
-      tm: { id: 'KovZpaoMXe', match: 'metro', fallbackUrl: 'https://metrochicago.com/events/' },
+      tm: { id: 'KovZpaoMXe', match: 'metro', fallbackUrl: 'https://metrochicago.com/events/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      feed: { kind: 'cards', url: 'https://metrochicago.com/events/', venues: /^metro$/i, // the club's own listing (Rockhouse Partners; Smartbar and GMan cards kept out), leading — Ticketmaster secondary (2026-10-27)
+        item: /class = "col-12 eventWrapper rhpSingleEvent/, title: /id = "eventTitle" class="url" href="([^"]+)"[^>]*>\s*<h2[^>]*>([\s\S]*?)<\/h2>/, when: /singleEventDate[^"]*">\s*([^<]*?)\s*<\/div>(?:[\s\S]*?rhp-event__time-text--list">\s*(?:Doors: [^/<]*\/\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="venueLink"[^>]*>([^<]*)</ },
       alias: /^metro(?: chicago)?$/i,
     },
     'House of Blues': {
@@ -302,6 +312,7 @@
       url: 'https://www.houseofblues.com/chicago',
       icon: 'https://www.google.com/s2/favicons?domain=www.houseofblues.com&sz=128',
       tm: { id: 'KovZpZAEAIlA', match: 'house of blues', fallbackUrl: 'https://www.houseofblues.com/chicago' },
+      feed: { kind: 'jsonld', secondary: true, url: 'https://chicago.houseofblues.com/shows', at: /house of blues/i }, // the club's own shows page (schema.org events, restaurant sets included), secondary behind Ticketmaster (2026-10-27)
       alias: /house of blues/i,
     },
     'Thalia Hall': {
@@ -325,7 +336,9 @@
       color: '#86ea96',
       url: 'https://www.victheatre.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.victheatre.com&sz=128',
-      tm: { id: 'KovZpZA17AEA', match: 'vic theatre', fallbackUrl: 'https://www.victheatre.com/' },
+      tm: { id: 'KovZpZA17AEA', match: 'vic theatre', fallbackUrl: 'https://www.victheatre.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      feed: { kind: 'cards', url: 'https://www.jamusa.com/venues/the-vic', venues: /\bvic\b/i, // Jam Productions' own listing (Carbonhouse), leading — Ticketmaster secondary (2026-10-27)
+        item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
       alias: /\bvic theat/i,
     },
     'Radius': {
@@ -349,7 +362,9 @@
       color: '#86b0ea',
       url: 'https://www.concordmusichall.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.concordmusichall.com&sz=128',
-      tm: { id: 'KovZpZAJtF7A', match: 'concord music hall', fallbackUrl: 'https://www.concordmusichall.com/' },
+      tm: { id: 'KovZpZAJtF7A', match: 'concord music hall', fallbackUrl: 'https://www.concordmusichall.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      feed: { kind: 'cards', url: 'https://concordmusichall.com/', // the hall's own calendar (doors clock), leading — Ticketmaster secondary (2026-10-27)
+        item: /<article class="show columns/, title: /<a href="([^"]+)">\s*<div class="inner">[\s\S]*?<h1>([^<]*)/, when: /<p class="doors">Doors @ ([^<]*)<\/p>[\s\S]*?<p class="date">([^<]*)<\/p>|<p class="date">([^<]*)<\/p>/ },
       alias: /concord music hall/i,
     },
     'Park West': {
@@ -361,7 +376,9 @@
       color: '#cdea86',
       url: 'https://www.parkwestchicago.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.parkwestchicago.com&sz=128',
-      tm: { id: 'KovZpZAan6AA', match: 'park west', fallbackUrl: 'https://www.parkwestchicago.com/' },
+      tm: { id: 'KovZpZAan6AA', match: 'park west', fallbackUrl: 'https://www.parkwestchicago.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      feed: { kind: 'cards', url: 'https://www.jamusa.com/venues/park-west', venues: /park west/i, // Jam Productions' own listing (Carbonhouse; AXS is the box office), leading — Ticketmaster secondary (2026-10-27)
+        item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
       alias: /^park west$/i,
     },
     'Lincoln Hall': {
@@ -373,7 +390,9 @@
       color: '#e986ea',
       url: 'https://lh-st.com/',
       icon: 'https://www.google.com/s2/favicons?domain=lh-st.com&sz=128',
-      tm: { id: 'KovZpZAdldtA', match: 'lincoln hall', fallbackUrl: 'https://lh-st.com/' },
+      tm: { id: 'KovZpZAdldtA', match: 'lincoln hall', fallbackUrl: 'https://lh-st.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      feed: { kind: 'cards', url: 'https://lh-st.com/', venues: /^lincoln hall$/i, // the club's own listing (Tessera; Schubas' cards kept out), leading — Ticketmaster secondary (2026-10-27)
+        item: /<div class="card mb-3 h-100 tessera-show-card"/, title: /<a href="([^"]+)">\s*<h4 class="card-title">([^<]*)</, when: /<span class="date">([^<]*)<\/span>(?:[\s\S]*?tessera-showTime">Show <b>([^<]*)<)?/, place: /tessera-venue">[\s\S]*?<\/i>\s*([^<]*?)\s*</ },
       alias: /lincoln hall/i,
     },
     'Bottom Lounge': {
@@ -386,6 +405,8 @@
       url: 'https://bottomlounge.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=bottomlounge.com&sz=128',
       tm: { id: 'KovZpaoyCe', match: 'bottom lounge', fallbackUrl: 'https://bottomlounge.com/events/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://bottomlounge.com/events/', // the club's own listing (TicketWeb links; the date and clock sit in each link's aria-label), secondary behind Ticketmaster (2026-10-27)
+        item: /<li class="event-row">/, title: /<a href="([^"]+)" class="event-row-link"[\s\S]*?<h3>([^<]*)<\/h3>/, when: /aria-label="[^"]*?, [A-Z]{3} ([A-Z]{3} \d{1,2})(?:, (\d{1,2}(?::\d{2})? ?[ap]m))?/ },
       alias: /bottom lounge/i,
     },
     'Ramova Theatre': {
@@ -397,7 +418,9 @@
       color: '#eaaf86',
       url: 'https://www.ramovatheatre.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.ramovatheatre.com&sz=128',
-      tm: { id: 'KovZ917ARPG', match: 'ramova', fallbackUrl: 'https://www.ramovatheatre.com/' },
+      tm: { id: 'KovZ917ARPG', match: 'ramova', fallbackUrl: 'https://www.ramovatheatre.com/', exclude: /vip upgrade|early entry/i, secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      feed: { kind: 'cards', url: 'https://www.ramovachicago.com/', // the theatre's own Webflow calendar (Tixr box office; door clock), leading — Ticketmaster secondary (2026-10-27)
+        item: /role="listitem" class="ca-info w-dyn-item"/, title: /<a href="([^"]+)"[^>]*class="cal-container-2[\s\S]*?class="b-show-2">([^<]*)</, when: /class="b-venue-2 date">([A-Z][a-z]{2} \d{1,2})<(?:[\s\S]*?DOOR time:<\/p><p class="b-venue-2 date">([^<]*)<)?/ },
       alias: /ramova/i,
     },
     'Reggies': {
@@ -410,6 +433,8 @@
       url: 'https://www.reggieslive.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.reggieslive.com&sz=128',
       tm: { id: 'KovZpZAdEl6A', match: 'reggies', fallbackUrl: 'https://www.reggieslive.com/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.reggieslive.com/', // the club's own listing (first page; Rock Club + Music Joint), secondary behind Ticketmaster (2026-10-27)
+        item: /<article id="show-/, title: /<a href="([^"]+)" class="expandshow" title="([^"]+)"/, when: /<time datetime="(\d{4}-\d{2}-\d{2})">(?:[\s\S]*?<li>([^<]*?) Show<\/li>|[\s\S]*?<ul class="details">\s*<li>(\d{1,2}:\d{2} [ap]m)<\/li>)?/ }, // the "7:00 pm Show" clock, else the doors clock when that is all a card prints
       alias: /reggies/i,
     },
     'Chop Shop': {
@@ -434,6 +459,8 @@
       url: 'https://www.allstatearena.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.allstatearena.com&sz=128',
       tm: { id: 'KovZpa2MCe', match: 'allstate arena', fallbackUrl: 'https://www.allstatearena.com/events', exclude: /parking/i },
+      feed: { kind: 'cards', secondary: true, url: 'https://rosemont.com/allstate/', // the village's own page (Breakdance loop, first ten), secondary behind Ticketmaster (2026-10-27)
+        item: /<article class="bde-loop-item ee-post">/, title: /(?=[\s\S]*?href="(https:\/\/rosemont\.com\/allstate\/event\/[^"]+)")(?=[\s\S]*?<h[2-6] class="[^"]*bde-heading[^"]*">(?!\s*\d{1,2}:\d{2} ?[AP]M\s*<)\s*([^<]*?)\s*<\/h[2-6]>)/, when: /bde-code-block[^>]*>\s*([^<]*?)\s*<\/div>(?:[\s\S]*?<h[2-6][^>]*>\s*(\d{1,2}:\d{2} ?[AP]M)\s*<)?/ }, // the date in a code block, then a heading with the clock, then one with the title (h3/h4/h5 by page)
       alias: /allstate arena/i,
     },
     'Rosemont Theatre': {
@@ -446,6 +473,8 @@
       url: 'https://rosemont.com/theatre/',
       icon: 'https://www.google.com/s2/favicons?domain=www.rosemonttheatre.com&sz=128',
       tm: { id: 'KovZpa2BOe', match: 'rosemont theatre', fallbackUrl: 'https://rosemont.com/theatre/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://rosemont.com/theatre/', // the village's own page (Breakdance loop, first ten), secondary behind Ticketmaster (2026-10-27)
+        item: /<article class="bde-loop-item ee-post">/, title: /(?=[\s\S]*?href="(https:\/\/rosemont\.com\/theatre\/event\/[^"]+)")(?=[\s\S]*?<h[2-6] class="[^"]*bde-heading[^"]*">(?!\s*\d{1,2}:\d{2} ?[AP]M\s*<)\s*([^<]*?)\s*<\/h[2-6]>)/, when: /bde-code-block[^>]*>\s*([^<]*?)\s*<\/div>(?:[\s\S]*?<h[2-6][^>]*>\s*(\d{1,2}:\d{2} ?[AP]M)\s*<)?/ }, // the date in a code block, then a heading with the clock, then one with the title (h3/h4/h5 by page)
       alias: /rosemont theat/i,
     },
     'Ravinia': {
@@ -458,6 +487,8 @@
       url: 'https://www.ravinia.org/Calendar',
       icon: 'https://www.google.com/s2/favicons?domain=www.ravinia.org&sz=128',
       tm: { id: 'KovZpZAanvEA', match: 'ravinia', fallbackUrl: 'https://www.ravinia.org/Calendar', exclude: /parking/i },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.ravinia.org/events', // the festival's own list (Carbonhouse; the winter series, no clocks), secondary behind Ticketmaster (2026-10-27)
+        item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<div class="date">\s*([^<]*?)\s*<\/div>/ },
       alias: /ravinia/i,
     },
     'SeatGeek Stadium': {
@@ -470,6 +501,7 @@
       url: 'https://www.seatgeekstadium.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.seatgeekstadium.com&sz=128',
       tm: { id: 'KovZpZA6keJA', match: 'seatgeek', fallbackUrl: 'https://www.seatgeekstadium.com/events', exclude: /parking/i },
+      feed: { kind: 'tribe', secondary: true, url: 'https://www.seatgeekstadium.com/wp-json/tribe/events/v1/events' }, // the stadium's own calendar (The Events Calendar), secondary behind Ticketmaster (2026-10-27)
       alias: /seatgeek stadium|toyota park/i,
     },
   };
