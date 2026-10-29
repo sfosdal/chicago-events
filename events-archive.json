@@ -1350,6 +1350,85 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/sold-out-this-is-lorelei-thalia-hall-tickets/14871043",
    "type": "concert"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Motorcycle Movie Club",
+   "date": "2026-10-28",
+   "time": "17:00",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/motorcycle-movie-club-184190",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Brother John",
+   "date": "2026-10-28",
+   "time": "17:30",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Bulls vs. New York Knicks",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-bulls-vs-new-york-knicks-chicago-illinois-10-28-2026/event/0400650EE87C2BA2",
+   "type": "sports"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "The Parables Tour with Father Mike Schmitz",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-parables-tour-with-father-mike-chicago-illinois-10-28-2026/event/07006506B8C5786B"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Book of Mormon (Chicago)",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-book-of-mormon-chicago-chicago-illinois-10-28-2026/event/070064C57E6C1F20",
+   "type": "arts"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Manifest West",
+   "date": "2026-10-28",
+   "time": "19:30",
+   "url": "https://www.reggieslive.com/show/manifest-west/",
+   "type": "concert"
+  },
+  {
+   "venue": "Soldier Field",
+   "title": "Chicago Fire FC vs. Orlando City SC (Fire Chain to 1st 5K)",
+   "date": "2026-10-28",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/chicago-fire-fc-vs-orlando-city-chicago-illinois-10-28-2026/event/04006374A7E96FEB",
+   "type": "sports"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Shakey Graves w/ Wild Pink",
+   "date": "2026-10-28",
+   "time": "19:30:00",
+   "url": "http://www.victheatre.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "Yana",
+   "date": "2026-10-28",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/10-28-2026-yana/",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Phillip Phillips - Let’s Go Far Tour with Katie Lynne Sharbaugh",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/phillip-phillips-lets-thalia-hall-tickets/14203884",
+   "type": "concert"
   }
  ]
 }
