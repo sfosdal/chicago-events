@@ -109,7 +109,7 @@
       url: 'https://www.soldierfield.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.soldierfield.com&sz=128',
       tm: { id: 'KovZpZAF6tIA', match: 'soldier field', fallbackUrl: 'https://www.soldierfield.com/events', exclude: /parking|stadium tour/i },
-      feed: { kind: 'cards', secondary: true, url: 'https://www.soldierfield.com/events', drop: /parking|\bvs\.?\s/i, // the stadium's own list (Carbonhouse: the first six cards; games come from the Teams schedules, parking is not an event), secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.soldierfield.com/events', drop: /parking|\bvs\.?\s/i, // the stadium's own list (Carbonhouse: the first six cards; games come from the Teams schedules, parking is not an event), secondary behind Ticketmaster (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<span class="m-date__month">([^<]*)<\/span><span class="m-date__day">([^<]*)<\/span><span class="m-date__year">([^<]*)<\/span>/ },
       alias: /soldier field/i,
     },
@@ -166,7 +166,7 @@
       url: 'https://www.pavilionnortherlyisland.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.pavilionnortherlyisland.com&sz=128',
       tm: { id: 'KovZpZAEA7IA', match: 'huntington bank pavilion', fallbackUrl: 'https://www.pavilionnortherlyisland.com/events' },
-      feed: { kind: 'cards', secondary: true, url: 'https://www.pavilionnortherlyisland.com/events/', // the pavilion's own list (next season's cards: month and day, no year, no clock), secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.pavilionnortherlyisland.com/events/', // the pavilion's own list (next season's cards: month and day, no year, no clock), secondary behind Ticketmaster (2026-10-27)
         item: /<div class="card" data-aos/, title: /(?=[\s\S]*?<a href="([^"]+)" class="btn btn-outline")(?=[\s\S]*?<h5 class="title">([^<]*)<)/, when: /<p class="month">([^<]*)<\/p>\s*<p class="day">([^<]*)</ },
       alias: /huntington bank pavilion|northerly island/i,
     },
@@ -284,7 +284,7 @@
       url: 'https://www.rivieratheatre.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.rivieratheatre.com&sz=128',
       tm: { id: 'KovZpZAan6kA', match: 'riviera', fallbackUrl: 'https://www.rivieratheatre.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
-      feed: { kind: 'cards', url: 'https://www.jamusa.com/venues/riviera-theatre', venues: /riviera/i, // Jam Productions' own listing (Carbonhouse), leading — Ticketmaster secondary (2026-10-27)
+      feed: { kind: 'cards', chrome: true, url: 'https://www.jamusa.com/venues/riviera-theatre', venues: /riviera/i, // Jam Productions' own listing (Carbonhouse), leading — Ticketmaster secondary (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
       alias: /riviera theat/i,
     },
@@ -337,7 +337,7 @@
       url: 'https://www.victheatre.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.victheatre.com&sz=128',
       tm: { id: 'KovZpZA17AEA', match: 'vic theatre', fallbackUrl: 'https://www.victheatre.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
-      feed: { kind: 'cards', url: 'https://www.jamusa.com/venues/the-vic', venues: /\bvic\b/i, // Jam Productions' own listing (Carbonhouse), leading — Ticketmaster secondary (2026-10-27)
+      feed: { kind: 'cards', chrome: true, url: 'https://www.jamusa.com/venues/the-vic', venues: /\bvic\b/i, // Jam Productions' own listing (Carbonhouse), leading — Ticketmaster secondary (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
       alias: /\bvic theat/i,
     },
@@ -377,7 +377,7 @@
       url: 'https://www.parkwestchicago.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.parkwestchicago.com&sz=128',
       tm: { id: 'KovZpZAan6AA', match: 'park west', fallbackUrl: 'https://www.parkwestchicago.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
-      feed: { kind: 'cards', url: 'https://www.jamusa.com/venues/park-west', venues: /park west/i, // Jam Productions' own listing (Carbonhouse; AXS is the box office), leading — Ticketmaster secondary (2026-10-27)
+      feed: { kind: 'cards', chrome: true, url: 'https://www.jamusa.com/venues/park-west', venues: /park west/i, // Jam Productions' own listing (Carbonhouse; AXS is the box office), leading — Ticketmaster secondary (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
       alias: /^park west$/i,
     },
@@ -487,7 +487,7 @@
       url: 'https://www.ravinia.org/Calendar',
       icon: 'https://www.google.com/s2/favicons?domain=www.ravinia.org&sz=128',
       tm: { id: 'KovZpZAanvEA', match: 'ravinia', fallbackUrl: 'https://www.ravinia.org/Calendar', exclude: /parking/i },
-      feed: { kind: 'cards', secondary: true, url: 'https://www.ravinia.org/events', // the festival's own list (Carbonhouse; the winter series, no clocks), secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.ravinia.org/events', // the festival's own list (Carbonhouse; the winter series, no clocks), secondary behind Ticketmaster (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<div class="date">\s*([^<]*?)\s*<\/div>/ },
       alias: /ravinia/i,
     },
