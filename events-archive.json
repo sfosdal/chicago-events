@@ -1429,6 +1429,112 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/phillip-phillips-lets-thalia-hall-tickets/14203884",
    "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Esteman & Daniela Spalla - Amorio USA Tour",
+   "date": "2026-10-29",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/esteman-daniela-spalla-amorio-usa-tour-chicago-illinois-10-29-2026/event/0400638AC70C8FD2",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Chicago Comedy Club",
+   "date": "2026-10-29",
+   "time": "18:30",
+   "url": "https://www.ticketmaster.com/chicago-comedy-club-chicago-illinois-10-29-2026/event/04006519D3891351",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "The Parables Tour with Father Mike Schmitz",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-parables-tour-with-father-mike-chicago-illinois-10-29-2026/event/07006506B8CA7870"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Book of Mormon (Chicago)",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-book-of-mormon-chicago-chicago-illinois-10-29-2026/event/070064C57E721F27",
+   "type": "arts"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Gavn!, Tba",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/gavn-tba-reggies-rock-club-tickets/14208404?REFERRAL_ID=tmfeed",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-19T17:21:18.950Z"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Brahms Requiem",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "Dweezil Zappa DZ20: Like Father, Like Son",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.jamusa.com/riviera-theatre/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "A Night with Xscape, Plies, Case, Pleasure P, and Ann Marie",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/a-night-with-xscape-plies-case-chicago-illinois-10-29-2026/event/070064E8F94D4922",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "The Dresden Dolls with Aurora Gozmic",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-dresden-dolls-with-aurora-gozmic-chicago-illinois-10-29-2026/event/040064A8C315EAAF",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "The Tallest Man On Earth with Gwenifer Raymond",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/the-tallest-man-on-earth-thalia-hall-tickets/14940063",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Dammit!, Sour Milk, The Human Trials",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/dammit-sour-milk-the-human-bottom-lounge-tickets/14375804",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Slomosa, Blood Vulture",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/slomosa-blood-vulture-reggies-rock-club-tickets/14407774?REFERRAL_ID=tmfeed",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Nosferatu LIVE (Undead)",
+   "date": "2026-10-29",
+   "time": "21:00",
+   "url": "https://www.reggieslive.com/show/nosferatu-live-undead-2/",
+   "type": "concert"
   }
  ]
 }
