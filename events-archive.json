@@ -1720,6 +1720,233 @@
    "time": "22:00:00",
    "url": "https://www.radius-chicago.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Open Mic Comedy",
+   "date": "2026-10-31",
+   "time": "",
+   "url": "https://www.reggieslive.com/show/open-mic-comedy-242/",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "Mr. Dave Baby Rave",
+   "date": "2026-10-31",
+   "time": "11:00",
+   "url": "https://lh-st.com/shows/10-31-2026-mr-daves-baby-rave/",
+   "type": "concert"
+  },
+  {
+   "venue": "SeatGeek Stadium",
+   "title": "Chicago State University vs. University of Fort Lauderdale",
+   "date": "2026-10-31",
+   "time": "14:00",
+   "url": "https://www.seatgeekstadium.com/events-ticket/chicago-state-cougars-vs-university-of-fort-lauderdale/",
+   "type": "sports"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Book of Mormon (Chicago)",
+   "date": "2026-10-31",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/the-book-of-mormon-chicago-chicago-illinois-10-31-2026/event/070064C57E831F3A",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-31",
+   "time": "14:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Navy Pier",
+   "title": "Dom Dolla",
+   "date": "2026-10-31",
+   "time": "17:00:00",
+   "url": "https://www.tixr.com/groups/navypiereventcenter/events/dom-dolla-194113",
+   "type": "concert"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "Gods of Chaos Halloween",
+   "date": "2026-10-31",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/gods-of-chaos-halloween-chicago-illinois-10-31-2026/event/0400650DC5E4C826",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Witches & Wizards Ball",
+   "date": "2026-10-31",
+   "time": "18:30",
+   "url": "https://www.ticketmaster.com/witches-wizards-ball-chicago-illinois-10-31-2026/event/0400653DB0369DB4",
+   "type": "concert"
+  },
+  {
+   "venue": "Concord Music Hall",
+   "title": "The Damned",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "url": "https://concordmusichall.com/calendar/the-damned-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Freakeasy Halloween: Mecha Black Cat",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "url": "https://www.jamusa.com/events/detail/freak-easy-halloween-1640237",
+   "type": "concert"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-10-31",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Akeem Ali - The Texture Tour",
+   "date": "2026-10-31",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/akeem-ali-the-texture-tour-chicago-illinois-10-31-2026/event/0400647C4F011949",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Sanctum Dark Music Festival",
+   "date": "2026-10-31",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/sanctum-dark-music-festival-thalia-hall-tickets/14250544",
+   "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Chicago Wolves V Texas Stars",
+   "date": "2026-10-31",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-wolves-v-texas-stars-rosemont-illinois-10-31-2026/event/040064EA9AF18C42",
+   "type": "sports"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Allison Russell: In The Hour of Chaos Tour",
+   "date": "2026-10-31",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/allison-russell-1556099",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "Noah Gundersen",
+   "date": "2026-10-31",
+   "time": "19:30",
+   "url": "https://lh-st.com/shows/10-31-2026-noah-gundersen/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "The Rocky Horror Picture Show Original Cast Spooktacular Tour",
+   "date": "2026-10-31",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/the-rocky-horror-picture-show-original-chicago-illinois-10-31-2026/event/0700649C944F310B",
+   "type": "movie"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Book of Mormon (Chicago)",
+   "date": "2026-10-31",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/the-book-of-mormon-chicago-chicago-illinois-10-31-2026/event/070064C57E7C1F33",
+   "type": "arts"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Brahms Requiem",
+   "date": "2026-10-31",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Noskalgia",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/noskalgia/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": " Geese - Getting Killed Again Tour",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/geese-getting-killed-again-tour-chicago-illinois-10-31-2026/event/04006490A0FD6E40",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Lilyisthatyou - The Flowers Have Feelings Tour",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/lilyisthatyou-the-flowers-bottom-lounge-tickets/14862513",
+   "type": "concert"
+  },
+  {
+   "venue": "Rosemont Theatre",
+   "title": "Arcángel - La 8va Maravilla World Tour",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-tour-rosemont-illinois-10-31-2026/event/040064AD908D649F",
+   "type": "concert"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "Y2K: La Era Del Perreo Halloween Edition",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "url": "https://www.jamusa.com/events/detail/y2k-la-era-del-perreo-halloween-edition-1640729",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Graveyard Bash Hosted By: DJ Saggitari",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "url": "https://www.ticketmaster.com/graveyard-bash-hosted-by-dj-saggitari-chicago-illinois-10-31-2026/event/04006537EC176634",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "SWMRS, North By North, Repent",
+   "date": "2026-10-31",
+   "time": "21:00:00",
+   "url": "https://www.ticketweb.com/event/swmrs-north-by-north-repent-reggies-rock-club-tickets/14334684?REFERRAL_ID=tmfeed",
+   "type": "concert"
+  },
+  {
+   "venue": "Metro",
+   "title": "Nocturna: All Hallows’ Eve Ball",
+   "date": "2026-10-31",
+   "time": "22:00",
+   "url": "https://metrochicago.com/event/nocturna-all-hollows-eve-ball/metro-chicago/chicago-illinois/",
+   "type": "concert"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Slavic Halloween House Party",
+   "date": "2026-10-31",
+   "time": "22:00",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/slavic-halloween-house-party-208907",
+   "type": "concert"
   }
  ]
 }
