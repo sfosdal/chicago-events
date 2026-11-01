@@ -1,5 +1,5 @@
 {
-  "_": "How to watch a network from Chicago, for the live game block (app.js renderTeamLive). Keys are regexes matched against ESPN's broadcast names, case-insensitive; first match wins. DirecTV and Dish numbers are the national ones; no Xfinity lineup or over-the-air station numbers yet for Chicago (lqa's scripts/xfinity-lineup.mjs can build one from tvtv.us for a Chicago zip); stream = the services that carry it. A streaming-only service lists just its name; apps = device → the page to install its app from.",
+  "_": "How to watch a network from Chicago, for the live game block (app.js renderTeamLive). Keys are regexes matched against ESPN's broadcast names, case-insensitive; first match wins. DirecTV and Dish numbers are the national ones, except the Chicago locals (WBBM 2, WMAQ 5, WLS 7, WGN 9, WCIU 26, WFLD 32, WCPX 38) and CHSN 665 / Marquee 664, read from tvtv.us's DIRECTV Chicago and DISH Chicago lineups (2026-10-31); xfinity = the 'Xfinity Chicago Areas 1, 4, & 5' lineup (tvtv.us lineup USA-IL54437-X, ZIP 60601, read 2026-10-31 in a browser by the method in lqa's scripts/xfinity-lineup.mjs — the basic number per call sign; this repo has no copy of that script, so the numbers were entered by hand; CHSN 200 and Marquee 202 also match their carriage-deal announcements); ota = the Chicago over-the-air station and channel (tvtv.us 'Local over the air', 60601); stream = the services that carry it. A streaming-only service lists just its name; apps = device → the page to install its app from.",
   "_bars": "bars = the commercial service a venue subscribes to for it: EverPass carries the streaming-only games (Sunday Ticket, the Peacock, Netflix and Prime games, Apple's MLS) to bars and restaurants; it does not carry cable networks like BTN. DAZN agreed to buy it in August 2026. app.js buildStreamList prints it as \"bars: EverPass\" after the ways.",
   "channels": [
     {
@@ -11,7 +11,8 @@
         "Fubo",
         "Sling",
         "Hulu + Live TV"
-      ]
+      ],
+      "xfinity": "30"
     },
     {
       "match": "^ESPNU$",
@@ -21,7 +22,8 @@
         "YouTube TV",
         "Fubo",
         "Sling"
-      ]
+      ],
+      "xfinity": "405"
     },
     {
       "match": "^ESPN\\+$|ESPN Plus",
@@ -30,7 +32,23 @@
       ]
     },
     {
-      "match": "^ESPN(/ESPN App)?$|^ESPN Deportes$",
+      "match": "^ESPN Unl(imited|mtd)$",
+      "stream": [
+        "ESPN Unlimited"
+      ]
+    },
+    {
+      "match": "^ESPN Deportes$",
+      "directv": "466",
+      "dish": "854",
+      "stream": [
+        "Fubo",
+        "Sling"
+      ],
+      "xfinity": "609"
+    },
+    {
+      "match": "^ESPN(/ESPN App)?$",
       "directv": "206",
       "dish": "140",
       "stream": [
@@ -38,20 +56,23 @@
         "Fubo",
         "Sling",
         "Hulu + Live TV"
-      ]
+      ],
+      "xfinity": "3"
     },
     {
-      "match": "^ABC$|KOMO",
-      "directv": "4",
-      "dish": "4",
+      "match": "^ABC(/ESPN App)?$|^WLS|^ABC ?7$",
+      "directv": "7",
+      "dish": "7",
       "stream": [
         "YouTube TV",
         "Fubo",
         "Hulu + Live TV"
-      ]
+      ],
+      "ota": "WLS 7",
+      "xfinity": "7"
     },
     {
-      "match": "^NBC(/Peacock)?$|^KING( 5)?$",
+      "match": "^NBC(/Peacock)?$|^WMAQ|^NBC ?5$",
       "directv": "5",
       "dish": "5",
       "stream": [
@@ -59,45 +80,99 @@
         "YouTube TV",
         "Fubo",
         "Hulu + Live TV"
-      ]
+      ],
+      "ota": "WMAQ 5",
+      "xfinity": "5"
     },
     {
-      "match": "^CBS$|KIRO",
-      "directv": "7",
-      "dish": "7",
+      "match": "^CBS$|^WBBM|^CBS ?2$",
+      "directv": "2",
+      "dish": "2",
       "stream": [
         "Paramount+",
         "YouTube TV",
         "Fubo",
         "Hulu + Live TV"
-      ]
+      ],
+      "ota": "WBBM 2",
+      "xfinity": "2"
     },
     {
-      "match": "^FOX( / FOX ONE)?$|KCPQ",
-      "directv": "13",
-      "dish": "13",
+      "match": "^FOX( / FOX ONE)?$|^FOX ?32$|^WFLD",
+      "directv": "32",
+      "dish": "32",
       "stream": [
         "YouTube TV",
         "Fubo",
         "Hulu + Live TV"
-      ]
+      ],
+      "ota": "WFLD 32",
+      "xfinity": "12"
     },
     {
-      "match": "^KONG",
-      "directv": "16",
-      "dish": "16",
+      "match": "^WGN",
+      "directv": "9",
+      "dish": "9",
+      "ota": "WGN 9",
+      "stream": [],
+      "xfinity": "9"
+    },
+    {
+      "match": "^CW ?26$|^WCIU",
+      "directv": "26",
+      "dish": "26",
+      "ota": "WCIU 26",
+      "stream": [
+        "YouTube TV",
+        "Hulu + Live TV"
+      ],
+      "xfinity": "13"
+    },
+    {
+      "match": "Chicago Sports Network Plus|^CHSN ?(\\+|Plus)$",
+      "directv": "665",
+      "stream": [
+        "Fubo",
+        "DirecTV Stream",
+        "CHSN app"
+      ],
+      "xfinity": "201",
+      "note": "CHSN's overflow channel, when two of its clubs play at once; DirecTV carries it on CHSN's own 665"
+    },
+    {
+      "match": "Chicago Sports Network App|^CHSN App$",
       "stream": []
     },
     {
-      "match": "Kraken Hockey Network|KHN",
-      "directv": "16",
-      "dish": "16",
+      "match": "^Chicago Sports Network$|^CHSN$",
+      "directv": "665",
       "stream": [
-        "Prime Video (Kraken)"
-      ]
+        "Fubo",
+        "DirecTV Stream",
+        "CHSN app"
+      ],
+      "xfinity": "200",
+      "note": "White Sox, Bulls and Blackhawks; Xfinity's Ultimate tier, channel 200 (the June 2025 carriage deal; its SD copy is 37); not on Dish"
     },
     {
-      "match": "^FS1$|Fox Sports 1",
+      "match": "Marquee",
+      "directv": "664",
+      "stream": [
+        "Fubo",
+        "DirecTV Stream",
+        "Hulu + Live TV",
+        "Prime Video",
+        "Marquee app (in-market)"
+      ],
+      "xfinity": "202",
+      "note": "the Cubs; Xfinity 202 (its SD copy is 84); not on Dish"
+    },
+    {
+      "match": "^CWS Video$",
+      "stream": []
+    },
+    {
+      "match": "^FS1( / FOX ONE)?$|Fox Sports 1",
       "directv": "219",
       "dish": "150",
       "stream": [
@@ -105,16 +180,18 @@
         "Fubo",
         "Sling",
         "Hulu + Live TV"
-      ]
+      ],
+      "xfinity": "408"
     },
     {
       "match": "^FS2$|Fox Sports 2",
       "directv": "618",
-      "dish": "397",
+      "dish": "149",
       "stream": [
         "Fubo",
         "Sling"
-      ]
+      ],
+      "xfinity": "409"
     },
     {
       "match": "^BTN$|Big Ten Network",
@@ -126,7 +203,8 @@
         "Fubo",
         "Hulu + Live TV"
       ],
-      "note": "Big Ten Network — most Husky home games; Xfinity number from the King County lineup (call sign BIGTEN)"
+      "note": "Big Ten Network — Northwestern and Illinois games; on the Xfinity Chicago lineup as Big Ten Network Chicago (call sign BIGCHI)",
+      "xfinity": "52"
     },
     {
       "match": "^TNT$|^HBO MAX$|^Max$",
@@ -137,10 +215,11 @@
         "YouTube TV",
         "Sling",
         "Hulu + Live TV"
-      ]
+      ],
+      "xfinity": "32"
     },
     {
-      "match": "^TBS$",
+      "match": "^TBS(/HBO MAX)?( \\(out-of-market only\\))?$",
       "directv": "247",
       "dish": "139",
       "stream": [
@@ -148,7 +227,8 @@
         "YouTube TV",
         "Sling",
         "Hulu + Live TV"
-      ]
+      ],
+      "xfinity": "33"
     },
     {
       "match": "^truTV$",
@@ -158,36 +238,40 @@
         "Max",
         "YouTube TV",
         "Sling"
-      ]
+      ],
+      "xfinity": "165"
     },
     {
-      "match": "NFL Network",
+      "match": "NFL Net(work)?",
       "directv": "212",
       "dish": "154",
       "stream": [
         "YouTube TV",
         "Fubo",
         "Sling"
-      ]
+      ],
+      "xfinity": "168"
     },
     {
-      "match": "MLB Network|^MLBN$",
+      "match": "MLB Network|^MLBN( \\(out-of-market only\\))?$",
       "directv": "213",
       "dish": "152",
       "stream": [
         "YouTube TV",
         "Fubo",
         "Sling"
-      ]
+      ],
+      "xfinity": "410"
     },
     {
-      "match": "NHL Network",
+      "match": "NHL Network|^NHLN$",
       "directv": "215",
       "dish": "157",
       "stream": [
         "Fubo",
         "Sling"
-      ]
+      ],
+      "xfinity": "404"
     },
     {
       "match": "NBA TV",
@@ -197,7 +281,8 @@
         "YouTube TV",
         "Fubo",
         "Sling"
-      ]
+      ],
+      "xfinity": "439"
     },
     {
       "match": "CBS Sports Network|CBSSN",
@@ -207,16 +292,19 @@
         "Paramount+",
         "YouTube TV",
         "Fubo"
-      ]
+      ],
+      "xfinity": "418"
     },
     {
-      "match": "^ION$",
-      "directv": "305",
-      "dish": "250",
+      "match": "^ION$|^WCPX",
+      "directv": "38",
+      "dish": "38",
       "stream": [
         "YouTube TV",
         "Fubo"
-      ]
+      ],
+      "ota": "WCPX 38",
+      "xfinity": "38"
     },
     {
       "match": "^Prime Video$|Amazon",
@@ -237,7 +325,7 @@
       ]
     },
     {
-      "match": "^Peacock$|Peacock/NBCSN|^NBCSN$|NBC Sports Network",
+      "match": "^Peacock$|Peacock ?/ ?NBCSN|^NBCSN$|NBC Sports Network",
       "stream": [
         "Peacock"
       ],
@@ -293,6 +381,10 @@
       ]
     },
     {
+      "match": "^(WNBA|NBA) League Pass$",
+      "stream": []
+    },
+    {
       "match": "^USA Net(work)?$",
       "directv": "242",
       "dish": "105",
@@ -302,7 +394,8 @@
         "Sling",
         "Hulu + Live TV",
         "Peacock"
-      ]
+      ],
+      "xfinity": "39"
     },
     {
       "match": "^CNBC$",
@@ -314,27 +407,8 @@
         "Sling",
         "Hulu + Live TV",
         "Peacock"
-      ]
-    },
-    {
-      "match": "CW Seattle|KUNS",
-      "stream": [
-        "YouTube TV",
-        "Hulu + Live TV"
-      ]
-    },
-    {
-      "match": "FOX 13\\+|KZJO",
-      "stream": [
-        "Victory+",
-        "FOX 13+ app"
-      ]
-    },
-    {
-      "match": "Prime Video-Seattle",
-      "stream": [
-        "Prime Video (Washington)"
-      ]
+      ],
+      "xfinity": "58"
     },
     {
       "match": "^Victory\\+$",
@@ -362,14 +436,15 @@
     },
     {
       "match": "FOX Deportes",
-      "directv": "461",
+      "directv": "465",
       "stream": [
         "Fubo",
         "Sling"
-      ]
+      ],
+      "xfinity": "602"
     },
     {
-      "match": "^SN$|^SN\\+$|^SNW$|^TVAS$|^TVA Sports$|KFAA|^Vegas 34$|^Vegas",
+      "match": "^SN(1|360|W|\\+)?$|^TVAS2?$|^TVA Sports$|KFAA|^Vegas|Spectrum Sports Net",
       "hide": true
     }
   ],
@@ -441,7 +516,11 @@
     "CNBC": "https://www.cnbc.com/live-tv/",
     "FOX Deportes": "https://www.foxdeportes.com/",
     "Prime Video (Washington)": "https://www.amazon.com/gp/video/storefront",
-    "EverPass": "https://everpass.com/"
+    "EverPass": "https://everpass.com/",
+    "Chicago Sports Network": "https://www.chsn.com/",
+    "CHSN": "https://www.chsn.com/",
+    "Marquee": "https://www.marqueesportsnetwork.com/",
+    "WGN": "https://wgntv.com/"
   },
   "_hide": "An entry with hide: true is a feed a Seattle viewer can't use (Canadian regional and national feeds, the other side's stations): the strip leaves it out.",
   "clubs": {
