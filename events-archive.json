@@ -2035,6 +2035,75 @@
    "url": "https://www.ticketmaster.com/geese-getting-killed-again-tour-chicago-illinois-11-01-2026/event/0400649BCC0D98FE",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Credit Union 1 Arena",
+   "title": "UIC Flames Men's Basketball v St. Francis",
+   "date": "2026-11-02",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/uic-flames-mens-basketball-v-st-chicago-illinois-11-02-2026/event/04006545B7F29F63",
+   "type": "sports"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Bears Game Watch Party!",
+   "date": "2026-11-02",
+   "time": "18:00",
+   "url": "https://www.reggieslive.com/show/bears-game-watch-party-4/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Zack’s Open Mic",
+   "date": "2026-11-02",
+   "time": "19:00",
+   "url": "https://www.reggieslive.com/show/zacks-open-mic-37/",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. Colorado Avalanche",
+   "date": "2026-11-02",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-colorado-avalanche-chicago-illinois-11-02-2026/event/040064F09053781C",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CHSN+"
+    ]
+   }
+  },
+  {
+   "venue": "Wintrust Arena",
+   "title": "DePaul Blue Demons Mens Basketball vs. West Georgia Wolves Mens Basketball",
+   "date": "2026-11-02",
+   "time": "19:00:00",
+   "url": "https://www.wintrustarena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "The Hails",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-02-2026-the-hails/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Monday Night Bingo!",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/monday-night-bingo-33/",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "The Blasting Company plays Over The Garden Wall with Patrick McHale & J.R. Kaufman",
+   "date": "2026-11-02",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/the-blasting-company-plays-over-thalia-hall-tickets/14202394",
+   "type": "concert"
   }
  ]
 }
