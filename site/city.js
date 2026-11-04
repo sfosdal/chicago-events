@@ -446,7 +446,8 @@
       color: '#97ea86',
       url: 'https://chopshopchi.com/calendar/',
       icon: 'https://www.google.com/s2/favicons?domain=chopshopchi.com&sz=128',
-      tm: { id: 'KovZ917AQBU', match: 'chop shop', fallbackUrl: 'https://chopshopchi.com/calendar/' },
+      tm: { id: 'KovZ917AQBU', match: 'chop shop', fallbackUrl: 'https://chopshopchi.com/calendar/', secondary: true },
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/2049' }, // the club sells on DICE (its calendar page is DICE's widget): DICE's public venue page leads, Ticketmaster behind (2026-11-03)
       alias: /chop shop/i,
     },
     'Allstate Arena': {
