@@ -23,6 +23,9 @@
   --v-hob: #9e822e; --v-thalia: #612e9e; --v-vic: #2e9e40; --v-radius: #9e2e3c; --v-concord: #2e5d9e; --v-parkwest: #7e9e2e;
   --v-lincoln: #9e2e9e; --v-bottom: #2e9e7d; --v-ramova: #9e5c2e; --v-reggies: #3c2e9e; --v-chopshop: #419e2e; --v-allstate: #9e2e62;
   --v-rosemont: #2e829e; --v-ravinia: #9e992e; --v-seatgeek: #782e9e;
+  --v-cobralounge: #2e9e53; --v-sleepingvillag: #26827c; --v-colorclub: #ba369b; --v-checkout: #9e392e; --v-burlington: #824226; --v-epiphanycenter: #36ba85; /* the DICE venues (2026-11-03) */
+  --v-lemon: #629e2e; --v-spybar: #3f8226; --v-smokemirrors: #ba3655; --v-judsonmooredis: #9e752e; --v-hideaway: #827326; --v-868: #36ba3f;
+  --v-livewirelounge: #2e8f9e; --v-furamarestaura: #5a2682; --v-chicagocounter: #ba3681; --v-bourbonondivis: #932e9e; --v-beatkitchen: #708226; --v-ambassadorhote: #3650ba;
   --venue-text: 72%;     /* how much of the venue hue the card's venue label keeps (light mode) */
   --tint: 26%;           /* the venue wash behind a series card (light mode; 13% in the dark palette) */
   --row-a: #f3f6f8; --row-b: #d6dde3; /* the list's rows alternate light and dark grey; only a series keeps its venue's hue (Steve, 2026-10-20) */
@@ -66,6 +69,9 @@
     --v-hob: #ead086; --v-thalia: #b386ea; --v-vic: #86ea96; --v-radius: #ea8692; --v-concord: #86b0ea; --v-parkwest: #cdea86;
     --v-lincoln: #e986ea; --v-bottom: #86eacc; --v-ramova: #eaaf86; --v-reggies: #9286ea; --v-chopshop: #97ea86; --v-allstate: #ea86b4;
     --v-rosemont: #86d1ea; --v-ravinia: #eae586; --v-seatgeek: #c886ea;
+    --v-cobralounge: #86eaa7; --v-sleepingvillag: #a8f0eb; --v-colorclub: #e363c5; --v-checkout: #ea9086; --v-burlington: #f0bea8; --v-epiphanycenter: #63e3b0; /* the DICE venues (2026-11-03) */
+    --v-lemon: #b4ea86; --v-spybar: #bbf0a8; --v-smokemirrors: #e36381; --v-judsonmooredis: #eac586; --v-hideaway: #f0e4a8; --v-868: #63e36c;
+    --v-livewirelounge: #86dcea; --v-furamarestaura: #d1a8f0; --v-chicagocounter: #e363ac; --v-bourbonondivis: #e086ea; --v-beatkitchen: #e1f0a8; --v-ambassadorhote: #637de3;
     --venue-text: 100%; --tint: 13%;
     --row-a: #1e252c; --row-b: #2c343c;
     --t-concert: #f0806a; --t-sports: #f2d21b; --t-arts: #d63a4f;
@@ -87,6 +93,9 @@
   --v-hob: #ead086; --v-thalia: #b386ea; --v-vic: #86ea96; --v-radius: #ea8692; --v-concord: #86b0ea; --v-parkwest: #cdea86;
   --v-lincoln: #e986ea; --v-bottom: #86eacc; --v-ramova: #eaaf86; --v-reggies: #9286ea; --v-chopshop: #97ea86; --v-allstate: #ea86b4;
   --v-rosemont: #86d1ea; --v-ravinia: #eae586; --v-seatgeek: #c886ea;
+  --v-cobralounge: #86eaa7; --v-sleepingvillag: #a8f0eb; --v-colorclub: #e363c5; --v-checkout: #ea9086; --v-burlington: #f0bea8; --v-epiphanycenter: #63e3b0; /* the DICE venues (2026-11-03) */
+  --v-lemon: #b4ea86; --v-spybar: #bbf0a8; --v-smokemirrors: #e36381; --v-judsonmooredis: #eac586; --v-hideaway: #f0e4a8; --v-868: #63e36c;
+  --v-livewirelounge: #86dcea; --v-furamarestaura: #d1a8f0; --v-chicagocounter: #e363ac; --v-bourbonondivis: #e086ea; --v-beatkitchen: #e1f0a8; --v-ambassadorhote: #637de3;
   --venue-text: 100%; --tint: 13%;
   --row-a: #1e252c; --row-b: #2c343c;
   --t-concert: #f0806a; --t-sports: #f2d21b; --t-arts: #d63a4f;
