@@ -2104,6 +2104,55 @@
    "time": "20:00:00",
    "url": "https://www.ticketweb.com/event/the-blasting-company-plays-over-thalia-hall-tickets/14202394",
    "type": "concert"
+  },
+  {
+   "venue": "Concord Music Hall",
+   "title": "Arch Enemy + The Black Dahlia Murder",
+   "date": "2026-11-03",
+   "time": "17:00",
+   "url": "https://concordmusichall.com/calendar/arch-enemy-the-black-dahlia-murder/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "South Loop Stand Up",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "url": "https://www.reggieslive.com/show/south-loop-stand-up-42/",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "King of Drag: The Royal Tour",
+   "date": "2026-11-03",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/king-of-drag-the-royal-bottom-lounge-tickets/15018433",
+   "status": "cancelled",
+   "statusSince": "2026-10-11T23:32:39.018Z"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "The Blasting Company plays Over The Garden Wall",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/the-blasting-company-1518061",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Best Friends Podcast",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/best-friends-podcast-thalia-hall-tickets/14953743",
+   "type": "arts"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Tipsy Tuesday w/ Mr. Blotto",
+   "date": "2026-11-03",
+   "time": "20:30",
+   "url": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-209/",
+   "type": "concert"
   }
  ]
 }
