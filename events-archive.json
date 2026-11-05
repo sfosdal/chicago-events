@@ -2153,6 +2153,115 @@
    "time": "20:30",
    "url": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-209/",
    "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Todd Beebe",
+   "date": "2026-11-04",
+   "time": "17:30",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Concord Music Hall",
+   "title": "George Clanton",
+   "date": "2026-11-04",
+   "time": "18:30",
+   "url": "https://concordmusichall.com/calendar/george-clanton/",
+   "type": "concert"
+  },
+  {
+   "venue": "Metro",
+   "title": "Since Forever",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "url": "https://metrochicago.com/event/since-forever/metro-chicago/chicago-illinois/",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "High Plains Ripper / Rareforms / Autoflamingo",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ae0b9bee10b5d0001cf4068",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Sewing Freak",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ae0d01672cf840001676ff8",
+   "end": "20:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "FLAMENCODANZA",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a6ba8fb7908210001cee695",
+   "end": "20:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
+   "date": "2026-11-04",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/scott-bradlees-postmodern-jukebox-the-future-is-vintage-world-tour-1426081",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Eivør",
+   "date": "2026-11-04",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/eivr-1425637",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Blade Runner in Concert",
+   "date": "2026-11-04",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/blade-runner-in-concert-chicago-illinois-11-04-2026/event/0700647BB6E2607D",
+   "type": "arts",
+   "status": "cancelled",
+   "statusSince": "2026-10-11T23:32:39.018Z"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Boynextdoor Tour 'Knock On Vol.2' In North America",
+   "date": "2026-11-04",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/boynextdoor-tour-knock-on-vol2-in-chicago-illinois-11-04-2026/event/040064D0B6018B2C",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Boston Manor, Spaced, Ben Quad",
+   "date": "2026-11-04",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/boston-manor-spaced-ben-quad-bottom-lounge-tickets/14940263",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "She's Green",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-04-2026-shes-green/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Ho99o9, N8 Noface, Slay Squad",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/ho99o9-n8-noface-slay-squad-reggies-rock-club-tickets/14226914?REFERRAL_ID=tmfeed",
+   "type": "concert"
   }
  ]
 }
