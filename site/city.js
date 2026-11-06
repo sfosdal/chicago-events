@@ -152,9 +152,9 @@
       type: 'concert',
       cssVar: '--v-cu1',
       color: '#eabc86',
-      url: 'https://www.cu1arena.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.cu1arena.com&sz=128',
-      tm: { id: 'KovZpa2Bpe', match: 'credit union 1', fallbackUrl: 'https://www.cu1arena.com/events' },
+      url: 'https://www.creditunion1arena.com/events/',
+      icon: 'https://www.google.com/s2/favicons?domain=www.creditunion1arena.com&sz=128',
+      tm: { id: 'KovZpa2Bpe', match: 'credit union 1', fallbackUrl: 'https://www.creditunion1arena.com/events/' },
       alias: /credit union 1|uic pavilion/i,
     },
     'Huntington Bank Pavilion': {
@@ -269,9 +269,9 @@
       type: 'concert',
       cssVar: '--v-aragon',
       color: '#abea86',
-      url: 'https://www.aragonballroom.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.aragonballroom.com&sz=128',
-      tm: { id: 'KovZpZAFdJnA', match: 'aragon', fallbackUrl: 'https://www.aragonballroom.com/' },
+      url: 'https://www.aragonballroomchicago.com/shows',
+      icon: 'https://www.google.com/s2/favicons?domain=www.aragonballroomchicago.com&sz=128',
+      tm: { id: 'KovZpZAFdJnA', match: 'aragon', fallbackUrl: 'https://www.aragonballroomchicago.com/shows' },
       alias: /aragon/i,
     },
     'Riviera Theatre': {
@@ -281,9 +281,9 @@
       type: 'concert',
       cssVar: '--v-riviera',
       color: '#ea86c8',
-      url: 'https://www.rivieratheatre.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.rivieratheatre.com&sz=128',
-      tm: { id: 'KovZpZAan6kA', match: 'riviera', fallbackUrl: 'https://www.rivieratheatre.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      url: 'https://www.jamusa.com/riviera-theatre',
+      icon: 'https://www.google.com/s2/favicons?domain=www.jamusa.com&sz=128',
+      tm: { id: 'KovZpZAan6kA', match: 'riviera', fallbackUrl: 'https://www.jamusa.com/riviera-theatre', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', chrome: true, url: 'https://www.jamusa.com/venues/riviera-theatre', venues: /riviera/i, // Jam Productions' own listing (Carbonhouse), leading — Ticketmaster secondary (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
       alias: /riviera theat/i,
@@ -334,9 +334,9 @@
       type: 'concert',
       cssVar: '--v-vic',
       color: '#86ea96',
-      url: 'https://www.victheatre.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.victheatre.com&sz=128',
-      tm: { id: 'KovZpZA17AEA', match: 'vic theatre', fallbackUrl: 'https://www.victheatre.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      url: 'https://www.jamusa.com/the-vic',
+      icon: 'https://www.google.com/s2/favicons?domain=www.jamusa.com&sz=128',
+      tm: { id: 'KovZpZA17AEA', match: 'vic theatre', fallbackUrl: 'https://www.jamusa.com/the-vic', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', chrome: true, url: 'https://www.jamusa.com/venues/the-vic', venues: /\bvic\b/i, // Jam Productions' own listing (Carbonhouse), leading — Ticketmaster secondary (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
       alias: /\bvic theat/i,
@@ -374,9 +374,9 @@
       type: 'concert',
       cssVar: '--v-parkwest',
       color: '#cdea86',
-      url: 'https://www.parkwestchicago.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.parkwestchicago.com&sz=128',
-      tm: { id: 'KovZpZAan6AA', match: 'park west', fallbackUrl: 'https://www.parkwestchicago.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      url: 'https://www.jamusa.com/park-west',
+      icon: 'https://www.google.com/s2/favicons?domain=www.jamusa.com&sz=128',
+      tm: { id: 'KovZpZAan6AA', match: 'park west', fallbackUrl: 'https://www.jamusa.com/park-west', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', chrome: true, url: 'https://www.jamusa.com/venues/park-west', venues: /park west/i, // Jam Productions' own listing (Carbonhouse; AXS is the box office), leading — Ticketmaster secondary (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
       alias: /^park west$/i,
@@ -416,9 +416,9 @@
       type: 'concert',
       cssVar: '--v-ramova',
       color: '#eaaf86',
-      url: 'https://www.ramovatheatre.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.ramovatheatre.com&sz=128',
-      tm: { id: 'KovZ917ARPG', match: 'ramova', fallbackUrl: 'https://www.ramovatheatre.com/', exclude: /vip upgrade|early entry/i, secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
+      url: 'https://ramovachicago.com/calendar',
+      icon: 'https://www.google.com/s2/favicons?domain=ramovachicago.com&sz=128',
+      tm: { id: 'KovZ917ARPG', match: 'ramova', fallbackUrl: 'https://ramovachicago.com/calendar', exclude: /vip upgrade|early entry/i, secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', url: 'https://www.ramovachicago.com/', // the theatre's own Webflow calendar (Tixr box office; door clock), leading — Ticketmaster secondary (2026-10-27)
         item: /role="listitem" class="ca-info w-dyn-item"/, title: /<a href="([^"]+)"[^>]*class="cal-container-2[\s\S]*?class="b-show-2">([^<]*)</, when: /class="b-venue-2 date">([A-Z][a-z]{2} \d{1,2})<(?:[\s\S]*?DOOR time:<\/p><p class="b-venue-2 date">([^<]*)<)?/ },
       alias: /ramova/i,
@@ -522,8 +522,8 @@
       type: 'concert',
       cssVar: '--v-sleepingvillag',
       color: '#a8f0eb',
-      url: 'https://www.sleeping-village.com',
-      icon: 'https://www.google.com/s2/favicons?domain=www.sleeping-village.com&sz=128',
+      url: 'https://sleeping-village.com/events/',
+      icon: 'https://www.google.com/s2/favicons?domain=sleeping-village.com&sz=128',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/2010' },
     },
     'Color Club': { // on DICE (4146 North Elston Avenue, Chicago, Illinois 60618); its DICE venue page is the listing (2026-11-03)
@@ -645,8 +645,6 @@
       type: 'concert',
       cssVar: '--v-furamarestaura',
       color: '#d1a8f0',
-      url: 'https://www.furamachicago.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.furamachicago.com&sz=128',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/9767' },
     },
     'Chicago Counterfit': { // on DICE (1333 West 18th Street, Chicago, Illinois 60608); its DICE venue page is the listing (2026-11-03)
@@ -665,7 +663,7 @@
       type: 'concert',
       cssVar: '--v-bourbonondivis',
       color: '#e086ea',
-      url: 'https://bourbonondivision.com/',
+      url: 'https://bourbonondivision.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=bourbonondivision.com&sz=128',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/12010' },
     },
