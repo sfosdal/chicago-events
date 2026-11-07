@@ -66,7 +66,7 @@
     // NWSL; the Red Stars until the 2025 rename (the title match keeps both)
     { slug: 'stars', label: 'Stars', re: /chicago stars|red stars/i, sport: 'soccer', venue: 'SeatGeek Stadium', colors: ['#41b6e6', '#c8102e'],
       espn: { sport: 'soccer', league: 'usa.nwsl', id: '15360' }, season: { kind: 'espn' }, form: { kind: 'espn' },
-      logo: 'https://a.espncdn.com/i/teamlogos/soccer/500/15360.png', schedule: 'https://www.chicagostarsfc.com/schedule/',
+      logo: 'https://a.espncdn.com/i/teamlogos/soccer/500/15360.png', schedule: 'https://chicagostars.com/schedule/',
       club: 'Chicago Stars FC', opens: 'March', wiki: { title: 'Chicago Stars FC' } },
   ];
 
