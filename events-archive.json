@@ -2480,6 +2480,298 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6aea291d8723ec0001983e38",
    "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
+   "date": "2026-11-06",
+   "time": "10:30:00",
+   "url": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-with-rosemont-illinois-11-06-2026/event/04006433978840D3",
+   "type": "arts"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Beethoven 5 & Mao Fujita",
+   "date": "2026-11-06",
+   "time": "13:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Golden Hour Featuring MJAM & Not Your Nani",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "url": "https://dice.fm/event/6ac82444c2c5950001f9882a",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Tom Holland",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Basement",
+   "date": "2026-11-06",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/basement-chicago-illinois-11-06-2026/event/0400649DDEDE837A",
+   "type": "concert"
+  },
+  {
+   "venue": "Chicago Counterfit",
+   "title": "cf house party",
+   "date": "2026-11-06",
+   "time": "18:15",
+   "url": "https://dice.fm/event/6aea3b755c15a4000184022f",
+   "end": "22:45",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "SiriusXM Octane Presents: Ninth Key / Away / East Moon",
+   "date": "2026-11-06",
+   "time": "18:30",
+   "url": "https://dice.fm/event/6a7258f3c0f4f400019ecc54",
+   "end": "22:30",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Rachel Scanlon",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "url": "https://www.jamusa.com/events/detail/rachel-scanlon-1477911",
+   "type": "concert"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Camylio",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/camylio-192755",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "Ru Anderson live in Chicago",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6acd7824d5c4bd000111c7aa",
+   "end": "23:00",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Credit Union 1 Arena",
+   "title": "UIC Flames Men's Basketball v Robert Morris",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/uic-flames-mens-basketball-v-robert-chicago-illinois-11-06-2026/event/04006545B7F89F6C",
+   "type": "sports"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Bert Kreischer: Permission To Party",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/bert-kreischer-permission-to-party-chicago-illinois-11-06-2026/event/0700647FBB075CC2",
+   "type": "arts"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
+   "date": "2026-11-06",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-with-rosemont-illinois-11-06-2026/event/04006433978E40D7",
+   "type": "arts"
+  },
+  {
+   "venue": "Metro",
+   "title": "SLEEP",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "url": "https://metrochicago.com/event/sleep/metro-chicago/chicago-illinois/",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Justin Silva",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/justin-silva-1476256",
+   "type": "concert"
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "Tango with Winnie Quintet",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6a95d6479b7f7d00018c5ec7",
+   "end": "20:40",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Phoebe Robinson: Feral & Fired Up! with Janice Rodriguez",
+   "date": "2026-11-06",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/phoebe-robinson-feral-fired-thalia-hall-tickets/14768143"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "  Weatherday , Sports., Rosacade, Cable-Knit",
+   "date": "2026-11-06",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/-weatherday-sports-bottom-lounge-tickets/14839013",
+   "type": "concert"
+  },
+  {
+   "venue": "Concord Music Hall",
+   "title": "Jai Wolf",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://concordmusichall.com/calendar/jai-wolf-10-year-anniversary-tour/",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "The Bends",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-06-2026-the-bends/",
+   "type": "concert"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "You Just Had To Be There",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/you-just-had-to-be-there-201390",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "TSA: The Musical!",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a8634d0324bca0001c7ca3d",
+   "end": "22:30",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Spiderbaby // The Publik // Laikaa // Inline 9",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6aa36721f3f3980001a652f8",
+   "type": "concert"
+  },
+  {
+   "venue": "Judson & Moore Distillery",
+   "title": "Brody Price, Sarah Weddle, Orillia",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a9994627ff33d00018d6ccb",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Dreamgirls",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a077fed60e1e1000119d311",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Swerv & Friends Part 2",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/swerv-friends-part-2-chicago-illinois-11-06-2026/event/04006535E5572951",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Little Image: Fall 2026 Tour",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/little-image-fall-2026-tour-reggies-rock-club-tickets/14319964?REFERRAL_ID=tmfeed",
+   "type": "concert"
+  },
+  {
+   "venue": "Rosemont Theatre",
+   "title": "Pedro Fernández - Ave Fénix Two'r",
+   "date": "2026-11-06",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/pedro-fernandez-ave-fenix-twor-rosemont-illinois-11-06-2026/event/040065059B3E74B8",
+   "type": "concert"
+  },
+  {
+   "venue": "Lemon",
+   "title": "Aaron KAUFMAN-LEVINE Quartet",
+   "date": "2026-11-06",
+   "time": "20:30",
+   "url": "https://dice.fm/event/6ae9166e346df800011097cd",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Chop Shop",
+   "title": "@Nickcheo the *Tour* the *Movie*",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6a8df9f43a999c0001496422",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Luke Pytel Band",
+   "date": "2026-11-06",
+   "time": "21:00",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "Ru Anderson live in Chicago [9:30 PM]",
+   "date": "2026-11-06",
+   "time": "21:30",
+   "url": "https://dice.fm/event/6ad64001fa2b1b0001c9a08a",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Spybar",
+   "title": "SpyLounge Friday ft. POPS + Friends",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6adf9e07862b6a00014fab8a",
+   "type": "concert"
+  },
+  {
+   "venue": "Smoke & Mirrors",
+   "title": "Trancemaster Krause",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ac872ef051f1400013da4b3",
+   "type": "concert"
+  },
+  {
+   "venue": "Hideaway",
+   "title": "Sommer Ray",
+   "date": "2026-11-06",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ac07f5af2b2bf000115d0e2",
+   "type": "concert"
   }
  ]
 }
