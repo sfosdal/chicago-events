@@ -96,7 +96,7 @@
       cssVar: '--v-uc',
       color: '#ea8686',
       url: 'https://www.unitedcenter.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.unitedcenter.com&sz=128',
+      icon: 'marks/venues/unitedcenter.com.png',
       tm: { id: 'KovZpa2M7e', match: 'united center', fallbackUrl: 'https://www.unitedcenter.com/events/', exclude: /parking|tour/i },
       alias: /united center/i,
     },
@@ -107,7 +107,7 @@
       cssVar: '--v-soldier',
       color: '#86a3ea',
       url: 'https://www.soldierfield.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.soldierfield.com&sz=128',
+      icon: 'marks/venues/soldierfield.com.png',
       tm: { id: 'KovZpZAF6tIA', match: 'soldier field', fallbackUrl: 'https://www.soldierfield.com/events', exclude: /parking|stadium tour/i },
       feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.soldierfield.com/events', drop: /parking|\bvs\.?\s/i, // the stadium's own list (Carbonhouse: the first six cards; games come from the Teams schedules, parking is not an event), secondary behind Ticketmaster (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<span class="m-date__month">([^<]*)<\/span><span class="m-date__day">([^<]*)<\/span><span class="m-date__year">([^<]*)<\/span>/ },
@@ -120,7 +120,7 @@
       cssVar: '--v-wrigley',
       color: '#c0ea86',
       url: 'https://www.mlb.com/cubs/schedule',
-      icon: 'https://www.google.com/s2/favicons?domain=www.mlb.com&sz=128',
+      icon: 'marks/venues/mlb.com.png',
       tm: { id: 'KovZpZAFlktA', match: 'wrigley field', fallbackUrl: 'https://www.mlb.com/cubs/schedule', exclude: /parking|rooftop/i },
       alias: /wrigley field/i,
     },
@@ -131,7 +131,7 @@
       cssVar: '--v-rate',
       color: '#ea86dd',
       url: 'https://www.mlb.com/whitesox/schedule',
-      icon: 'https://www.google.com/s2/favicons?domain=www.mlb.com&sz=128',
+      icon: 'marks/venues/mlb.com.png',
       tm: { id: 'KovZpaFPJe', match: 'rate field', fallbackUrl: 'https://www.mlb.com/whitesox/schedule', exclude: /parking/i },
       alias: /rate field/i,
     },
@@ -142,7 +142,7 @@
       cssVar: '--v-wintrust',
       color: '#86ead9',
       url: 'https://www.wintrustarena.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.wintrustarena.com&sz=128',
+      icon: 'marks/venues/wintrustarena.com.png',
       tm: { id: 'KovZ917A2S0', match: 'wintrust arena', fallbackUrl: 'https://www.wintrustarena.com/events' },
       alias: /wintrust arena/i,
     },
@@ -153,7 +153,7 @@
       cssVar: '--v-cu1',
       color: '#eabc86',
       url: 'https://www.creditunion1arena.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.creditunion1arena.com&sz=128',
+      icon: 'marks/venues/creditunion1arena.com.png',
       tm: { id: 'KovZpa2Bpe', match: 'credit union 1', fallbackUrl: 'https://www.creditunion1arena.com/events/' },
       alias: /credit union 1|uic pavilion/i,
     },
@@ -164,7 +164,7 @@
       cssVar: '--v-pavilion',
       color: '#9f86ea',
       url: 'https://www.pavilionnortherlyisland.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.pavilionnortherlyisland.com&sz=128',
+      icon: 'marks/venues/pavilionnortherlyisland.com.png',
       tm: { id: 'KovZpZAEA7IA', match: 'huntington bank pavilion', fallbackUrl: 'https://www.pavilionnortherlyisland.com/events' },
       feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.pavilionnortherlyisland.com/events/', // the pavilion's own list (next season's cards: month and day, no year, no clock), secondary behind Ticketmaster (2026-10-27)
         item: /<div class="card" data-aos/, title: /(?=[\s\S]*?<a href="([^"]+)" class="btn btn-outline")(?=[\s\S]*?<h5 class="title">([^<]*)<)/, when: /<p class="month">([^<]*)<\/p>\s*<p class="day">([^<]*)</ },
@@ -177,7 +177,7 @@
       cssVar: '--v-navypier',
       color: '#8aea86',
       url: 'https://navypier.org/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=navypier.org&sz=128',
+      icon: 'marks/venues/navypier.org.png',
       tm: { id: 'KovZpabk8e', match: 'navy pier', fallbackUrl: 'https://navypier.org/events/' },
       alias: /navy pier/i,
     },
@@ -188,7 +188,7 @@
       cssVar: '--v-chitheatre',
       color: '#ea86a7',
       url: 'https://www.msg.com/the-chicago-theatre',
-      icon: 'https://www.google.com/s2/favicons?domain=www.msg.com&sz=128',
+      icon: 'marks/venues/msg.com.png',
       tm: { id: 'KovZpZA6AJ6A', match: 'the chicago theatre', fallbackUrl: 'https://www.msg.com/the-chicago-theatre', exclude: /tour experience/i },
       feed: { kind: 'cards', secondary: true, url: 'https://www.msg.com/the-chicago-theatre', // MSG's venue page (its "Upcoming Events" strip, a handful of cards), secondary behind Ticketmaster (2026-10-27)
         item: /class="VenueEventList_venue-event-item__/, title: /<h3><a class="title-link" href="([^"]+)">([^<]*)</, when: /<h4>([A-Z][a-z]{2}, [A-Z][a-z]{2} \d{1,2}, \d{4})(?:<!-- -->)?(?: - ([^<]*))?<\/h4>/ },
@@ -201,7 +201,7 @@
       cssVar: '--v-cadillac',
       color: '#86c4ea',
       url: 'https://www.broadwayinchicago.com/shows/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.broadwayinchicago.com&sz=128',
+      icon: 'marks/venues/broadwayinchicago.com.png',
       tm: { id: 'KovZpZAFAJkA', match: 'cadillac palace', fallbackUrl: 'https://www.broadwayinchicago.com/shows/' },
       alias: /cadillac palace/i,
     },
@@ -212,7 +212,7 @@
       cssVar: '--v-cibc',
       color: '#e1ea86',
       url: 'https://www.broadwayinchicago.com/shows/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.broadwayinchicago.com&sz=128',
+      icon: 'marks/venues/broadwayinchicago.com.png',
       tm: { id: 'KovZpZA6AJAA', match: 'cibc theatre', fallbackUrl: 'https://www.broadwayinchicago.com/shows/' },
       alias: /cibc theat/i,
     },
@@ -223,7 +223,7 @@
       cssVar: '--v-nederlander',
       color: '#d586ea',
       url: 'https://www.broadwayinchicago.com/shows/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.broadwayinchicago.com&sz=128',
+      icon: 'marks/venues/broadwayinchicago.com.png',
       tm: { id: 'KovZpZAFAJ7A', match: 'nederlander', fallbackUrl: 'https://www.broadwayinchicago.com/shows/' },
       alias: /nederlander/i,
     },
@@ -234,7 +234,7 @@
       cssVar: '--v-shakes',
       color: '#86eab7',
       url: 'https://www.chicagoshakes.com/plays-and-events/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.chicagoshakes.com&sz=128',
+      icon: 'marks/venues/chicagoshakes.com.jpg',
       tm: { id: 'KovZpZAEk1lA', match: 'chicago shakespeare', fallbackUrl: 'https://www.chicagoshakes.com/plays-and-events/' },
       alias: /chicago shakespeare|the yard at/i,
     },
@@ -245,7 +245,7 @@
       cssVar: '--v-cso',
       color: '#ea9a86',
       url: 'https://chicagosymphony.org/',
-      icon: 'https://www.google.com/s2/favicons?domain=cso.org&sz=128',
+      icon: 'marks/venues/cso.org.png',
       tm: { id: 'KovZ917AVba', match: 'symphony center', fallbackUrl: 'https://chicagosymphony.org/' },
       alias: /symphony center|chicago symphony/i,
     },
@@ -258,7 +258,7 @@
       cssVar: '--v-saltshed',
       color: '#868eea',
       url: 'https://www.saltshedchicago.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.saltshedchicago.com&sz=128',
+      icon: 'marks/venues/saltshedchicago.com.png',
       tm: { id: 'KovZ917AI5F', match: 'salt shed', fallbackUrl: 'https://www.saltshedchicago.com/' },
       alias: /salt shed/i,
     },
@@ -270,7 +270,7 @@
       cssVar: '--v-aragon',
       color: '#abea86',
       url: 'https://www.aragonballroomchicago.com/shows',
-      icon: 'https://www.google.com/s2/favicons?domain=www.aragonballroomchicago.com&sz=128',
+      icon: 'marks/venues/aragonballroomchicago.com.png',
       tm: { id: 'KovZpZAFdJnA', match: 'aragon', fallbackUrl: 'https://www.aragonballroomchicago.com/shows' },
       alias: /aragon/i,
     },
@@ -282,7 +282,7 @@
       cssVar: '--v-riviera',
       color: '#ea86c8',
       url: 'https://www.jamusa.com/riviera-theatre',
-      icon: 'https://www.google.com/s2/favicons?domain=www.jamusa.com&sz=128',
+      icon: 'marks/venues/jamusa.com.png',
       tm: { id: 'KovZpZAan6kA', match: 'riviera', fallbackUrl: 'https://www.jamusa.com/riviera-theatre', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', chrome: true, url: 'https://www.jamusa.com/venues/riviera-theatre', venues: /riviera/i, // Jam Productions' own listing (Carbonhouse), leading — Ticketmaster secondary (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
@@ -296,7 +296,7 @@
       cssVar: '--v-metro',
       color: '#86e6ea',
       url: 'https://metrochicago.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=metrochicago.com&sz=128',
+      icon: 'marks/venues/metrochicago.com.png',
       tm: { id: 'KovZpaoMXe', match: 'metro', fallbackUrl: 'https://metrochicago.com/events/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', url: 'https://metrochicago.com/events/', venues: /^metro$/i, // the club's own listing (Rockhouse Partners; Smartbar and GMan cards kept out), leading — Ticketmaster secondary (2026-10-27)
         item: /class = "col-12 eventWrapper rhpSingleEvent/, title: /id = "eventTitle" class="url" href="([^"]+)"[^>]*>\s*<h2[^>]*>([\s\S]*?)<\/h2>/, when: /singleEventDate[^"]*">\s*([^<]*?)\s*<\/div>(?:[\s\S]*?rhp-event__time-text--list">\s*(?:Doors: [^/<]*\/\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="venueLink"[^>]*>([^<]*)</ },
@@ -310,7 +310,7 @@
       cssVar: '--v-hob',
       color: '#ead086',
       url: 'https://www.houseofblues.com/chicago',
-      icon: 'https://www.google.com/s2/favicons?domain=www.houseofblues.com&sz=128',
+      icon: 'marks/venues/houseofblues.com.png',
       tm: { id: 'KovZpZAEAIlA', match: 'house of blues', fallbackUrl: 'https://www.houseofblues.com/chicago' },
       feed: { kind: 'jsonld', secondary: true, url: 'https://chicago.houseofblues.com/shows', at: /house of blues/i }, // the club's own shows page (schema.org events, restaurant sets included), secondary behind Ticketmaster (2026-10-27)
       alias: /house of blues/i,
@@ -323,7 +323,7 @@
       cssVar: '--v-thalia',
       color: '#b386ea',
       url: 'https://www.thaliahallchicago.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.thaliahallchicago.com&sz=128',
+      icon: 'marks/venues/thaliahallchicago.com.png',
       tm: { id: 'KovZpZAJntvA', match: 'thalia hall', fallbackUrl: 'https://www.thaliahallchicago.com/' },
       alias: /thalia hall/i,
     },
@@ -335,7 +335,7 @@
       cssVar: '--v-vic',
       color: '#86ea96',
       url: 'https://www.jamusa.com/the-vic',
-      icon: 'https://www.google.com/s2/favicons?domain=www.jamusa.com&sz=128',
+      icon: 'marks/venues/jamusa.com.png',
       tm: { id: 'KovZpZA17AEA', match: 'vic theatre', fallbackUrl: 'https://www.jamusa.com/the-vic', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', chrome: true, url: 'https://www.jamusa.com/venues/the-vic', venues: /\bvic\b/i, // Jam Productions' own listing (Carbonhouse), leading — Ticketmaster secondary (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
@@ -349,7 +349,7 @@
       cssVar: '--v-radius',
       color: '#ea8692',
       url: 'https://www.radius-chicago.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.radius-chicago.com&sz=128',
+      icon: 'marks/venues/radius-chicago.com.png',
       tm: { id: 'Z7r9jZa77B', match: 'radius', fallbackUrl: 'https://www.radius-chicago.com/' },
       alias: /^radius\b/i,
     },
@@ -361,7 +361,6 @@
       cssVar: '--v-concord',
       color: '#86b0ea',
       url: 'https://www.concordmusichall.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.concordmusichall.com&sz=128',
       tm: { id: 'KovZpZAJtF7A', match: 'concord music hall', fallbackUrl: 'https://www.concordmusichall.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', url: 'https://concordmusichall.com/', // the hall's own calendar (doors clock), leading — Ticketmaster secondary (2026-10-27)
         item: /<article class="show columns/, title: /<a href="([^"]+)">\s*<div class="inner">[\s\S]*?<h1>([^<]*)/, when: /<p class="doors">Doors @ ([^<]*)<\/p>[\s\S]*?<p class="date">([^<]*)<\/p>|<p class="date">([^<]*)<\/p>/ },
@@ -375,7 +374,7 @@
       cssVar: '--v-parkwest',
       color: '#cdea86',
       url: 'https://www.jamusa.com/park-west',
-      icon: 'https://www.google.com/s2/favicons?domain=www.jamusa.com&sz=128',
+      icon: 'marks/venues/jamusa.com.png',
       tm: { id: 'KovZpZAan6AA', match: 'park west', fallbackUrl: 'https://www.jamusa.com/park-west', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', chrome: true, url: 'https://www.jamusa.com/venues/park-west', venues: /park west/i, // Jam Productions' own listing (Carbonhouse; AXS is the box office), leading — Ticketmaster secondary (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /aria-label="([A-Za-z]+\s+\d{1,2} \d{4})"(?:[\s\S]*?class="time">\s*(?:Doors: [^/<]*\/\s*)?(?:Show: )?([^<]*)<)?/, place: /class="location[^"]*">\s*([^<]*?)\s*</ },
@@ -389,7 +388,7 @@
       cssVar: '--v-lincoln',
       color: '#e986ea',
       url: 'https://lh-st.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=lh-st.com&sz=128',
+      icon: 'marks/venues/lh-st.com.png',
       tm: { id: 'KovZpZAdldtA', match: 'lincoln hall', fallbackUrl: 'https://lh-st.com/', secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', url: 'https://lh-st.com/', venues: /^lincoln hall$/i, // the club's own listing (Tessera; Schubas' cards kept out), leading — Ticketmaster secondary (2026-10-27)
         item: /<div class="card mb-3 h-100 tessera-show-card"/, title: /<a href="([^"]+)">\s*<h4 class="card-title">([^<]*)</, when: /<span class="date">([^<]*)<\/span>(?:[\s\S]*?tessera-showTime">Show <b>([^<]*)<)?/, place: /tessera-venue">[\s\S]*?<\/i>\s*([^<]*?)\s*</ },
@@ -403,7 +402,7 @@
       cssVar: '--v-bottom',
       color: '#86eacc',
       url: 'https://bottomlounge.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=bottomlounge.com&sz=128',
+      icon: 'marks/venues/bottomlounge.com.png',
       tm: { id: 'KovZpaoyCe', match: 'bottom lounge', fallbackUrl: 'https://bottomlounge.com/events/' },
       feed: { kind: 'cards', secondary: true, url: 'https://bottomlounge.com/events/', // the club's own listing (TicketWeb links; the date and clock sit in each link's aria-label), secondary behind Ticketmaster (2026-10-27)
         item: /<li class="event-row">/, title: /<a href="([^"]+)" class="event-row-link"[\s\S]*?<h3>([^<]*)<\/h3>/, when: /aria-label="[^"]*?, [A-Z]{3} ([A-Z]{3} \d{1,2})(?:, (\d{1,2}(?::\d{2})? ?[ap]m))?/ },
@@ -417,7 +416,7 @@
       cssVar: '--v-ramova',
       color: '#eaaf86',
       url: 'https://ramovachicago.com/calendar',
-      icon: 'https://www.google.com/s2/favicons?domain=ramovachicago.com&sz=128',
+      icon: 'marks/venues/ramovachicago.com.png',
       tm: { id: 'KovZ917ARPG', match: 'ramova', fallbackUrl: 'https://ramovachicago.com/calendar', exclude: /vip upgrade|early entry/i, secondary: true }, // Ticketmaster, read behind the venue's own listing — every venue both ways (Steve, 2026-10-26)
       feed: { kind: 'cards', url: 'https://www.ramovachicago.com/', // the theatre's own Webflow calendar (Tixr box office; door clock), leading — Ticketmaster secondary (2026-10-27)
         item: /role="listitem" class="ca-info w-dyn-item"/, title: /<a href="([^"]+)"[^>]*class="cal-container-2[\s\S]*?class="b-show-2">([^<]*)</, when: /class="b-venue-2 date">([A-Z][a-z]{2} \d{1,2})<(?:[\s\S]*?DOOR time:<\/p><p class="b-venue-2 date">([^<]*)<)?/ },
@@ -431,7 +430,7 @@
       cssVar: '--v-reggies',
       color: '#9286ea',
       url: 'https://www.reggieslive.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.reggieslive.com&sz=128',
+      icon: 'marks/venues/reggieslive.com.png',
       tm: { id: 'KovZpZAdEl6A', match: 'reggies', fallbackUrl: 'https://www.reggieslive.com/' },
       feed: { kind: 'cards', secondary: true, url: 'https://www.reggieslive.com/', // the club's own listing (first page; Rock Club + Music Joint), secondary behind Ticketmaster (2026-10-27)
         item: /<article id="show-/, title: /<a href="([^"]+)" class="expandshow" title="([^"]+)"/, when: /<time datetime="(\d{4}-\d{2}-\d{2})">(?:[\s\S]*?<li>([^<]*?) Show<\/li>|[\s\S]*?<ul class="details">\s*<li>(\d{1,2}:\d{2} [ap]m)<\/li>)?/ }, // the "7:00 pm Show" clock, else the doors clock when that is all a card prints
@@ -445,7 +444,7 @@
       cssVar: '--v-chopshop',
       color: '#97ea86',
       url: 'https://chopshopchi.com/calendar/',
-      icon: 'https://www.google.com/s2/favicons?domain=chopshopchi.com&sz=128',
+      icon: 'marks/venues/chopshopchi.com.png',
       tm: { id: 'KovZ917AQBU', match: 'chop shop', fallbackUrl: 'https://chopshopchi.com/calendar/', secondary: true },
       feed: { kind: 'dice', url: 'https://dice.fm/venue/2049' }, // the club sells on DICE (its calendar page is DICE's widget): DICE's public venue page leads, Ticketmaster behind (2026-11-03)
       alias: /chop shop/i,
@@ -458,7 +457,7 @@
       cssVar: '--v-allstate',
       color: '#ea86b4',
       url: 'https://www.allstatearena.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.allstatearena.com&sz=128',
+      icon: 'marks/venues/allstatearena.com.png',
       tm: { id: 'KovZpa2MCe', match: 'allstate arena', fallbackUrl: 'https://www.allstatearena.com/events', exclude: /parking/i },
       feed: { kind: 'cards', secondary: true, url: 'https://rosemont.com/allstate/', // the village's own page (Breakdance loop, first ten), secondary behind Ticketmaster (2026-10-27)
         item: /<article class="bde-loop-item ee-post">/, title: /(?=[\s\S]*?href="(https:\/\/rosemont\.com\/allstate\/event\/[^"]+)")(?=[\s\S]*?<h[2-6] class="[^"]*bde-heading[^"]*">(?!\s*\d{1,2}:\d{2} ?[AP]M\s*<)\s*([^<]*?)\s*<\/h[2-6]>)/, when: /bde-code-block[^>]*>\s*([^<]*?)\s*<\/div>(?:[\s\S]*?<h[2-6][^>]*>\s*(\d{1,2}:\d{2} ?[AP]M)\s*<)?/ }, // the date in a code block, then a heading with the clock, then one with the title (h3/h4/h5 by page)
@@ -472,7 +471,7 @@
       cssVar: '--v-rosemont',
       color: '#86d1ea',
       url: 'https://rosemont.com/theatre/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.rosemonttheatre.com&sz=128',
+      icon: 'marks/venues/rosemonttheatre.com.png',
       tm: { id: 'KovZpa2BOe', match: 'rosemont theatre', fallbackUrl: 'https://rosemont.com/theatre/' },
       feed: { kind: 'cards', secondary: true, url: 'https://rosemont.com/theatre/', // the village's own page (Breakdance loop, first ten), secondary behind Ticketmaster (2026-10-27)
         item: /<article class="bde-loop-item ee-post">/, title: /(?=[\s\S]*?href="(https:\/\/rosemont\.com\/theatre\/event\/[^"]+)")(?=[\s\S]*?<h[2-6] class="[^"]*bde-heading[^"]*">(?!\s*\d{1,2}:\d{2} ?[AP]M\s*<)\s*([^<]*?)\s*<\/h[2-6]>)/, when: /bde-code-block[^>]*>\s*([^<]*?)\s*<\/div>(?:[\s\S]*?<h[2-6][^>]*>\s*(\d{1,2}:\d{2} ?[AP]M)\s*<)?/ }, // the date in a code block, then a heading with the clock, then one with the title (h3/h4/h5 by page)
@@ -486,7 +485,7 @@
       cssVar: '--v-ravinia',
       color: '#eae586',
       url: 'https://www.ravinia.org/Calendar',
-      icon: 'https://www.google.com/s2/favicons?domain=www.ravinia.org&sz=128',
+      icon: 'marks/venues/ravinia.org.png',
       tm: { id: 'KovZpZAanvEA', match: 'ravinia', fallbackUrl: 'https://www.ravinia.org/Calendar', exclude: /parking/i },
       feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.ravinia.org/events', // the festival's own list (Carbonhouse; the winter series, no clocks), secondary behind Ticketmaster (2026-10-27)
         item: /<div class="eventItem entry/, title: /<h3 class="title[^"]*">\s*<a href="([^"]+)"[^>]*>([^<]+)</, when: /<div class="date">\s*([^<]*?)\s*<\/div>/ },
@@ -500,7 +499,7 @@
       cssVar: '--v-seatgeek',
       color: '#c886ea',
       url: 'https://www.seatgeekstadium.com/events',
-      icon: 'https://www.google.com/s2/favicons?domain=www.seatgeekstadium.com&sz=128',
+      icon: 'marks/venues/seatgeekstadium.com.png',
       tm: { id: 'KovZpZA6keJA', match: 'seatgeek', fallbackUrl: 'https://www.seatgeekstadium.com/events', exclude: /parking/i },
       feed: { kind: 'tribe', secondary: true, url: 'https://www.seatgeekstadium.com/wp-json/tribe/events/v1/events' }, // the stadium's own calendar (The Events Calendar), secondary behind Ticketmaster (2026-10-27)
       alias: /seatgeek stadium|toyota park/i,
@@ -513,7 +512,7 @@
       cssVar: '--v-cobralounge',
       color: '#86eaa7',
       url: 'https://linkin.bio/cobralounge/',
-      icon: 'https://www.google.com/s2/favicons?domain=linkin.bio&sz=128',
+      icon: 'marks/venues/linkin.bio.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/6663' },
     },
     'Sleeping Village': { // on DICE (3734 W Belmont Ave, Chicago, IL 60618); its DICE venue page is the listing (2026-11-03)
@@ -523,7 +522,7 @@
       cssVar: '--v-sleepingvillag',
       color: '#a8f0eb',
       url: 'https://sleeping-village.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=sleeping-village.com&sz=128',
+      icon: 'marks/venues/sleeping-village.com.jpg',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/2010' },
     },
     'Color Club': { // on DICE (4146 North Elston Avenue, Chicago, Illinois 60618); its DICE venue page is the listing (2026-11-03)
@@ -533,7 +532,7 @@
       cssVar: '--v-colorclub',
       color: '#e363c5',
       url: 'https://colorclub.events/',
-      icon: 'https://www.google.com/s2/favicons?domain=colorclub.events&sz=128',
+      icon: 'marks/venues/colorclub.events.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/14681' },
     },
     'The CheckOut': { // on DICE (4116 North Clark Street, Chicago, Illinois 60613); its DICE venue page is the listing (2026-11-03)
@@ -543,7 +542,7 @@
       cssVar: '--v-checkout',
       color: '#ea9086',
       url: 'https://thecheckout.org',
-      icon: 'https://www.google.com/s2/favicons?domain=thecheckout.org&sz=128',
+      icon: 'marks/venues/thecheckout.org.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/15324' },
     },
     'The Burlington': { // on DICE (3425 West Fullerton Avenue, Chicago, Illinois 60647); its DICE venue page is the listing (2026-11-03)
@@ -553,7 +552,7 @@
       cssVar: '--v-burlington',
       color: '#f0bea8',
       url: 'https://www.theburlingtonbar.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.theburlingtonbar.com&sz=128',
+      icon: 'marks/venues/theburlingtonbar.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/10387' },
     },
     'Epiphany Center for the Arts': { // on DICE (201 South Ashland Avenue, Chicago, Illinois 60607); its DICE venue page is the listing (2026-11-03); DICE's other rooms in the building (Epiphany Center for the Arts - Epiphany Hall, Epiphany Center for the Arts - Café Bar, Epiphany Center for the Arts - Catacombs, Epiphany Center for the Arts - Guild Room, Epiphany Center for the Arts - Slemmons Gallery, Epiphany Center for the Arts - Sanctuary Gallery, Epiphany Center for the Arts - Sacristy Gallery, Epiphany Center for the Arts - Chase Gallery) are read below as city feeds pinned here
@@ -563,7 +562,7 @@
       cssVar: '--v-epiphanycenter',
       color: '#63e3b0',
       url: 'https://epiphanychi.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=epiphanychi.com&sz=128',
+      icon: 'marks/venues/epiphanychi.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/15889' },
     },
     'Lemon': { // on DICE (1600 West Grand Avenue, Chicago, Illinois 60622); its DICE venue page is the listing (2026-11-03)
@@ -573,7 +572,7 @@
       cssVar: '--v-lemon',
       color: '#b4ea86',
       url: 'https://www.lemonchicago.net/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.lemonchicago.net&sz=128',
+      icon: 'marks/venues/lemonchicago.net.jpg',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/14852' },
     },
     'Spybar': { // on DICE (646 N Franklin St, Chicago, IL 60654); its DICE venue page is the listing (2026-11-03)
@@ -584,7 +583,7 @@
       cssVar: '--v-spybar',
       color: '#bbf0a8',
       url: 'https://www.spybarchicago.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.spybarchicago.com&sz=128',
+      icon: 'marks/venues/spybarchicago.com.jpg',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/1881' },
     },
     'Smoke & Mirrors': { // on DICE (2045 North Milwaukee Avenue, Chicago, Illinois 60647); its DICE venue page is the listing (2026-11-03)
@@ -594,7 +593,7 @@
       cssVar: '--v-smokemirrors',
       color: '#e36381',
       url: 'https://www.smokeandmirrorschicago.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=www.smokeandmirrorschicago.com&sz=128',
+      icon: 'marks/venues/smokeandmirrorschicago.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/8635' },
     },
     'Judson & Moore Distillery': { // on DICE (3057 North Rockwell Street, Chicago, Illinois 60618); its DICE venue page is the listing (2026-11-03)
@@ -604,7 +603,7 @@
       cssVar: '--v-judsonmooredis',
       color: '#eac586',
       url: 'https://judsonandmoore.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=judsonandmoore.com&sz=128',
+      icon: 'marks/venues/judsonandmoore.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/10647' },
     },
     'Hideaway': { // on DICE (5 West Division Street, Chicago, Illinois 60607); its DICE venue page is the listing (2026-11-03)
@@ -615,7 +614,7 @@
       cssVar: '--v-hideaway',
       color: '#f0e4a8',
       url: 'https://dice.fm/venue/17900',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/17900' },
     },
     '868': { // on DICE (868 North Franklin Street, Chicago, Illinois 60610); its DICE venue page is the listing (2026-11-03)
@@ -625,7 +624,7 @@
       cssVar: '--v-868',
       color: '#63e36c',
       url: 'https://dice.fm/venue/18725',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/18725' },
     },
     'Live Wire Lounge': { // on DICE (3394 North Milwaukee Avenue, Chicago, Illinois 60641); its DICE venue page is the listing (2026-11-03)
@@ -635,7 +634,6 @@
       cssVar: '--v-livewirelounge',
       color: '#86dcea',
       url: 'https://livewireloungechicago.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=livewireloungechicago.com&sz=128',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/12070' },
     },
     'Furama Restaurant': { // on DICE (4936 North Broadway, Chicago, Illinois 60640); its DICE venue page is the listing (2026-11-03)
@@ -654,7 +652,7 @@
       cssVar: '--v-chicagocounter',
       color: '#e363ac',
       url: 'https://dice.fm/venue/20525',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/20525' },
     },
     'Bourbon on Division': { // on DICE (2050 West Division Street, Chicago, Illinois 60622); its DICE venue page is the listing (2026-11-03)
@@ -664,7 +662,7 @@
       cssVar: '--v-bourbonondivis',
       color: '#e086ea',
       url: 'https://bourbonondivision.com/events/',
-      icon: 'https://www.google.com/s2/favicons?domain=bourbonondivision.com&sz=128',
+      icon: 'marks/venues/bourbonondivision.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/12010' },
     },
     'Beat Kitchen': { // on DICE (2100 W Belmont Ave, Chicago, IL 60618); its DICE venue page is the listing (2026-11-03)
@@ -674,7 +672,7 @@
       cssVar: '--v-beatkitchen',
       color: '#e1f0a8',
       url: 'https://beatkitchen.com/',
-      icon: 'https://www.google.com/s2/favicons?domain=beatkitchen.com&sz=128',
+      icon: 'marks/venues/beatkitchen.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/2381' },
     },
     'Ambassador Hotel Gold Coast': { // on DICE (1301 North State Parkway, Chicago, Illinois 60610); its DICE venue page is the listing (2026-11-03)
@@ -684,7 +682,7 @@
       cssVar: '--v-ambassadorhote',
       color: '#637de3',
       url: 'https://dice.fm/venue/20084',
-      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/20084' },
     },
   };
