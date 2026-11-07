@@ -164,7 +164,6 @@
       cssVar: '--v-pavilion',
       color: '#9f86ea',
       url: 'https://www.pavilionnortherlyisland.com/events',
-      icon: 'marks/venues/pavilionnortherlyisland.com.png',
       tm: { id: 'KovZpZAEA7IA', match: 'huntington bank pavilion', fallbackUrl: 'https://www.pavilionnortherlyisland.com/events' },
       feed: { kind: 'cards', chrome: true, secondary: true, url: 'https://www.pavilionnortherlyisland.com/events/', // the pavilion's own list (next season's cards: month and day, no year, no clock), secondary behind Ticketmaster (2026-10-27)
         item: /<div class="card" data-aos/, title: /(?=[\s\S]*?<a href="([^"]+)" class="btn btn-outline")(?=[\s\S]*?<h5 class="title">([^<]*)<)/, when: /<p class="month">([^<]*)<\/p>\s*<p class="day">([^<]*)</ },
@@ -512,7 +511,7 @@
       cssVar: '--v-cobralounge',
       color: '#86eaa7',
       url: 'https://linkin.bio/cobralounge/',
-      icon: 'marks/venues/linkin.bio.png',
+      icon: 'marks/venues/cobralounge.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/6663' },
     },
     'Sleeping Village': { // on DICE (3734 W Belmont Ave, Chicago, IL 60618); its DICE venue page is the listing (2026-11-03)
@@ -552,7 +551,6 @@
       cssVar: '--v-burlington',
       color: '#f0bea8',
       url: 'https://www.theburlingtonbar.com/',
-      icon: 'marks/venues/theburlingtonbar.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/10387' },
     },
     'Epiphany Center for the Arts': { // on DICE (201 South Ashland Avenue, Chicago, Illinois 60607); its DICE venue page is the listing (2026-11-03); DICE's other rooms in the building (Epiphany Center for the Arts - Epiphany Hall, Epiphany Center for the Arts - Café Bar, Epiphany Center for the Arts - Catacombs, Epiphany Center for the Arts - Guild Room, Epiphany Center for the Arts - Slemmons Gallery, Epiphany Center for the Arts - Sanctuary Gallery, Epiphany Center for the Arts - Sacristy Gallery, Epiphany Center for the Arts - Chase Gallery) are read below as city feeds pinned here
@@ -614,7 +612,6 @@
       cssVar: '--v-hideaway',
       color: '#f0e4a8',
       url: 'https://dice.fm/venue/17900',
-      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/17900' },
     },
     '868': { // on DICE (868 North Franklin Street, Chicago, Illinois 60610); its DICE venue page is the listing (2026-11-03)
@@ -624,7 +621,7 @@
       cssVar: '--v-868',
       color: '#63e36c',
       url: 'https://dice.fm/venue/18725',
-      icon: 'marks/venues/dice.fm.png',
+      icon: 'marks/venues/experience868events.com.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/18725' },
     },
     'Live Wire Lounge': { // on DICE (3394 North Milwaukee Avenue, Chicago, Illinois 60641); its DICE venue page is the listing (2026-11-03)
@@ -652,7 +649,6 @@
       cssVar: '--v-chicagocounter',
       color: '#e363ac',
       url: 'https://dice.fm/venue/20525',
-      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/20525' },
     },
     'Bourbon on Division': { // on DICE (2050 West Division Street, Chicago, Illinois 60622); its DICE venue page is the listing (2026-11-03)
@@ -682,7 +678,6 @@
       cssVar: '--v-ambassadorhote',
       color: '#637de3',
       url: 'https://dice.fm/venue/20084',
-      icon: 'marks/venues/dice.fm.png',
       feed: { kind: 'dice', url: 'https://dice.fm/venue/20084' },
     },
   };
