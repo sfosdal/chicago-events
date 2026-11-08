@@ -2772,6 +2772,383 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6ac07f5af2b2bf000115d0e2",
    "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
+   "date": "2026-11-07",
+   "time": "10:30:00",
+   "url": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-with-rosemont-illinois-11-07-2026/event/040064339798411A",
+   "type": "arts"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Chicago Sound Collective",
+   "date": "2026-11-07",
+   "time": "13:00",
+   "url": "https://www.reggieslive.com/show/chicago-sound-collective-7/",
+   "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
+   "date": "2026-11-07",
+   "time": "14:30:00",
+   "url": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-with-rosemont-illinois-11-07-2026/event/0400643397A24125",
+   "type": "arts"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "You Go Now: A John Pinette Documentary",
+   "date": "2026-11-07",
+   "time": "15:00",
+   "url": "https://www.jamusa.com/events/detail/john-pinette-you-go-now-documentary-screening-1479535",
+   "type": "concert"
+  },
+  {
+   "venue": "Soldier Field",
+   "title": "Chicago Fire FC vs. Columbus Crew (Crest Necklace to 1st 5K)",
+   "date": "2026-11-07",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/chicago-fire-fc-vs-columbus-crew-chicago-illinois-11-07-2026/event/04006374A7E36FE7",
+   "type": "sports",
+   "status": "cancelled",
+   "statusSince": "2026-10-11T23:32:39.018Z"
+  },
+  {
+   "venue": "SeatGeek Stadium",
+   "title": "Chicago Fire FC vs. Columbus Crew",
+   "date": "2026-11-07",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/chicago-fire-fc-vs-columbus-crew-bridgeview-illinois-11-07-2026/event/040064B497A574DB",
+   "type": "sports"
+  },
+  {
+   "venue": "Color Club",
+   "title": "TSA: The Musical!",
+   "date": "2026-11-07",
+   "time": "17:00",
+   "url": "https://dice.fm/event/6a8634dc40be3300015691a6",
+   "end": "19:00",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Golden Hour Featuring DJ Onwa",
+   "date": "2026-11-07",
+   "time": "17:00",
+   "url": "https://dice.fm/event/6ae24df700259b0001ad5f2e",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Vino Louden",
+   "date": "2026-11-07",
+   "time": "17:00",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
+   "date": "2026-11-07",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-with-rosemont-illinois-11-07-2026/event/0400643397AC412D",
+   "type": "arts"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "Zoltan Kaszas: WORLDWIDE(ish) Tour",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://www.jamusa.com/events/detail/zoltan-kaszaz-worldwideish-tour-1432429",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Ari Matti Live",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://www.jamusa.com/events/detail/ari-matti-live-1475871",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Rickey Smiley's Karaoke Night",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://www.jamusa.com/events/detail/rickey-smiley-1477912",
+   "type": "concert"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Philmore and Friends",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/philmore-and-friends-185806",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "All Get Out / Motherfolk / Saint Blonde",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6a7e0107efa64800012d9569",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Bert Kreischer: Permission To Party",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/bert-kreischer-permission-to-party-chicago-illinois-11-07-2026/event/0700647FBB0C5CCC",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "The Music of Hey Arnold Live! Feat. Jim Lang and The PS 118 AllStars",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-music-of-hey-arnold-live-chicago-illinois-11-07-2026/event/0400650BF524669A",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Post Sex Nachos, Scarlet Demore, Hana Eid",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/post-sex-nachos-scarlet-demore-bottom-lounge-tickets/14905223",
+   "type": "concert"
+  },
+  {
+   "venue": "Metro",
+   "title": "Die Spitz",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "url": "https://metrochicago.com/event/die-spitz/metro-chicago/chicago-illinois/",
+   "type": "concert"
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "OLEA Ensemble",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6a74dacdf20c21000102229b",
+   "end": "20:40",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Sinatra '56, Songs For Swingin' Lovers, with Gary Thomas",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6a456342cfd2a800010b8c5d",
+   "end": "21:30",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Dave Matthews Band",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/dave-matthews-band-chicago-illinois-11-07-2026/event/040064EEE75F20F8",
+   "type": "concert"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Beethoven 5 & Mao Fujita",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "The Bends",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-07-2026-the-bends/",
+   "type": "concert"
+  },
+  {
+   "venue": "Chop Shop",
+   "title": "Maddie Zahm - Everything All The Time Tour",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a22eae0ccbdf2000137a597",
+   "end": "22:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "TSA: The Musical!",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a8634eac0e756000155061e",
+   "end": "22:30",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Waco // Jeremy Weber // Liam Barrett",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ab9b816ee491d0001704ddf",
+   "type": "concert"
+  },
+  {
+   "venue": "Lemon",
+   "title": "The Squeeze",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae9154c3239e70001ddec89",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "\"The Pilot’s Wife\" Album Release Show",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ad2814d3a74340001df79df",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Credit Union 1 Arena",
+   "title": "Sumo Championship League",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sumo-championship-league-chicago-illinois-11-07-2026/event/04006511040AAAC9",
+   "type": "sports"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Orville Peck - Man Turned Mule Tour",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/orville-peck-man-turned-mule-tour-chicago-illinois-11-07-2026/event/040064F4DA2CEAC3",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "RAWAYANA - ¿Dónde es el after? World Tour",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/rawayana-donde-es-el-after-world-chicago-illinois-11-07-2026/event/0400646BC9C67504",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Archgoat, Pig's Blood, Vukari",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/archgoat-pigs-blood-vukari-reggies-rock-club-tickets/14994993?REFERRAL_ID=tmfeed",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-11T23:32:39.018Z"
+  },
+  {
+   "venue": "Reggies",
+   "title": "The Messenger Birds",
+   "date": "2026-11-07",
+   "time": "20:30",
+   "url": "https://www.reggieslive.com/show/the-messenger-birds/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Big Time",
+   "date": "2026-11-07",
+   "time": "20:30",
+   "url": "https://www.reggieslive.com/show/big-time-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Caspa & Distinct Motive",
+   "date": "2026-11-07",
+   "time": "21:00",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/caspa-distinct-motive-196416",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Bumsy & The Moochers / Something To Do / Run and Punch",
+   "date": "2026-11-07",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ace5715d416af000184b0ba",
+   "end": "23:45",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Nate & The Nightwolves",
+   "date": "2026-11-07",
+   "time": "21:00",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Ari Matti Live",
+   "date": "2026-11-07",
+   "time": "21:30",
+   "url": "https://www.jamusa.com/events/detail/ari-matti-live-1541274",
+   "type": "concert"
+  },
+  {
+   "venue": "Concord Music Hall",
+   "title": "JUELZ",
+   "date": "2026-11-07",
+   "time": "22:00",
+   "url": "https://concordmusichall.com/calendar/juelz-dramatica-tour/",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Musiqa Baladi: Lionessa & Nanoos w/ Passion Puree",
+   "date": "2026-11-07",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ab2b40ca0b83100014cebbb",
+   "type": "concert"
+  },
+  {
+   "venue": "Spybar",
+   "title": "Avina's House",
+   "date": "2026-11-07",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad8239d6b31ce0001ce2002",
+   "type": "concert"
+  },
+  {
+   "venue": "Smoke & Mirrors",
+   "title": "IDEMI",
+   "date": "2026-11-07",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ab194bea23a210001e86f1e",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Hideaway",
+   "title": "Julian Jordan",
+   "date": "2026-11-07",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aaaa70c2daf36000192a764",
+   "type": "concert"
   }
  ]
 }
