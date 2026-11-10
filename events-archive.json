@@ -3149,6 +3149,356 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6aaaa70c2daf36000192a764",
    "type": "concert"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
+   "date": "2026-11-08",
+   "time": "10:30:00",
+   "url": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-with-rosemont-illinois-11-08-2026/event/0400643397B64138",
+   "type": "arts"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Chicago Bears Tailgate Party",
+   "date": "2026-11-08",
+   "time": "11:00",
+   "url": "https://www.reggieslive.com/show/chicago-bears-tailgate-party-34/",
+   "type": "concert",
+   "watch": {
+    "tv": [
+     "NBC"
+    ]
+   }
+  },
+  {
+   "venue": "Live Wire Lounge",
+   "title": "Chicago Rat Pub Crawl!",
+   "date": "2026-11-08",
+   "time": "13:00",
+   "url": "https://dice.fm/event/6acac6a28d2b5e0001972168",
+   "end": "21:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Credit Union 1 Arena",
+   "title": "UIC Flames Women's Basketball v Northwestern",
+   "date": "2026-11-08",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/uic-flames-womens-basketball-v-northwestern-chicago-illinois-11-08-2026/event/04006545BFBAA91E",
+   "type": "sports"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-11-08",
+   "time": "14:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Bulls vs. Philadelphia 76ers",
+   "date": "2026-11-08",
+   "time": "14:30:00",
+   "url": "https://www.ticketmaster.com/chicago-bulls-vs-philadelphia-76ers-chicago-illinois-11-08-2026/event/0400650EE8812BBD",
+   "type": "sports"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Ringling Bros. and Barnum & Bailey with Special Guest Bello Nock",
+   "date": "2026-11-08",
+   "time": "14:30:00",
+   "url": "https://www.ticketmaster.com/ringling-bros-and-barnum-bailey-with-rosemont-illinois-11-08-2026/event/0400643397C04144",
+   "type": "arts"
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "Solo Piano Spotlight: Greg Hartmann",
+   "date": "2026-11-08",
+   "time": "15:00",
+   "url": "https://dice.fm/event/6ab1b2ceb1ff3b000136eb1b",
+   "end": "16:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Beethoven 5 & Mao Fujita",
+   "date": "2026-11-08",
+   "time": "15:00:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "MO-MUSIC: The Vocal Stylings of Jim Sanders",
+   "date": "2026-11-08",
+   "time": "15:30",
+   "url": "https://dice.fm/event/6a7e4066513c3300013084ec",
+   "end": "17:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Bernard Crump",
+   "date": "2026-11-08",
+   "time": "15:30",
+   "url": "https://www.reggieslive.com/show/bernard-crump-8/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Reed Turchi",
+   "date": "2026-11-08",
+   "time": "15:30",
+   "url": "https://www.reggieslive.com/show/reed-turchi-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "Sunday MOURNING: All Ages Goth Dance Party",
+   "date": "2026-11-08",
+   "time": "17:00",
+   "url": "https://dice.fm/event/6ae2619e6a4c970001b568b0",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Common People / The Front Desk / Wild Zero",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6a7353dc1e30530001c7952a",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Ken Fobs: A Tribute to the Masters of Song",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6a8ba851c398370001e049d6",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Clash Talk: A Competitive Talk Show with Claire Parker and Ashley Hamilton",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://www.jamusa.com/events/detail/good-noticings-podcast-1477913",
+   "type": "concert"
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "SANEL REDŽIĆ, Classical Guitar",
+   "date": "2026-11-08",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6abd718dc989d2000172aa2c",
+   "end": "20:15",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Ron White",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ron-white-chicago-illinois-11-08-2026/event/070064C4DA187D04",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Better Than Ezra - Legends of the Fall: Closer To The Edge",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/better-than-ezra-legends-of-the-chicago-illinois-11-08-2026/event/040064F7B271BF7E",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Sueco, with Jeris Johnson",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/sueco-with-jeris-johnson-bottom-lounge-tickets/14251634",
+   "type": "concert"
+  },
+  {
+   "venue": "Soldier Field",
+   "title": "Chicago Bears vs. Tampa Bay Buccaneers",
+   "date": "2026-11-08",
+   "time": "19:20:00",
+   "url": "https://www.ticketmaster.com/chicago-bears-vs-tampa-bay-buccaneers-chicago-illinois-11-08-2026/event/04006464B1E693BC",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NBC"
+    ]
+   }
+  },
+  {
+   "venue": "Metro",
+   "title": "Alyssa Grace",
+   "date": "2026-11-08",
+   "time": "19:30",
+   "url": "https://metrochicago.com/event/alyssa-grace-2/metro-chicago/chicago-illinois/",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "An Evening with Joy Oladokun",
+   "date": "2026-11-08",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/joy-oladokun-the-heavy-things-tour-1540215",
+   "type": "concert"
+  },
+  {
+   "venue": "Chop Shop",
+   "title": "The Samples + Mynd Reader",
+   "date": "2026-11-08",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6a676a8d4306cb00014380cf",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "Vince Staples",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://www.jamusa.com/events/detail/vince-staples-1488535",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "West 22nd",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-08-2026-west-22nd/",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Ultra Lights w/ Free Times, Head",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ab3f94c3f2d9a0001c5b238",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "Back to the Grave",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae262f900259b0001718010",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "The Orrs // Model Living // Jim the Kid & The Painkillers",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6acc2a1075af86000105ae6b",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Feelgood",
+   "date": "2026-11-08",
+   "time": "22:00",
+   "url": "https://www.reggieslive.com/show/feelgood-4/",
+   "type": "concert"
+  },
+  {
+   "venue": "Credit Union 1 Arena",
+   "title": "Uic Flames Men's Basketball v Unc Greensboro",
+   "date": "2026-11-09",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/uic-flames-mens-basketball-v-unc-chicago-illinois-11-09-2026/event/04006545B7FF9F77",
+   "type": "sports"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Sueco, with Jeris Johnson",
+   "date": "2026-11-09",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/sueco-with-jeris-johnson-bottom-lounge-tickets/14251634?REFID=clientsitewp",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Zack’s Open Mic",
+   "date": "2026-11-09",
+   "time": "19:00",
+   "url": "https://www.reggieslive.com/show/zacks-open-mic-38/",
+   "type": "concert"
+  },
+  {
+   "venue": "Metro",
+   "title": "Alyssa Grace",
+   "date": "2026-11-09",
+   "time": "19:30",
+   "url": "https://metrochicago.com/event/alyssa-grace/metro-chicago/chicago-illinois/",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "The War and Treaty",
+   "date": "2026-11-09",
+   "time": "19:30:00",
+   "url": "http://thaliahallchicago.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Hurricane Wisdom: Weathering The World",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://www.jamusa.com/events/detail/hurricane-wisdom-1561837",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Industry Night Market",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae37910013e680001dfbc24",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Industry Night w/ DJ Jonathan Valdez",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae37998007bd00001b2dad8",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Heet Deth // Johnny Falloon // Instrument // Kafiza",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ac7f1ba58abf0000190945e",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Monday Night Bingo!",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/monday-night-bingo-34/",
+   "type": "concert"
+  },
+  {
+   "venue": "Wintrust Arena",
+   "title": "DePaul Blue Demons Mens Basketball vs. Alabama A&M Bulldogs Mens Basketball",
+   "date": "2026-11-09",
+   "time": "20:00:00",
+   "url": "https://www.wintrustarena.com/events",
+   "type": "sports"
   }
  ]
 }
