@@ -3499,6 +3499,122 @@
    "time": "20:00:00",
    "url": "https://www.wintrustarena.com/events",
    "type": "sports"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Nigel Mack",
+   "date": "2026-11-10",
+   "time": "17:30",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Sanity Slip / Ballista / Spare No Mercy / Invasive / Choice",
+   "date": "2026-11-10",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6ace9278a414130001e55e96",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "2026 State Farm Champions Classic",
+   "date": "2026-11-10",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/2026-state-farm-champions-classic-chicago-illinois-11-10-2026/event/040064FEECB87403",
+   "type": "sports"
+  },
+  {
+   "venue": "Reggies",
+   "title": "School Of Rock Chicago West + School Of Rock Chicago",
+   "date": "2026-11-10",
+   "time": "18:30",
+   "url": "https://www.reggieslive.com/show/school-of-rock-chicago-west-school-of-rock-chicago-4/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "South Loop Stand Up",
+   "date": "2026-11-10",
+   "time": "19:00",
+   "url": "https://www.reggieslive.com/show/south-loop-stand-up-43/",
+   "type": "concert"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-10-2026/event/070064F1D2A9870A",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Michelle Branch: Everywhere And Back Again Tour",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/michelle-branch-everywhere-and-back-again-chicago-illinois-11-10-2026/event/040064E1E6DECA83",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Dev Lemons - Eat The Pavement Tour",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/dev-lemons-eat-the-pavement-tour-1515575",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Hunxho",
+   "date": "2026-11-10",
+   "time": "19:30:00",
+   "url": "http://www.victheatre.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "Pretty Sick",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-10-2026-pretty-sick/",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Free Tuesday w/ Displacer & Mensa [presented by Still Austin Whiskey Co.]",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ac5372b904116000141d77f",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Lamniformes // Scrapper // Inside Outside // Indigo Uvula",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ab327552fbb890001be8a20",
+   "type": "concert"
+  },
+  {
+   "venue": "Lemon",
+   "title": "Jazz Jam Session",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae916b99ac9250001716575",
+   "end": "23:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Tipsy Tuesday w/ Mr. Blotto",
+   "date": "2026-11-10",
+   "time": "20:30",
+   "url": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-210/",
+   "type": "concert"
   }
  ]
 }
