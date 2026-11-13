@@ -3791,6 +3791,214 @@
    "time": "21:00",
    "url": "https://dice.fm/event/6a722b86882c9d0001836b1d",
    "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "VOILÀ Presents: Moonbloom",
+   "date": "2026-11-12",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/voila-presents-moonbloom-chicago-illinois-11-12-2026/event/040064BBDD8F67F0",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Worst Party Ever / Equipment / Rosevile Sucks / Ogbert The Nerd",
+   "date": "2026-11-12",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6a7cf443776aa00001979f1b",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Stefan Hillesheim",
+   "date": "2026-11-12",
+   "time": "18:00",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Chicago Comedy Club",
+   "date": "2026-11-12",
+   "time": "18:30",
+   "url": "https://www.ticketmaster.com/chicago-comedy-club-chicago-illinois-11-12-2026/event/04006519D391137E",
+   "type": "concert"
+  },
+  {
+   "venue": "Radius",
+   "title": "Frost Children - Ages 17+",
+   "date": "2026-11-12",
+   "time": "18:30:00",
+   "url": "https://www.radius-chicago.com/events",
+   "type": "concert"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "Amber Autry: Happy Holler Tour",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://www.jamusa.com/events/detail/amber-autry-happy-holler-tour-1479404",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. Buffalo Sabres",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-buffalo-sabres-chicago-illinois-11-12-2026/event/040064F09059783C",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CHSN"
+    ]
+   }
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-12-2026/event/070064F1D2B68721",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "A Midsummer Night's Dream",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Psycroptic, Inferi, Cognitive, Summoning the Lich, Burned In Effigy",
+   "date": "2026-11-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/psycroptic-inferi-cognitive-summoning-the-reggies-rock-club-tickets/14274814?REFERRAL_ID=tmfeed",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Donnell Rawlings Live",
+   "date": "2026-11-12",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/donnell-rawlings-1477915",
+   "type": "concert"
+  },
+  {
+   "venue": "Lemon",
+   "title": "Organic Music",
+   "date": "2026-11-12",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6ae9181bc8929c0001e4f113",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "Nori Reed: Nori Is Present LIVE at Lincoln Hall",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-12-2026-nori-reed/",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "Delta Badhand Presents Zoëxtine's Sweet 16",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6acfb973d30e09000177e0ea",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "Kiernan, Beauty Saloon, Ester, Damsel",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6add214d73038d0001a5eeb2",
+   "type": "concert"
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "Composer Night: Marcel Bonfim",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ad119899fcdc30001d380fe",
+   "end": "21:15",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Anne Helen Wells // Rose Hip // Laura Armless Palmer",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a8cf0bd229a0a0001579abf",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Alenia",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/alenia/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "CCC Presents: A Mixed Media Show",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/ccc-presents-a-mixed-media-show/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Charles Wesley Godwin with Tyler Nance - Christian Name Tour",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/charles-wesley-godwin-with-tyler-nance-chicago-illinois-11-12-2026/event/040064AED766D32E",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Hiss Golden Messenger - I'm People Tour with Sam Amidon",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/hiss-golden-messenger-thalia-hall-tickets/14146084",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Duff Goldman Presents: The Tao of Duff",
+   "date": "2026-11-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/duff-goldman-presents-the-tao-bottom-lounge-tickets/15021133"
+  },
+  {
+   "venue": "Chop Shop",
+   "title": "Alix Perez + HIJINX + Toyacoyah",
+   "date": "2026-11-12",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6a887ffa9dda5c000197d13f",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Sleepwalk w/ Cuss & Left Of Heaven",
+   "date": "2026-11-12",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6aa03a2a8b03d40001dda452",
+   "type": "concert"
+  },
+  {
+   "venue": "Hideaway",
+   "title": "Empty Promises",
+   "date": "2026-11-12",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6af34d9581c9b10001e313f7",
+   "type": "concert"
   }
  ]
 }
