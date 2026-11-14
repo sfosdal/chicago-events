@@ -3999,6 +3999,310 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6af34d9581c9b10001e313f7",
    "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Golden Hour Featuring Hungu",
+   "date": "2026-11-13",
+   "time": "17:00",
+   "url": "https://dice.fm/event/6ab89e4209ac9800016006f6",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Matt Hendricks",
+   "date": "2026-11-13",
+   "time": "17:00",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Sunday Cruise / Cheerleader Roadkill / Appleseed / Arcadia Grey / Friend",
+   "date": "2026-11-13",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6a9880ad2e0be9000103db37",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "MORAL",
+   "date": "2026-11-13",
+   "time": "18:30",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/moral-194237",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Amber Autry: Happy Holler Tour",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://www.jamusa.com/events/detail/amber-autry-happy-holler-tour-1438287",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Bulls vs. Atlanta Hawks",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-bulls-vs-atlanta-hawks-chicago-illinois-11-13-2026/event/0400650EE88B2BD9",
+   "type": "sports"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Nikki Glaser: The Stunning Tour",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/nikki-glaser-the-stunning-tour-chicago-illinois-11-13-2026/event/0700639A809B3771",
+   "type": "arts"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-13-2026/event/070064F1D2BC872A",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "A Midsummer Night's Dream",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "almost monday - Thank God It's Almost Monday",
+   "date": "2026-11-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/almost-monday-thank-god-its-almost-chicago-illinois-11-13-2026/event/040064D2D734C5FC",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Dysfunctional Friends with Herman Wrice and Aaron Branch",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/dysfunctional-friends-1477916",
+   "type": "concert"
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "Charlene Kluegel - Beyond Fifths",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6ac6ab86ede616000138f743",
+   "end": "20:40",
+   "type": "concert"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Andrew Bird w/ Chicago Symphony Orchestra",
+   "date": "2026-11-13",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "*Sold Out* Ethan Regan - Young Regan Tour with Lily Kershaw",
+   "date": "2026-11-13",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/sold-out-ethan-regan-thalia-hall-tickets/14956253",
+   "type": "concert"
+  },
+  {
+   "venue": "Metro",
+   "title": "SIX60",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://metrochicago.com/event/six60/metro-chicago/chicago-illinois/",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "Porch Light",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-13-2026-porch-light/",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "Color Club Comedy",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ab5e0c7127db1000142b3ce",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Maria and the Coins // Boundary Waters // Em Grace // The Bits",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ac2f05ff21c2f0001a3b17a",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Orbseeker Tour: 93Feetofsmoke, Fats'e, Polearm",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ac8fdd5e3b91b00012cc392",
+   "end": "23:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Judson & Moore Distillery",
+   "title": "The Pink Stones",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae8ea203239e70001b84948",
+   "type": "concert"
+  },
+  {
+   "venue": "Live Wire Lounge",
+   "title": "Ayria / Sapphira Vee",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a6137c3170f000001669016",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Free Blues Friday featuring Cat Gaddis Project",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6abd95977b8ef3000190cf41",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Dubbie & Friends",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://auravisprod.org/shows/dubbie-and-friends",
+   "type": "concert"
+  },
+  {
+   "venue": "Wintrust Arena",
+   "title": "Cash Money & No Limit Tour",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/cash-money-no-limit-tour-chicago-illinois-11-13-2026/event/070064CBD44E65AD",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Palace with Rollo Doherty - USA & Canada Tour 2026",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/palace-with-rollo-doherty-usa-canada-chicago-illinois-11-13-2026/event/040064909EF36C2F",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Premo Rice - Another Night At The Chateau Tour",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/premo-rice-another-bottom-lounge-tickets/14321604",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Tom Kenny & the Hi-Seas, Expo'76",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/tom-kenny-the-hi-reggies-rock-club-tickets/14304774?REFERRAL_ID=tmfeed",
+   "type": "concert"
+  },
+  {
+   "venue": "Chop Shop",
+   "title": "Gatsbys American Dream",
+   "date": "2026-11-13",
+   "time": "20:00:00",
+   "url": "https://link.dice.fm/ma807a12ec21",
+   "type": "concert"
+  },
+  {
+   "venue": "Lemon",
+   "title": "Travis Ritchie Trio",
+   "date": "2026-11-13",
+   "time": "20:30",
+   "url": "https://dice.fm/event/6ae919e23239e7000180f5d4",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Vick Vapors / Holy Water / Sleep of Mirrors",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ae2c51e0263c10001d78fe0",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "tigermilk & Sleeping Village Present: Pink Party",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6a9701381edebd0001771484",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Sicard Hollow",
+   "date": "2026-11-13",
+   "time": "21:00",
+   "url": "https://www.reggieslive.com/show/sicard-hollow/",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Amber Autry: Happy Holler Tour",
+   "date": "2026-11-13",
+   "time": "21:30",
+   "url": "https://www.jamusa.com/events/detail/amber-autry-happy-holler-tour-1445742",
+   "type": "concert"
+  },
+  {
+   "venue": "Concord Music Hall",
+   "title": "ØTTA",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://concordmusichall.com/calendar/otta/",
+   "type": "concert"
+  },
+  {
+   "venue": "Spybar",
+   "title": "Pedroz",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aa1d898049dd200012b62d1",
+   "type": "concert"
+  },
+  {
+   "venue": "Smoke & Mirrors",
+   "title": "6 Sense + Shoki287",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6a7f863981a25b00017c3949",
+   "type": "concert"
+  },
+  {
+   "venue": "Hideaway",
+   "title": "Annicka",
+   "date": "2026-11-13",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ae0ddabe10b5d00010ec8e3",
+   "type": "concert"
   }
  ]
 }
