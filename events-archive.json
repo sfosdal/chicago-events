@@ -4670,6 +4670,212 @@
    "date": "2026-11-14",
    "time": "22:00:00",
    "url": "https://utphilly.com/"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-15",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-15-2026/event/070064F1D2D3876D",
+   "type": "arts"
+  },
+  {
+   "venue": "United Center",
+   "title": "TravisMathew Legends Classic presented by Old Trapper",
+   "date": "2026-11-15",
+   "time": "13:30:00",
+   "url": "https://www.ticketmaster.com/travismathew-legends-classic-presented-by-old-chicago-illinois-11-15-2026/event/040064DAA17AA44D",
+   "type": "sports"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "A Midsummer Night's Dream",
+   "date": "2026-11-15",
+   "time": "14:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Chicago Wolves V Manitoba Moose",
+   "date": "2026-11-15",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/chicago-wolves-v-manitoba-moose-rosemont-illinois-11-15-2026/event/040064EA9AFB8C5C",
+   "type": "sports"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Slackers VIP Matinee",
+   "date": "2026-11-15",
+   "time": "15:30",
+   "url": "https://www.reggieslive.com/show/slackers-vip-matinee-5/",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Danny Gonzalez",
+   "date": "2026-11-15",
+   "time": "18:00",
+   "url": "https://www.jamusa.com/events/detail/danny-gonzalez-1644923",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Tightwire / Canadian Rifle / Budget Cuts",
+   "date": "2026-11-15",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6aa1dcc4a873550001797c52",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Spanish Love Songs: The \"Cost of Living\" Tour w/ Kali Masi / Tenmonthsummer",
+   "date": "2026-11-15",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6aa08cdc243edc000150f3e7",
+   "end": "22:00",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Saosin: 20 Years of Self-Titled",
+   "date": "2026-11-15",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/saosin-20-years-of-selftitled-chicago-illinois-11-15-2026/event/0400648EAE116A87",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-15",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-15-2026/event/070064F1D2CE8756",
+   "type": "arts"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Manchester Orchestra - I'm Like a Virgin Losing a Child 20th Anniversary Tour",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://www.jamusa.com/events/detail/manchester-orchestra-im-like-a-virgin-losing-a-child-20th-anniversary-1580776",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "Jump Magazine Release Party Featuring Tiny Dances + Jack Meriwether",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6aa5a648f93b110001790621",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Her Only Light: Songs of Connie Converse",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ac6d850b6d02f00016bf2d7",
+   "end": "21:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "The Slackers",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://www.reggieslive.com/show/the-slackers-22/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Nikki Glaser: The Stunning Tour",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/nikki-glaser-the-stunning-tour-chicago-illinois-11-15-2026/event/0700639A80A7377A",
+   "type": "arts"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "WWE NXT Holiday Live Tour",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/wwe-nxt-holiday-live-tour-chicago-illinois-11-15-2026/event/0400652A9D9383A4",
+   "type": "sports"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "NXT Pre-Show Q&A and Photo Opportunity",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/nxt-preshow-qa-and-photo-opportunity-chicago-illinois-11-15-2026/event/04006538EB4D91AA"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Hamilton Leithauser + Rostam - The Joint Tour with Johanna Samuels",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/hamilton-leithauser-rostam-thalia-hall-tickets/14311824",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Fox Stevenson & Mystery Skulls",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/fox-stevenson-mystery-skulls-bottom-lounge-tickets/14261764",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "BF2BF: all vinyl dance party w/ Curtis Feldner + Zander Raymond",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6adcfbbfe08a040001b65605",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Michelle Malito // WR KR // Tina LeFauve // Mondegreen",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6aee567913b4df0001329fcb",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Enrique Vargas Album Release Party featuring Alej",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6adda2bc38df6e00011b9e71",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Dead Pink Radio",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/dead-pink-radio-6/",
+   "type": "concert"
+  },
+  {
+   "venue": "Rosemont Theatre",
+   "title": "Pimpinela - Leyendas Tour",
+   "date": "2026-11-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/pimpinela-leyendas-tour-rosemont-illinois-11-15-2026/event/040064F48E1D5855",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Danny Gonzalez",
+   "date": "2026-11-15",
+   "time": "20:30",
+   "url": "https://www.jamusa.com/events/detail/danny-gonzalez-1644931",
+   "type": "concert"
   }
  ]
 }
