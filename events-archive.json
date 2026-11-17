@@ -4876,6 +4876,87 @@
    "time": "20:30",
    "url": "https://www.jamusa.com/events/detail/danny-gonzalez-1644931",
    "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Discontent / Ethic / Another Enemy / Viscera Crown / Suffering / Absent Soul / Kartika 55",
+   "date": "2026-11-16",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6ab17a9b6d5a1f000174a6b4",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Gloria Steinem Celebration of Life: Abortion Speak Out/Speak Up",
+   "date": "2026-11-16",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6ad6925c006b2b000180ab1e",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "Let’s Sing: The Good Things",
+   "date": "2026-11-16",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ad64f7d006b2b0001e66153",
+   "end": "20:15",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Zack’s Open Mic",
+   "date": "2026-11-16",
+   "time": "19:00",
+   "url": "https://www.reggieslive.com/show/zacks-open-mic-39/",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Gene, Weston Loney",
+   "date": "2026-11-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/gene-weston-loney-bottom-lounge-tickets/14901513",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:24.496Z",
+    "from": 62.77
+   }
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Industry Night w/ DJ Soup Time",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6adf7c3d862b6a000112d40c",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Monday Night Bingo!",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/monday-night-bingo-35/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "Jessie Reyez: A Little Vengeance Tour",
+   "date": "2026-11-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jessie-reyez-a-little-vengeance-tour-chicago-illinois-11-16-2026/event/04006515B0D11331",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 30,
+    "checked": "2026-11-16T23:18:36.236Z",
+    "from": 80
+   },
+   "soldOut": true
   }
  ]
 }
