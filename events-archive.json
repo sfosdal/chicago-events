@@ -4957,6 +4957,156 @@
     "from": 80
    },
    "soldOut": true
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Girl of Glass / Thus Spoke Zarathustra / xMERCYx / Carrion Throne",
+   "date": "2026-11-17",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6a95aa71b475100001198a00",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. Toronto Maple Leafs",
+   "date": "2026-11-17",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-toronto-maple-leafs-chicago-illinois-11-17-2026/event/040064F09063786B",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "TNT",
+     "HBO MAX"
+    ]
+   },
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:23:12.775Z",
+    "from": 60
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Reggies",
+   "title": "South Loop Stand Up",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://www.reggieslive.com/show/south-loop-stand-up-44/",
+   "type": "concert"
+  },
+  {
+   "venue": "Wintrust Arena",
+   "title": "DePaul Blue Demons Mens Basketball vs. Maryland Eastern Shore Hawks Mens Basketball",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.wintrustarena.com/events",
+   "type": "sports"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-17-2026/event/070064F1D2D9877E",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Skilla Baby: The Price of Fame Tour",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/skilla-baby-the-price-of-fame-chicago-illinois-11-17-2026/event/0400651AD91725DE",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Criminal Presents: An Evening with Phoebe Judge",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/criminal-presents-an-evening-with-phoebe-judge-1613763",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "Prateek Kuhad",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/an-acoustic-evening-with-prateek-kuhad-1599923",
+   "type": "concert"
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "Spectrum Ensemble: Chicago Debut!",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6ab57b70f25e490001af5b00",
+   "end": "20:40",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "Other Lives",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-17-2026-other-lives/",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "A Good Year w/ Lipsticism",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a73692565099c000150f435",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Ric // Will Mallard // Sound Psychologist",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ab32d3817e1e6000117434a",
+   "type": "concert"
+  },
+  {
+   "venue": "Lemon",
+   "title": "Latin Jam",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae9155ac8929c00015431e5",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Burnout Syndromes",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/burnout-syndromes-reggies-rock-club-tickets/14363194?REFERRAL_ID=tmfeed",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:36.438Z",
+    "from": 33.7
+   }
+  },
+  {
+   "venue": "Reggies",
+   "title": "Tipsy Tuesday w/ Mr. Blotto",
+   "date": "2026-11-17",
+   "time": "20:30",
+   "url": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-211/",
+   "type": "concert"
   }
  ]
 }
