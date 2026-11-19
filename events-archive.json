@@ -5107,6 +5107,201 @@
    "time": "20:30",
    "url": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-211/",
    "type": "concert"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-18",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-18-2026/event/070064F1D2E387AA",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-11-18",
+   "time": "13:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Golden Hour featuring Vivian Garcia",
+   "date": "2026-11-18",
+   "time": "17:00",
+   "url": "https://dice.fm/event/6ab8a9ed34e57f00012d0f9d",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Windy City Rev Ups Duo",
+   "date": "2026-11-18",
+   "time": "17:30",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Credit Union 1 Arena",
+   "title": "UIC Flames Men's Basketball v Chicago State",
+   "date": "2026-11-18",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/uic-flames-mens-basketball-v-chicago-chicago-illinois-11-18-2026/event/04006545B8059F85",
+   "type": "sports"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Hawthorne Heights - 20th anniversary of If Only You Were Lonely",
+   "date": "2026-11-18",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/hawthorne-heights-20th-anniversary-of-if-chicago-illinois-11-18-2026/event/040064B6C6F8BCF8",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Salsa on a School Night",
+   "date": "2026-11-18",
+   "time": "18:30",
+   "url": "https://dice.fm/event/6ad03396b7541b0001125f37",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Next Showcase Awards Show",
+   "date": "2026-11-18",
+   "time": "18:30",
+   "url": "https://www.ticketmaster.com/next-showcase-awards-show-chicago-illinois-11-18-2026/event/0400652ACE98EB28",
+   "type": "concert",
+   "tickets": {
+    "box": 110,
+    "resale": 0,
+    "checked": "2026-11-16T23:32:55.672Z",
+    "from": 14.99
+   }
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Mountainfilm on Tour: An Evening of Short Films from Telluride, CO - Presented by The North Face & Hosted by Filmmaker Friday Chicago and Caymanite",
+   "date": "2026-11-18",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/mountainfilm-on-tour-an-evening-thalia-hall-tickets/14359524",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:53.948Z",
+    "from": 39.96
+   }
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-18-2026/event/070064F1D2DE878E",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "Victoria Monét: Frequency Of Love Tour",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-chicago-illinois-11-18-2026/event/0400652605FA6451",
+   "type": "concert",
+   "tickets": {
+    "box": 1440,
+    "resale": 0,
+    "checked": "2026-11-16T23:33:17.605Z",
+    "from": 49.5
+   }
+  },
+  {
+   "venue": "Reggies",
+   "title": "Havok , Hellripper, Slackjaw, Xoth",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/havok-hellripper-slackjaw-xoth-reggies-rock-club-tickets/15034993?REFERRAL_ID=tmfeed",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:55.908Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "Andrea in Paris — Andrea Brotslaw Tucci & Matt Mason",
+   "date": "2026-11-18",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6aa042d2243edc00019a2d48",
+   "end": "20:40",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Dan Merlo Quartet \"Basement Symphony\" Live Album Recording",
+   "date": "2026-11-18",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6ac6aa90ede6160001f4b0a0",
+   "end": "21:30",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Los Parceritos",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "url": "https://www.jamusa.com/events/detail/los-parceritos-1509985",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "Shallow Alcove Album Release",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a8e449dfac994000140ab2c",
+   "end": "22:30",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Tennis Weather // Sun Roads // Paper Frames",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae0db43e10b5d0001e7cad1",
+   "type": "concert"
+  },
+  {
+   "venue": "Bottom Lounge",
+   "title": "Ours",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/ours-bottom-lounge-tickets/14984813",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:12:57.884Z",
+    "from": 39.6
+   }
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Devyn Crimson & The Frivolities w/ Voice Memo * Release Party *",
+   "date": "2026-11-18",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6abd3b468472ed0001c6fbd3",
+   "type": "concert"
   }
  ]
 }
