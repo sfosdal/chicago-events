@@ -5302,6 +5302,281 @@
    "time": "21:00",
    "url": "https://dice.fm/event/6abd3b468472ed0001c6fbd3",
    "type": "concert"
+  },
+  {
+   "venue": "Soldier Field",
+   "title": "Covenant House Sleep Out",
+   "date": "2026-11-19",
+   "time": "",
+   "url": "https://www.soldierfield.com/events/detail/covenant-house-sleep-out",
+   "type": "sports"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Golden Hour Featuring Jimmy Bennington",
+   "date": "2026-11-19",
+   "time": "17:00",
+   "url": "https://dice.fm/event/6abec64167623900017bca0c",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Bingo with Boys & Girls Club",
+   "date": "2026-11-19",
+   "time": "18:00",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/bingo-with-boys-girls-club-206607",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Smiley Tillmon Duo",
+   "date": "2026-11-19",
+   "time": "18:00",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Andrës / Strawberry Girls / Parachute Day / When We Was Kids",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "url": "https://dice.fm/event/6abddcf708a31d0001b7e378",
+   "end": "22:30",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Jake Cornell",
+   "date": "2026-11-19",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/jake-cornell-chicago-illinois-11-19-2026/event/04006514083BC0D9",
+   "type": "arts"
+  },
+  {
+   "venue": "Spybar",
+   "title": "Ableton Chicago Usergroup Workshop",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6aecd20059b3330001280daa",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. Columbus Blue Jackets",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-columbus-blue-jackets-chicago-illinois-11-19-2026/event/040064F090687873",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CHSN"
+    ]
+   },
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:20:04.330Z",
+    "from": 44.28
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Credit Union 1 Arena",
+   "title": "UIC Flames Women's Basketball v Lindenwood",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/uic-flames-womens-basketball-v-lindenwood-chicago-illinois-11-19-2026/event/04006545BFC6A932",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:20:24.335Z",
+    "from": 15.3
+   }
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-19-2026/event/070064F1D2E987B6",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:20:44.421Z",
+    "from": 56.05
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "A Midsummer Night's Dream",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/the-jayhawks-1490281",
+   "type": "concert"
+  },
+  {
+   "venue": "Lemon",
+   "title": "Apres Pompeii // Jennifer Femme // Stevie Kinks",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6aea8b6173dd35000101201b",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Little Big Town - For The Art Of It Tour",
+   "date": "2026-11-19",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/little-big-town-for-the-art-chicago-illinois-11-19-2026/event/070064C47C531CFA",
+   "type": "concert",
+   "tickets": {
+    "box": 1109,
+    "resale": 216,
+    "checked": "2026-11-17T00:20:46.868Z",
+    "from": 14.5
+   }
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Jaap van Zweden & Vadim Gluzman",
+   "date": "2026-11-19",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Slow Pulp",
+   "date": "2026-11-19",
+   "time": "19:45:00",
+   "url": "https://www.ticketmaster.com/slow-pulp-chicago-illinois-11-19-2026/event/040064A8C78BF2FF",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:21:07.022Z",
+    "from": 45.5
+   }
+  },
+  {
+   "venue": "Metro",
+   "title": "Protomartyr",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://metrochicago.com/event/protomartyr/metro-chicago/chicago-illinois/",
+   "type": "concert"
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Charlie Zaa",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://www.jamusa.com/events/detail/charlie-zaa-1580334",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "Koastle",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-19-2026-koastle/",
+   "type": "concert"
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "Jazz Stories: Elaine Dame Featuring pianist Dennis Luxion",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ac6a95cf1329100019a289d",
+   "end": "21:15",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Sara Geist // State Alchemist // Wellthen",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a8a697fc861f80001487891",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Sold Out! The Writer’s Room: Anniversary Concert",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ac5446deaf7740001c6a838",
+   "end": "22:00",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "“Jim Ryan’s Classic Albums Night”",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/jim-ryans-classic-albums-night-81/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "The Filthy Heathens",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/the-filthy-heathens/",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Edgar Alejandro",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/edgar-alejandro-thalia-hall-tickets/14240144",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:13:17.760Z",
+    "from": 59.68
+   }
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Magi Merlin w/ MVTE",
+   "date": "2026-11-19",
+   "time": "21:00",
+   "url": "https://dice.fm/event/69fb8dfccda3f50001fd9603",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "LAVENDER: Queer Dance Social",
+   "date": "2026-11-19",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ad63ce04e2c340001e63880",
+   "type": "concert"
+  },
+  {
+   "venue": "Hideaway",
+   "title": "Empty Promises",
+   "date": "2026-11-19",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6afc8f96d936250001527c40",
+   "type": "concert"
   }
  ]
 }
