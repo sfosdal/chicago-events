@@ -5952,6 +5952,429 @@
    "time": "22:00:00",
    "url": "https://ramovachicago.com/calendar",
    "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Open Mic Comedy",
+   "date": "2026-11-21",
+   "time": "",
+   "url": "https://www.reggieslive.com/show/open-mic-comedy-245/",
+   "type": "concert"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Symphonic Superheroes",
+   "date": "2026-11-21",
+   "time": "12:45:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Credit Union 1 Arena",
+   "title": "UIC Flames Women's Basketball v Ball State",
+   "date": "2026-11-21",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/uic-flames-womens-basketball-v-ball-chicago-illinois-11-21-2026/event/04006545BFCBA939",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:46:25.797Z",
+    "from": 15.3
+   }
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "A Midsummer Night's Dream",
+   "date": "2026-11-21",
+   "time": "13:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-21",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-21-2026/event/070064F1D2FF87EE",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:46:45.805Z",
+    "from": 82.28
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Lemon",
+   "title": "Groove Fest",
+   "date": "2026-11-21",
+   "time": "16:00",
+   "url": "https://dice.fm/event/6aea9d9d2c05400001fea00e",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Dave Herrero",
+   "date": "2026-11-21",
+   "time": "17:00",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Beat Kitchen",
+   "title": "Earlybirds Club - Madonna-rama",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6aa83e79f210400001cdda0f",
+   "end": "22:00",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "Trivium: Crown In The Grave World Tour",
+   "date": "2026-11-21",
+   "time": "18:35:00",
+   "url": "https://www.ticketmaster.com/trivium-crown-in-the-grave-world-chicago-illinois-11-21-2026/event/040064E8F7D59A10",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 1929,
+    "resale": 0,
+    "checked": "2026-11-21T00:46:48.806Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "George Lopez",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/george-lopez-chicago-illinois-11-21-2026/event/070064B3A59D32D9",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:47:08.822Z",
+    "from": 53.25
+   }
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Dax - The Anger Management Tour",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/dax-the-anger-management-tour-chicago-illinois-11-21-2026/event/040064ACE9FBEAB8",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:02:43.612Z",
+    "from": 39.75
+   }
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Zac Brown Band: Love & Fear Tour",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/zac-brown-band-love-fear-tour-rosemont-illinois-11-21-2026/event/04006431DF0D8823",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:47:49.241Z",
+    "from": 65.1
+   }
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "Giant Rooks",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/giant-rooks-1434662",
+   "type": "concert"
+  },
+  {
+   "venue": "Park West",
+   "title": "The Smithereens",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/the-smithereens-1622814",
+   "type": "concert"
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "Anna Caldwell: The View From Here",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6a077dec11633e0001dd98bc",
+   "end": "21:00",
+   "type": "concert"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Jersey Boys (Chicago)",
+   "date": "2026-11-21",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jersey-boys-chicago-chicago-illinois-11-21-2026/event/070064F1D2F787D8",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T01:03:23.790Z",
+    "from": 99.43
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Jaap van Zweden & Vadim Gluzman",
+   "date": "2026-11-21",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "Ax and the Hatchetmen: The Late Checkout Tour 2026",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.jamusa.com/events/detail/ax-and-the-hatchetmen-the-late-checkout-tour-2026-1449334",
+   "type": "concert"
+  },
+  {
+   "venue": "Metro",
+   "title": "Neurosis",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://metrochicago.com/event/neurosis/metro-chicago/chicago-illinois/",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "Surprise Chef",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-21-2026-surprise-chef/",
+   "type": "concert"
+  },
+  {
+   "venue": "Chop Shop",
+   "title": "Sir Woman \"Playtime tour\"",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a8df7183a999c00018e0cfc",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "House of Heavy",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6aaabf64eacc0d00016fc35e",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Rhythms of Life",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6af623ce900b4a0001959f64",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Cult Canyon // Wuji Bop",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6add0399f0914a0001ffc94a",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Good Heat",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ada55201908530001d6290a",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Judson & Moore Distillery",
+   "title": "Olivia & the Lovers with becks! and foxtooth",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ac05f1727a6d200012295e2",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "House of Burlesque - hosted by Hot Tawdry",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.ticketmaster.com/house-of-burlesque-hosted-by-hot-chicago-illinois-11-21-2026/event/0400655C2CFF3C97",
+   "type": "concert",
+   "tickets": {
+    "box": 36,
+    "resale": 0,
+    "checked": "2026-11-21T00:48:11.771Z",
+    "from": 14.99
+   }
+  },
+  {
+   "venue": "Reggies",
+   "title": "Vethaken + We Used To Cut The Grass",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/vethaken-we-used-to-cut-the-grass/",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Stevie Wonder Songs in The Key of Life Performances 50th Anniversary",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/stevie-wonder-songs-in-the-key-chicago-illinois-11-21-2026/event/04006523D04E7665",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T01:03:47.956Z",
+    "from": 374.4
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "2026 Beyond Hunger Benefit with Death Cab for Cutie",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/2026-beyond-hunger-benefit-with-death-chicago-illinois-11-21-2026/event/040064E9DC55F67B",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:48:52.127Z",
+    "from": 98.15
+   }
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "*CANCELLED* They Are Gutting a Body of Water 'In the Round' with Truth Club",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/cancelled-they-are-gutting-a-thalia-hall-tickets/14921643",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-20T17:23:31.327Z"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Matt Sandelin / My Autumn Attic / Cxpital / Hemlock Row",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ae3bcf106f99f0001870cff",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Mamas Gun w/ Kendra Morris",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "https://dice.fm/event/69ca9e9818fda700010a2153",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "The Björkening: an All-Drag Bjïrthday Celebration",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6acd45155820760001054336",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "SOUL Saturday with Shea Butta Band",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Wookiefoot, Heatbox, Jared Rabin",
+   "date": "2026-11-21",
+   "time": "21:30:00",
+   "url": "https://www.ticketweb.com/event/wookiefoot-heatbox-jared-rabin-reggies-rock-club-tickets/14299574?REFERRAL_ID=tmfeed",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:23:42.347Z",
+    "from": 33.7
+   }
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "EPTIC - Ages 18+",
+   "date": "2026-11-21",
+   "time": "21:30:00",
+   "url": "https://ramovachicago.com/calendar",
+   "type": "concert"
+  },
+  {
+   "venue": "Concord Music Hall",
+   "title": "OMNOM",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://concordmusichall.com/calendar/omnom/",
+   "type": "concert"
+  },
+  {
+   "venue": "Spybar",
+   "title": "Tre Reynolds",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ac6ecf6f8dd13000109698e",
+   "type": "concert"
+  },
+  {
+   "venue": "Smoke & Mirrors",
+   "title": "ISAbella",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad1b00306206d0001699912",
+   "type": "concert"
+  },
+  {
+   "venue": "Radius",
+   "title": "Madeon (18 and Over with Government ID)",
+   "date": "2026-11-21",
+   "time": "22:00:00",
+   "url": "https://www.radius-chicago.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "HA/HA to Hell",
+   "date": "2026-11-21",
+   "time": "22:30",
+   "url": "https://www.reggieslive.com/show/ha-ha-to-hell-32/",
+   "type": "concert"
   }
  ]
 }
