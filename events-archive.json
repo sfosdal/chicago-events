@@ -5438,6 +5438,14 @@
   },
   {
    "venue": "The Chicago Theatre",
+   "title": "Little Big Town",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "url": "https://www.msg.com/events-tickets/little-big-town-the-chicago-theatre-november-2026/070064C47C531CFA",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
    "title": "Little Big Town - For The Art Of It Tour",
    "date": "2026-11-19",
    "time": "19:30:00",
@@ -5648,6 +5656,14 @@
     "checked": "2026-11-17T00:33:35.550Z",
     "from": 11
    }
+  },
+  {
+   "venue": "The Chicago Theatre",
+   "title": "Nurse John",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://www.msg.com/events-tickets/nurse-john-the-chicago-theatre-november-2026/070064A4EEE0777B",
+   "type": "concert"
   },
   {
    "venue": "United Center",
@@ -5910,6 +5926,14 @@
   },
   {
    "venue": "The Chicago Theatre",
+   "title": "Nurse John",
+   "date": "2026-11-20",
+   "time": "22:00",
+   "url": "https://www.msg.com/events-tickets/nurse-john-the-chicago-theatre-november-2026/07006504ADC84594",
+   "type": "concert"
+  },
+  {
+   "venue": "The Chicago Theatre",
    "title": "Nurse John: Against Medical Advice Tour",
    "date": "2026-11-20",
    "time": "22:00:00",
@@ -6052,15 +6076,9 @@
    "venue": "The Chicago Theatre",
    "title": "George Lopez",
    "date": "2026-11-21",
-   "time": "19:00:00",
-   "url": "https://www.ticketmaster.com/george-lopez-chicago-illinois-11-21-2026/event/070064B3A59D32D9",
-   "type": "arts",
-   "tickets": {
-    "box": null,
-    "resale": 0,
-    "checked": "2026-11-21T00:47:08.822Z",
-    "from": 53.25
-   }
+   "time": "19:00",
+   "url": "https://www.msg.com/events-tickets/george-lopez-the-chicago-theatre-november-2026/070064B3A59D32D9",
+   "type": "concert"
   },
   {
    "venue": "Chicago Shakespeare",
