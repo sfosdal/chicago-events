@@ -6648,6 +6648,146 @@
     "checked": "2026-11-21T00:24:00.052Z",
     "from": 27.29
    }
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Amorphis & Insomnium",
+   "date": "2026-11-23",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/amorphis-insomnium-chicago-illinois-11-23-2026/event/04006518F16C09DD",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:30:01.798Z",
+    "from": 39.75
+   }
+  },
+  {
+   "venue": "Reggies",
+   "title": "Rotting Out, Fuerza Bruta, Home Invasion, Majesty, Lifetrial",
+   "date": "2026-11-23",
+   "time": "18:30:00",
+   "url": "https://www.ticketweb.com/event/rotting-out-fuerza-bruta-reggies-rock-club-tickets/14377704?REFERRAL_ID=tmfeed",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:13.974Z",
+    "from": 20
+   }
+  },
+  {
+   "venue": "Color Club",
+   "title": "Diaspora Duos",
+   "date": "2026-11-23",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6ae8ca60814cb70001cf74af",
+   "end": "21:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Zack’s Open Mic",
+   "date": "2026-11-23",
+   "time": "19:00",
+   "url": "https://www.reggieslive.com/show/zacks-open-mic-40/",
+   "type": "concert"
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Bulls vs. Cleveland Cavaliers",
+   "date": "2026-11-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-bulls-vs-cleveland-cavaliers-chicago-illinois-11-23-2026/event/0400650EE89A2C0A",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:30:21.964Z",
+    "from": 31.2
+   }
+  },
+  {
+   "venue": "The CheckOut",
+   "title": "Op*erratic, an improv opera",
+   "date": "2026-11-23",
+   "time": "19:30",
+   "url": "https://dice.fm/event/6aea17dc53eca80001da5503",
+   "end": "20:40",
+   "type": "concert"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "Bach???s Mass in B Minor",
+   "date": "2026-11-23",
+   "time": "19:30:00",
+   "url": "https://cso.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "Jorja Smith",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "url": "https://www.jamusa.com/events/detail/jorja-smith-1541842",
+   "type": "concert"
+  },
+  {
+   "venue": "Lincoln Hall",
+   "title": "Stella Lefty",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "url": "https://lh-st.com/shows/11-23-2026-stella-lefty/",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Industry Night w/ DJ Buzzi",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae37bda007bd000010cc121",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Model Cars // Industrial Milk // Big Onion",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ad54bedaadbc90001305acc",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Monday Night Bingo!",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/monday-night-bingo-36/",
+   "type": "concert"
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "*Sold Out* Kyle Kinane",
+   "date": "2026-11-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/sold-out-kyle-kinane-thalia-hall-tickets/14834133",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:15.763Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Hideaway",
+   "title": "Industry Mondays",
+   "date": "2026-11-23",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6b03cc73ad89d00001716c28",
+   "type": "concert"
   }
  ]
 }
