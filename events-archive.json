@@ -6788,6 +6788,169 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6b03cc73ad89d00001716c28",
    "type": "concert"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "A Midsummer Night's Dream",
+   "date": "2026-11-24",
+   "time": "13:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Devil Master / Baazlvaat / Jail / Glorious Descent",
+   "date": "2026-11-24",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6aa1c5f60b2e1f000100bf96",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "Underoath - Define the Great Line 20th Anniversary Tour",
+   "date": "2026-11-24",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/underoath-define-the-great-line-20th-chicago-illinois-11-24-2026/event/040064C3DBC5E22E",
+   "type": "concert",
+   "tickets": {
+    "box": 2010,
+    "resale": 0,
+    "checked": "2026-11-23T00:32:53.501Z",
+    "from": 47.5
+   }
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Black Label Society",
+   "date": "2026-11-24",
+   "time": "18:30",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/black-label-society-206605",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Videohead Video: Motel Hell and Slime City",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6aff3be73eb9730001db77d5",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Lemon",
+   "title": "Open Decks",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://dice.fm/event/6aeaa06a73dd350001a09cf5",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "South Loop Stand Up",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://www.reggieslive.com/show/south-loop-stand-up-45/",
+   "type": "concert"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Hip Hop Nutcracker (Chicago)",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-hip-hop-nutcracker-chicago-chicago-illinois-11-24-2026/event/070064E9A7C02389",
+   "type": "arts"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Blue Man Group - A New Holiday Surprise",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/blue-man-group-a-new-holiday-chicago-illinois-11-24-2026/event/0700650CA6F7E64E",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T00:33:33.867Z",
+    "from": 91.82
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Mrs. Doubtfire (Chicago)",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/mrs-doubtfire-chicago-chicago-illinois-11-24-2026/event/070064EAB2C63163",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Sabaton: Legends on Tour",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sabaton-legends-on-tour-chicago-illinois-11-24-2026/event/0400632AFF953C67",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:34:14.154Z",
+    "from": 62.9
+   }
+  },
+  {
+   "venue": "Park West",
+   "title": "JoJo",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "url": "https://www.jamusa.com/events/detail/jojo-1610512",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Koffin Kats and Voodoo Glow Skulls with the Raging Nathans + Tba",
+   "date": "2026-11-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketweb.com/event/koffin-kats-and-voodoo-glow-reggies-rock-club-tickets/15017353?REFERRAL_ID=tmfeed",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:24.545Z",
+    "from": 33.7
+   }
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "*Sold Out* Kyle Kinane",
+   "date": "2026-11-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/sold-out-kyle-kinane-thalia-hall-tickets/14834143",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:24:26.381Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Reggies",
+   "title": "Tipsy Tuesday w/ Mr. Blotto",
+   "date": "2026-11-24",
+   "time": "20:30",
+   "url": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-212/",
+   "type": "concert"
   }
  ]
 }
