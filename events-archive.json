@@ -6951,6 +6951,202 @@
    "time": "20:30",
    "url": "https://www.reggieslive.com/show/tipsy-tuesday-w-mr-blotto-212/",
    "type": "concert"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Hip Hop Nutcracker (Chicago)",
+   "date": "2026-11-25",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/the-hip-hop-nutcracker-chicago-chicago-illinois-11-25-2026/event/070064E9A7DE23A6",
+   "type": "arts"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Blue Man Group - A New Holiday Surprise",
+   "date": "2026-11-25",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/blue-man-group-a-new-holiday-chicago-illinois-11-25-2026/event/0700650CA703E656",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T00:39:52.779Z",
+    "from": 89.14
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "The Winter's Tale",
+   "date": "2026-11-25",
+   "time": "13:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Live Music w/ Brother John",
+   "date": "2026-11-25",
+   "time": "17:30",
+   "url": "",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "The Mainliners / The Nu-Viles / Liquids / Detonate",
+   "date": "2026-11-25",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6ab025a6473e140001f865e6",
+   "end": "22:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Turnover - Down On Earth Tour",
+   "date": "2026-11-25",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/turnover-down-on-earth-tour-chicago-illinois-11-25-2026/event/04006555DC37B264",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:40:12.964Z",
+    "from": 44.25
+   }
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Hip Hop Nutcracker (Chicago)",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-hip-hop-nutcracker-chicago-chicago-illinois-11-25-2026/event/070064E9A7D323A1",
+   "type": "arts"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Blue Man Group - A New Holiday Surprise",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/blue-man-group-a-new-holiday-chicago-illinois-11-25-2026/event/0700650CA6FEE653",
+   "type": "arts"
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Mrs. Doubtfire (Chicago)",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/mrs-doubtfire-chicago-chicago-illinois-11-25-2026/event/070064EAB2CC3167",
+   "type": "arts"
+  },
+  {
+   "venue": "Radius",
+   "title": "Bonobo - Ages 18+",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.radius-chicago.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Khaki Blazer",
+   "date": "2026-11-25",
+   "time": "19:30",
+   "url": "https://www.reggieslive.com/show/khaki-blazer/",
+   "type": "concert"
+  },
+  {
+   "venue": "Chop Shop",
+   "title": "The Tossers + Flatfoot 56 + Three Blue Teardrops",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a70e23f8667bd00016a282b",
+   "end": "23:30",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "No Thanks: A Thanksgiving Eve Family & Reunion show ft. Tony Kress & Ryan Kress",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6af07e2f5c607200016b86bc",
+   "type": "concert"
+  },
+  {
+   "venue": "Aragon Ballroom",
+   "title": "El Tri \"Adicto Al Rocanrol\"",
+   "date": "2026-11-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/el-tri-adicto-al-rocanrol-chicago-illinois-11-25-2026/event/040065140C27C34D",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:41:33.671Z",
+    "from": 102.75
+   }
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Venna with Khal!l",
+   "date": "2026-11-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/venna-with-khall-thalia-hall-tickets/15014393",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-25T00:08:59.582Z",
+    "from": 36.12
+   }
+  },
+  {
+   "venue": "Reggies",
+   "title": "Exhumed, Jarhead Fertilizer, Savage Master, Molder",
+   "date": "2026-11-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/exhumed-jarhead-fertilizer-savage-master-reggies-rock-club-tickets/15033143?REFERRAL_ID=tmfeed",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-25T00:09:01.527Z",
+    "from": 27.29
+   }
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Mas EDM",
+   "date": "2026-11-25",
+   "time": "21:00",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/mas-edm-192759",
+   "type": "concert"
+  },
+  {
+   "venue": "Sleeping Village",
+   "title": "Sleepiest Village: A Dark/Alternative Pajama Party",
+   "date": "2026-11-25",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6adfa32eb2d69f0001dd693d",
+   "type": "concert"
+  },
+  {
+   "venue": "Smoke & Mirrors",
+   "title": "Tengo Funk",
+   "date": "2026-11-25",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6adfb50e5fe1a20001836e46",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Hideaway",
+   "title": "Cedric Gervais",
+   "date": "2026-11-25",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ad40aa703bb5b0001f36e5f",
+   "type": "concert"
   }
  ]
 }
