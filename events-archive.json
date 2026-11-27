@@ -7147,6 +7147,29 @@
    "time": "22:00",
    "url": "https://dice.fm/event/6ad40aa703bb5b0001f36e5f",
    "type": "concert"
+  },
+  {
+   "venue": "Ambassador Hotel Gold Coast",
+   "title": "Thanksgiving Buffet",
+   "date": "2026-11-26",
+   "time": "12:00",
+   "url": "https://dice.fm/event/6ad2aaae849ebe0001525ee1",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Secret Dress Rehearsal Gig!",
+   "date": "2026-11-26",
+   "time": "19:00:00",
+   "url": "https://www.ticketweb.com/event/secret-dress-rehearsal-gig-reggies-rock-club-tickets/14384434?REFERRAL_ID=tmfeed",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-26T16:07:07.598Z",
+    "from": 20.87
+   }
   }
  ]
 }
