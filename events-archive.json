@@ -7170,6 +7170,339 @@
     "checked": "2026-11-26T16:07:07.598Z",
     "from": 20.87
    }
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Daily Bread - Vanishing Point Tour - 2 Day GA Pass (Valid 11/27-11/28)",
+   "date": "2026-11-27",
+   "time": "",
+   "url": "https://www.ticketmaster.com/daily-bread-vanishing-point-tour-2-chicago-illinois-11-27-2026/event/040064E9C1ECCF28",
+   "age21": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Hip Hop Nutcracker (Chicago)",
+   "date": "2026-11-27",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/the-hip-hop-nutcracker-chicago-chicago-illinois-11-27-2026/event/070064E9A7FE23BB",
+   "type": "arts"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Blue Man Group - A New Holiday Surprise",
+   "date": "2026-11-27",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/blue-man-group-a-new-holiday-chicago-illinois-11-27-2026/event/0700650CA713E65F",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-19T21:11:56.682Z",
+    "from": 67.97
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Mrs. Doubtfire (Chicago)",
+   "date": "2026-11-27",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/mrs-doubtfire-chicago-chicago-illinois-11-27-2026/event/070064EAB2D83173",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "A Midsummer Night's Dream",
+   "date": "2026-11-27",
+   "time": "14:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "CIBC Theatre",
+   "title": "Blue Man Group - A New Holiday Surprise",
+   "date": "2026-11-27",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/blue-man-group-a-new-holiday-chicago-illinois-11-27-2026/event/0700650CA708E659",
+   "type": "arts",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-19T21:12:36.817Z",
+    "from": 86.44
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "United Center",
+   "title": "Chicago Blackhawks vs. New York Rangers",
+   "date": "2026-11-27",
+   "time": "16:30:00",
+   "url": "https://www.ticketmaster.com/chicago-blackhawks-vs-new-york-rangers-chicago-illinois-11-27-2026/event/040064F0906E787F",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "TNT",
+     "truTV",
+     "HBO MAX",
+     "SN+"
+    ]
+   },
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T00:52:33.070Z",
+    "from": 105.78
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Golden Hour Featuring Vince Lazarus & DJ Woodi",
+   "date": "2026-11-27",
+   "time": "17:00",
+   "url": "https://dice.fm/event/6adbbe533d0732000162f231",
+   "end": "20:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Chop Shop",
+   "title": "Rhythm N Blessings Live Ft - The Soul Lounge Band",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "url": "https://dice.fm/event/6ae36453591c7e0001412df2",
+   "end": "21:00",
+   "type": "concert"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "Mark Hubbard & The Voices Friday After Thanksgiving Concert",
+   "date": "2026-11-27",
+   "time": "18:30",
+   "url": "https://www.ticketmaster.com/mark-hubbard-the-voices-friday-after-chicago-illinois-11-27-2026/event/04006521DB3BE8CF",
+   "type": "concert",
+   "tickets": {
+    "box": 10,
+    "resale": 0,
+    "checked": "2026-11-23T00:52:35.825Z",
+    "from": 14.99
+   }
+  },
+  {
+   "venue": "Vic Theatre",
+   "title": "BoDeans",
+   "date": "2026-11-27",
+   "time": "19:00",
+   "url": "https://www.jamusa.com/events/detail/bodeans-1484067",
+   "type": "concert"
+  },
+  {
+   "venue": "Cadillac Palace",
+   "title": "The Hip Hop Nutcracker (Chicago)",
+   "date": "2026-11-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-hip-hop-nutcracker-chicago-chicago-illinois-11-27-2026/event/070064E9A7F323B1",
+   "type": "arts"
+  },
+  {
+   "venue": "Nederlander Theatre",
+   "title": "Mrs. Doubtfire (Chicago)",
+   "date": "2026-11-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/mrs-doubtfire-chicago-chicago-illinois-11-27-2026/event/070064EAB2D2316C",
+   "type": "arts"
+  },
+  {
+   "venue": "Chicago Shakespeare",
+   "title": "A Midsummer Night's Dream",
+   "date": "2026-11-27",
+   "time": "19:00:00",
+   "url": "https://www.chicagoshakes.com/",
+   "type": "arts"
+  },
+  {
+   "venue": "House of Blues",
+   "title": "The Pineapple Thief",
+   "date": "2026-11-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-pineapple-thief-chicago-illinois-11-27-2026/event/04006486E389D6C9",
+   "type": "concert",
+   "tickets": {
+    "box": 1021,
+    "resale": 0,
+    "checked": "2026-11-23T00:53:18.949Z",
+    "from": 37.5
+   }
+  },
+  {
+   "venue": "Allstate Arena",
+   "title": "Chicago Wolves V Milwaukee Admirals",
+   "date": "2026-11-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chicago-wolves-v-milwaukee-admirals-rosemont-illinois-11-27-2026/event/040064EA9B008C6D",
+   "type": "sports"
+  },
+  {
+   "venue": "Symphony Center",
+   "title": "How to Train Your Dragon 2 in concert w/ Chicago Symphony Orchestra",
+   "date": "2026-11-27",
+   "time": "19:30:00",
+   "url": "https://cso.org/"
+  },
+  {
+   "venue": "Riviera Theatre",
+   "title": "A Drag Queen Christmas",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "url": "https://www.jamusa.com/events/detail/a-drag-queen-christmas-1471704",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Emo Night Brooklyn",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6aa967ea0bd0220001dda622",
+   "type": "concert"
+  },
+  {
+   "venue": "Color Club",
+   "title": "Hazel Krumm + Special Guests",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a98758d2e0be9000158af4f",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "The Burlington",
+   "title": "Wide Orbit // Marble Teeth // Lukas Pallisard",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6ae3a85060d2620001d73fdb",
+   "type": "concert"
+  },
+  {
+   "venue": "Epiphany Center for the Arts",
+   "title": "Free Blues Friday Featuring The Smiley Tillmon Band",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "url": "https://dice.fm/event/6a8644b23922880001bea078",
+   "end": "22:00",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Death Possession",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/death-possession/",
+   "type": "concert"
+  },
+  {
+   "venue": "Reggies",
+   "title": "Hendrix Birthday Bash",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "url": "https://www.reggieslive.com/show/hendrix-birthday-bash/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Salt Shed",
+   "title": "Daily Bread - Vanishing Point Tour",
+   "date": "2026-11-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/daily-bread-vanishing-point-tour-chicago-illinois-11-27-2026/event/040064E9C1D8CF05",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:53:59.270Z",
+    "from": 52.9
+   }
+  },
+  {
+   "venue": "Thalia Hall",
+   "title": "Pigface with En Esch and Scary Lady Sarah",
+   "date": "2026-11-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/pigface-with-en-esch-and-thalia-hall-tickets/14319864",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-26T16:07:22.187Z",
+    "from": 52.98
+   }
+  },
+  {
+   "venue": "Lemon",
+   "title": "Gabe Heinemann Quartet",
+   "date": "2026-11-27",
+   "time": "20:30",
+   "url": "https://dice.fm/event/6aeaa1af53eca80001883581",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Ramova Theatre",
+   "title": "Tchami",
+   "date": "2026-11-27",
+   "time": "21:00",
+   "url": "https://www.tixr.com/groups/ramovatheatre/events/tchami-199235",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobra Lounge",
+   "title": "Modele / Miss Misery / Grave Love",
+   "date": "2026-11-27",
+   "time": "21:00",
+   "url": "https://dice.fm/event/6ac92df8c5cdbb0001fdd0a0",
+   "end": "23:45",
+   "type": "concert"
+  },
+  {
+   "venue": "Concord Music Hall",
+   "title": "Daniel Allan",
+   "date": "2026-11-27",
+   "time": "22:00",
+   "url": "https://concordmusichall.com/calendar/daniel-allan-360-set/",
+   "type": "concert"
+  },
+  {
+   "venue": "Spybar",
+   "title": "ESSEL",
+   "date": "2026-11-27",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6aea525973dd35000180fc3b",
+   "type": "concert"
+  },
+  {
+   "venue": "Smoke & Mirrors",
+   "title": "On The Hhunt",
+   "date": "2026-11-27",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6afc81a168bc870001eba490",
+   "soldOut": true,
+   "type": "concert"
+  },
+  {
+   "venue": "Hideaway",
+   "title": "Third Party",
+   "date": "2026-11-27",
+   "time": "22:00",
+   "url": "https://dice.fm/event/6ab165136d5a1f0001af14cc",
+   "type": "concert"
+  },
+  {
+   "venue": "Radius",
+   "title": "Josh Baker - Ages 18+",
+   "date": "2026-11-27",
+   "time": "22:00:00",
+   "url": "https://www.radius-chicago.com/"
   }
  ]
 }
